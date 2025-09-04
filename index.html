@@ -1,3 +1,4 @@
+<!doctype html>
 <html lang="zh-CN">
 <head>
   <meta charset="utf-8">
@@ -6,12 +7,12 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
   <style>
     body { margin: 20px; font-family: Arial, sans-serif; }
-    .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
-    .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 20px; }
+    .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; flex-wrap: wrap; }
     .promo-buttons { display: flex; gap: 10px; align-items: center; }
     .promo-buttons a { display: flex; align-items: center; gap: 5px; font-size: 0.95rem; text-decoration: none; color: #000; }
     .promo-buttons a i { font-size: 1.2rem; }
     .promo-buttons a:hover { color: #007bff; }
+    .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 20px; }
     .table-container { max-height: 70vh; overflow-y: auto; }
     .last-updated { font-size: 0.9rem; color: #666; }
     .pagination { flex-wrap: nowrap; gap: 5px; }
@@ -19,7 +20,19 @@
   </style>
 </head>
 <body>
-  <h2 class="mb-3">Token 列表</h2>
+  <div class="header">
+    <h2 class="mb-0">Token 列表</h2>
+    <div class="promo-buttons">
+      <a href="https://x.com/你的账号" target="_blank" title="关注我的X账号">
+        <span>关注X</span>
+        <i class="bi bi-twitter"></i>
+      </a>
+      <a href="https://你的推广链接" target="_blank" title="推广链接">
+        <span>推广链接</span>
+        <i class="bi bi-share-fill"></i>
+      </a>
+    </div>
+  </div>
 
   <div class="controls">
     <select id="chainFilter" class="form-select" style="width: 150px;">
