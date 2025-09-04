@@ -134,7 +134,7 @@
     // 加载 data.json
     async function loadData() {
       try {
-        const res = await fetch("data.json");
+        const res = await fetch("data.json"?ts=" + new Date().getTime());
         const json = await res.json();
         allData = json.tokens || [];  // ⚠ 重点：必须用 json.tokens
         if(json.lastUpdated){
