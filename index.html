@@ -117,61 +117,7 @@
   </div>
 </div>
 
-<script>
-  // 初始化下拉框
-  const chains = [...new Set(allData.map(item => item.chainName))];
-  const pair1Chain = document.getElementById('pair1Chain');
-  const pair2Chain = document.getElementById('pair2Chain');
 
-  chains.forEach(chain => {
-    const opt1 = document.createElement('option');
-    opt1.value = chain; opt1.textContent = chain;
-    pair1Chain.appendChild(opt1);
-
-    const opt2 = document.createElement('option');
-    opt2.value = chain; opt2.textContent = chain;
-    pair2Chain.appendChild(opt2);
-  });
-
-  // 根据链查类别
-  const getCategory = (token, chain) => {
-    const found = allData.find(item => item.chainName === chain && item.symbol.toLowerCase() === token.toLowerCase());
-    return found ? (found.tag || 'other') : 'other';
-  };
-
-  // 点击计算倍率
-  document.getElementById('calcPair').addEventListener('click', () => {
-    const token1 = document.getElementById('pair1Token').value.trim();
-    const chain1 = document.getElementById('pair1Chain').value;
-    const token2 = document.getElementById('pair2Token').value.trim();
-    const chain2 = document.getElementById('pair2Chain').value;
-
-    if (!token1 || !token2) {
-      document.getElementById('pairResult').textContent = '请填写两个币种';
-      return;
-    }
-
-    const cat1 = getCategory(token1, chain1);
-    const cat2 = getCategory(token2, chain2);
-
-    let ratio = '不计入';
-
-    if ((cat1 === 'Group1' && cat2 === 'Group2') || (cat1 === 'Group2' && cat2 === 'Group1')) {
-      ratio = '0.25 倍';
-    } else if (cat1 === 'Group2' && cat2 === 'Group2') {
-      ratio = '0.25 倍';
-    } else if ((cat1 === 'Group1' && cat2 === 'other') || (cat1 === 'Group2' && cat2 === 'other') ||
-               (cat1 === 'other' && cat2 === 'Group1') || (cat1 === 'other' && cat2 === 'Group2')) {
-      ratio = '1 倍';
-    } else if (cat1 === 'Group1' && cat2 === 'Group1') {
-      ratio = '不计入';
-    } else if (cat1 === 'other' && cat2 === 'other') {
-      ratio = '不计入';
-    }
-
-    document.getElementById('pairResult').textContent = `倍率：${ratio}`;
-  });
-</script>
   <script>
     let pageSize = 15;
     let currentPage = 1;
@@ -297,5 +243,60 @@
 
     loadData();
   </script>
+  <script>
+  // 初始化下拉框
+  const chains = [...new Set(allData.map(item => item.chainName))];
+  const pair1Chain = document.getElementById('pair1Chain');
+  const pair2Chain = document.getElementById('pair2Chain');
+
+  chains.forEach(chain => {
+    const opt1 = document.createElement('option');
+    opt1.value = chain; opt1.textContent = chain;
+    pair1Chain.appendChild(opt1);
+
+    const opt2 = document.createElement('option');
+    opt2.value = chain; opt2.textContent = chain;
+    pair2Chain.appendChild(opt2);
+  });
+
+  // 根据链查类别
+  const getCategory = (token, chain) => {
+    const found = allData.find(item => item.chainName === chain && item.symbol.toLowerCase() === token.toLowerCase());
+    return found ? (found.tag || 'other') : 'other';
+  };
+
+  // 点击计算倍率
+  document.getElementById('calcPair').addEventListener('click', () => {
+    const token1 = document.getElementById('pair1Token').value.trim();
+    const chain1 = document.getElementById('pair1Chain').value;
+    const token2 = document.getElementById('pair2Token').value.trim();
+    const chain2 = document.getElementById('pair2Chain').value;
+
+    if (!token1 || !token2) {
+      document.getElementById('pairResult').textContent = '请填写两个币种';
+      return;
+    }
+
+    const cat1 = getCategory(token1, chain1);
+    const cat2 = getCategory(token2, chain2);
+
+    let ratio = '不计入';
+
+    if ((cat1 === 'Group1' && cat2 === 'Group2') || (cat1 === 'Group2' && cat2 === 'Group1')) {
+      ratio = '0.25 倍';
+    } else if (cat1 === 'Group2' && cat2 === 'Group2') {
+      ratio = '0.25 倍';
+    } else if ((cat1 === 'Group1' && cat2 === 'other') || (cat1 === 'Group2' && cat2 === 'other') ||
+               (cat1 === 'other' && cat2 === 'Group1') || (cat1 === 'other' && cat2 === 'Group2')) {
+      ratio = '1 倍';
+    } else if (cat1 === 'Group1' && cat2 === 'Group1') {
+      ratio = '不计入';
+    } else if (cat1 === 'other' && cat2 === 'other') {
+      ratio = '不计入';
+    }
+
+    document.getElementById('pairResult').textContent = `倍率：${ratio}`;
+  });
+</script>
 </body>
 </html>
