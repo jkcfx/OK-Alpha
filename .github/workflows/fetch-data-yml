@@ -17,7 +17,7 @@ jobs:
 
       - name: Fetch all pages
         run: |
-          API_URL="https://your-api-url.com/endpoint"
+          API_URL="https://web3.okx.com/priapi/v1/dx/trade/multi/getAllTokenTagInfo"
           PAGE_SIZE=100
 
           echo "[]" > all.json   # 初始化空数组
