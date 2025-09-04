@@ -256,18 +256,38 @@
   });
 
   // 更新 datalist
-  function updateTokenLists() {
-    const chain = pairChain.value;
-    const tokens = allData.filter(item => item.chainName === chain).map(item => item.symbol);
-    [tokenList1, tokenList2].forEach(dl => {
-      dl.innerHTML = "";
-      tokens.forEach(t => {
+  // 更新 datalist
+function updateTokenLists() {
+  const chain = pairChain.value;
+  const tokens = allData.filter(item => item.chainName === chain).map(item => item.symbol);
+
+  function bindInputFilter(inputId, datalistEl) {
+    const inputEl = document.getElementById(inputId);
+    inputEl.addEventListener("input", () => {
+      const keyword = inputEl.value.trim().toLowerCase();
+      datalistEl.innerHTML = "";
+      let matched;
+      if (!keyword) {
+        // 没输入时显示全部
+        matched = tokens;
+      } else {
+        // 严格前缀匹配
+        matched = tokens.filter(t => t.toLowerCase().startsWith(keyword));
+      }
+      matched.forEach(t => {
         const opt = document.createElement("option");
         opt.value = t;
-        dl.appendChild(opt);
+        datalistEl.appendChild(opt);
       });
     });
+    // 初始填充
+    inputEl.dispatchEvent(new Event("input"));
   }
+
+  bindInputFilter("pair1Token", tokenList1);
+  bindInputFilter("pair2Token", tokenList2);
+}
+
 
   pairChain.addEventListener("change", updateTokenLists);
 
