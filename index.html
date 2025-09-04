@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="zh-CN">
 <head>
   <meta charset="utf-8">
@@ -9,26 +8,19 @@
     body { margin: 20px; font-family: Arial, sans-serif; }
     .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
     .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 20px; }
+    .promo-buttons { display: flex; gap: 10px; align-items: center; }
+    .promo-buttons a { display: flex; align-items: center; gap: 5px; font-size: 0.95rem; text-decoration: none; color: #000; }
+    .promo-buttons a i { font-size: 1.2rem; }
+    .promo-buttons a:hover { color: #007bff; }
     .table-container { max-height: 70vh; overflow-y: auto; }
     .last-updated { font-size: 0.9rem; color: #666; }
     .pagination { flex-wrap: nowrap; gap: 5px; }
     .page-size-select { width: 100px; }
-    .promo-icons a { font-size: 1.4rem; margin-left: 10px; color: #000; }
-    .promo-icons a:hover { color: #007bff; }
   </style>
 </head>
 <body>
-  <div class="header">
-    <h2 class="mb-0">Token 列表</h2>
-    <div class="promo-icons">
-      <a href="https://x.com/你的账号" target="_blank" title="关注我的X账号">
-        <i class="bi bi-twitter"></i>
-      </a>
-      <a href="https://你的推广链接" target="_blank" title="推广链接">
-        <i class="bi bi-share-fill"></i>
-      </a>
-    </div>
-  </div>
+  <h2 class="mb-3">Token 列表</h2>
+
   <div class="controls">
     <select id="chainFilter" class="form-select" style="width: 150px;">
       <option value="">全部链</option>
@@ -43,8 +35,19 @@
       <option value="50">50/页</option>
     </select>
     <span class="last-updated ms-3" id="lastUpdated"></span>
-  </div>
 
+    <!-- 推广按钮 -->
+    <div class="promo-buttons ms-auto">
+      <a href="https://x.com/你的账号" target="_blank" title="关注我的X账号">
+        <span>关注X</span>
+        <i class="bi bi-twitter"></i>
+      </a>
+      <a href="https://你的推广链接" target="_blank" title="推广链接">
+        <span>推广链接</span>
+        <i class="bi bi-share-fill"></i>
+      </a>
+    </div>
+  </div>
   <div class="table-container">
     <table class="table table-striped table-bordered table-hover">
       <thead class="table-dark">
