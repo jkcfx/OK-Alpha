@@ -33,24 +33,20 @@
 </a>
  <!-- 邀请码文字 -->
   <div style="font-weight: bold; color: #00bfff;">
-    更多8折邀请码点击复制：
-    <span class="invite-code" data-code="BTC200K" style="cursor:pointer;">BTC200K</span>，
-    <span class="invite-code" data-code="ETH16K" style="cursor:pointer;">ETH16K</span>，
-    <span class="invite-code" data-code="CFX36U" style="cursor:pointer;">CFX36U</span>
+    更多8折邀请码点击即用：
+    <a href="https://web3.okx.com/ul/joindex?ref=BTC200K" target="_blank" title="BTC200K" style="display: flex; align-items: center; gap: 5px;">
+  <span style="font-weight: bold;color: #00bfff;">BTC200K</span>
+</a>
+    <a href="https://web3.okx.com/ul/joindex?ref=ETH16K" target="_blank" title="ETH16K" style="display: flex; align-items: center; gap: 5px;">
+  <span style="font-weight: bold;color: #00bfff;">ETH16K</span>
+</a>
+    <a href="https://web3.okx.com/ul/joindex?ref=CFX36U" target="_blank" title="CFX36U" style="display: flex; align-items: center; gap: 5px;">
+  <span style="font-weight: bold;color: #00bfff;">CFX36U</span>
+</a>
   </div>
 </div>
 
-<script>
-  // 点击邀请码复制到剪贴板
-  document.querySelectorAll('.invite-code').forEach(el => {
-    el.addEventListener('click', () => {
-      const code = el.getAttribute('data-code');
-      navigator.clipboard.writeText(code).then(() => {
-        alert(`邀请码 ${code} 已复制！`);
-      });
-    });
-  });
-</script>
+
     </div>
   </div>
 
