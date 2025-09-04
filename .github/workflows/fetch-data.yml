@@ -2,7 +2,7 @@ name: Fetch All Tokens
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # 每 4 小时执行一次
+    - cron: "0 */4 * * *"   # 每 4 小时执行一次
   workflow_dispatch:
 
 jobs:
@@ -44,13 +44,19 @@ jobs:
             mv merged.json all.json
           done
 
-          # 最终生成 data.json
-          mv all.json data.json
+          # 获取工作流当前运行时间（Unix 时间戳）
+          last_updated=$(date +%s)
+
+          # 生成最终 data.json，包含 tokens 和 lastUpdated
+          jq -n --argjson tokens "$(cat all.json)" --arg lastUpdated "$last_updated" \
+            '{lastUpdated: ($lastUpdated|tonumber), tokens: $tokens}' > data.json
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git commit -m "Update data.json from API" || echo "No changes to commit"
+          git commit -m "Update data.json from API [skip ci]" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
