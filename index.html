@@ -31,7 +31,26 @@
   <span style="font-weight: bold; color: #00bfff;">手续费8折</span>
   <img src="iokx.png" alt="手续费8折" width="20" height="20">
 </a>
+ <!-- 邀请码文字 -->
+  <div style="font-weight: bold; color: #00bfff;">
+    更多8折邀请码点击复制：
+    <span class="invite-code" data-code="邀请码1" style="cursor:pointer;">BTC200K</span>，
+    <span class="invite-code" data-code="邀请码2" style="cursor:pointer;">ETH16K</span>，
+    <span class="invite-code" data-code="邀请码3" style="cursor:pointer;">CFX36U</span>
+  </div>
+</div>
 
+<script>
+  // 点击邀请码复制到剪贴板
+  document.querySelectorAll('.invite-code').forEach(el => {
+    el.addEventListener('click', () => {
+      const code = el.getAttribute('data-code');
+      navigator.clipboard.writeText(code).then(() => {
+        alert(`邀请码 ${code} 已复制！`);
+      });
+    });
+  });
+</script>
     </div>
   </div>
 
