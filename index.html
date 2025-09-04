@@ -85,186 +85,227 @@
   <nav>
     <ul class="pagination justify-content-center" id="pagination"></ul>
   </nav>
-  <div style="margin-top: 40px; border-top: 2px solid #ddd; padding-top: 20px;">
-    <h3 style="font-weight: bold; color: #007bff;">交易对测试</h3>
+ <!-- 交易对测试 -->
+<div style="margin-top: 40px; border-top: 2px solid #ddd; padding-top: 20px;">
+  <h3 style="font-weight: bold; color: #007bff;">交易对测试</h3>
 
-    <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-end;">
-      <div>
-        <label>链 1：</label>
-        <select id="pair1Chain"></select>
-        <label>币种 1：</label>
-        <input type="text" id="pair1Token" placeholder="输入币种">
-      </div>
-      <div>
-        <label>链 2：</label>
-        <select id="pair2Chain"></select>
-        <label>币种 2：</label>
-        <input type="text" id="pair2Token" placeholder="输入币种">
-      </div>
-      <div>
-        <button id="calcPair">计算倍率</button>
-      </div>
+  <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-end;">
+    <div>
+      <label>链：</label>
+      <select id="pairChain"></select>
     </div>
-    <div id="pairResult">倍率：</div>
+
+    <div>
+      <label>币种 1：</label>
+      <input list="tokenList1" id="pair1Token" placeholder="输入或选择币种">
+      <datalist id="tokenList1"></datalist>
+    </div>
+
+    <div>
+      <label>币种 2：</label>
+      <input list="tokenList2" id="pair2Token" placeholder="输入或选择币种">
+      <datalist id="tokenList2"></datalist>
+    </div>
+
+    <div>
+      <button id="calcPair" style="padding: 6px 12px; font-weight: bold; color: #fff; background-color: #00bfff; border: none; border-radius: 4px; cursor: pointer;">
+        计算倍率
+      </button>
+    </div>
   </div>
 
-  <script>
-    let allData = [];
-    let filteredData = [];
-    let pageSize = 15;
-    let currentPage = 1;
+  <div id="pairResult" style="margin-top: 15px; font-weight: bold; color: #007bff;">
+    倍率：
+  </div>
+</div>
 
-    const chainFilter = document.getElementById("chainFilter");
-    const searchInput = document.getElementById("searchInput");
-    const searchBtn = document.getElementById("searchBtn");
-    const tableBody = document.getElementById("tableBody");
-    const pagination = document.getElementById("pagination");
-    const lastUpdatedEl = document.getElementById("lastUpdated");
-    const pageSizeSelect = document.getElementById("pageSizeSelect");
+<script>
+  let allData = [];
+  let filteredData = [];
+  let pageSize = 15;
+  let currentPage = 1;
 
-    const pair1Chain = document.getElementById('pair1Chain');
-    const pair2Chain = document.getElementById('pair2Chain');
+  const chainFilter = document.getElementById("chainFilter");
+  const searchInput = document.getElementById("searchInput");
+  const searchBtn = document.getElementById("searchBtn");
+  const tableBody = document.getElementById("tableBody");
+  const pagination = document.getElementById("pagination");
+  const lastUpdatedEl = document.getElementById("lastUpdated");
+  const pageSizeSelect = document.getElementById("pageSizeSelect");
 
-    async function loadData() {
-      try {
-        const res = await fetch("data.json?ts=" + new Date().getTime());
-        const json = await res.json();
-        allData = json.tokens || [];
+  const pairChain = document.getElementById("pairChain");
+  const tokenList1 = document.getElementById("tokenList1");
+  const tokenList2 = document.getElementById("tokenList2");
 
-        // 更新时间
-        if(json.lastUpdated){
-          const date = new Date(json.lastUpdated * 1000);
-          lastUpdatedEl.textContent = "更新时间: " + date.toLocaleString();
-        }
+  async function loadData() {
+    try {
+      const res = await fetch("data.json?ts=" + new Date().getTime());
+      const json = await res.json();
+      allData = json.tokens || [];
 
-        // Token 列表下拉
-        initFilters(allData);
-        applyFilters();
-
-        // 交易对测试链下拉
-        const chains = [...new Set(allData.map(item => item.chainName))];
-        [pair1Chain, pair2Chain].forEach(selectEl => {
-          selectEl.innerHTML = "";
-          chains.forEach(chain => {
-            const opt = document.createElement("option");
-            opt.value = chain; opt.textContent = chain;
-            selectEl.appendChild(opt);
-          });
-        });
-
-      } catch (err) {
-        console.error("加载数据失败:", err);
+      // 更新时间
+      if (json.lastUpdated) {
+        const date = new Date(json.lastUpdated * 1000);
+        lastUpdatedEl.textContent = "更新时间: " + date.toLocaleString();
       }
-    }
 
-    function initFilters(data){
-      const chains = [...new Set(data.map(item => item.chainName))];
-      chainFilter.innerHTML = '<option value="">全部链</option>';
-      chains.forEach(chain=>{
+      // Token 列表下拉
+      initFilters(allData);
+      applyFilters();
+
+      // 交易对测试链下拉
+      const chains = [...new Set(allData.map(item => item.chainName))];
+      pairChain.innerHTML = "";
+      chains.forEach(chain => {
         const opt = document.createElement("option");
-        opt.value = chain; opt.textContent = chain;
-        chainFilter.appendChild(opt);
+        opt.value = chain;
+        opt.textContent = chain;
+        pairChain.appendChild(opt);
       });
+
+      // 默认填充 datalist
+      updateTokenLists();
+
+    } catch (err) {
+      console.error("加载数据失败:", err);
     }
+  }
 
-    function renderTable(data, page){
-      tableBody.innerHTML = "";
-      const start = (page - 1) * pageSize;
-      const end = start + pageSize;
-      const pageData = data.slice(start, end);
-      pageData.forEach(item=>{
-        const tr = document.createElement("tr");
-        tr.innerHTML = `
-          <td>${item.chainName}</td>
-          <td>${item.symbol}</td>
-          <td>${item.tokenAddress}</td>
-          <td>${item.tag || ""}</td>
-          <td>${new Date(item.lastModifiedTime * 1000).toLocaleString()}</td>
-        `;
-        tableBody.appendChild(tr);
-      });
-      renderPagination(data.length, page);
-    }
-
-    function renderPagination(totalItems, page){
-      pagination.innerHTML = "";
-      const totalPages = Math.ceil(totalItems / pageSize);
-      if(totalPages <= 1) return;
-
-      const prevLi = document.createElement("li");
-      prevLi.className = "page-item" + (page===1?" disabled":"");
-      const prevBtn = document.createElement("button");
-      prevBtn.className="page-link"; prevBtn.textContent="«";
-      prevBtn.onclick = ()=>{ if(page>1){currentPage--; renderTable(filteredData,currentPage);} };
-      prevLi.appendChild(prevBtn); pagination.appendChild(prevLi);
-
-      const currLi = document.createElement("li");
-      currLi.className="page-item active";
-      const currBtn=document.createElement("button"); currBtn.className="page-link";
-      currBtn.textContent=`${page} / ${totalPages}`; currBtn.disabled=true;
-      currLi.appendChild(currBtn); pagination.appendChild(currLi);
-
-      const nextLi=document.createElement("li");
-      nextLi.className="page-item" + (page===totalPages?" disabled":"");
-      const nextBtn=document.createElement("button"); nextBtn.className="page-link";
-      nextBtn.textContent="»";
-      nextBtn.onclick = ()=>{ if(page<totalPages){currentPage++; renderTable(filteredData,currentPage);} };
-      nextLi.appendChild(nextBtn); pagination.appendChild(nextLi);
-    }
-
-    function applyFilters(){
-      const chain = chainFilter.value.trim();
-      const keyword = searchInput.value.trim().toLowerCase();
-      filteredData = allData.filter(item=>{
-        const matchChain = !chain || item.chainName===chain;
-        const matchKeyword = !keyword || item.symbol.toLowerCase().includes(keyword) || item.tokenAddress.toLowerCase().includes(keyword);
-        return matchChain && matchKeyword;
-      });
-      currentPage = 1;
-      renderTable(filteredData,currentPage);
-    }
-
-    searchBtn.addEventListener("click", applyFilters);
-    chainFilter.addEventListener("change", applyFilters);
-    searchInput.addEventListener("keypress",(e)=>{if(e.key==="Enter") applyFilters();});
-    pageSizeSelect.addEventListener("change",()=>{
-      pageSize=parseInt(pageSizeSelect.value); currentPage=1;
-      renderTable(filteredData,currentPage);
+  function initFilters(data) {
+    const chains = [...new Set(data.map(item => item.chainName))];
+    chainFilter.innerHTML = '<option value="">全部链</option>';
+    chains.forEach(chain => {
+      const opt = document.createElement("option");
+      opt.value = chain;
+      opt.textContent = chain;
+      chainFilter.appendChild(opt);
     });
+  }
 
-    // 交易对测试
-    const getCategory = (token, chain)=>{
-      const found = allData.find(item=>item.chainName===chain && item.symbol.toLowerCase()===token.toLowerCase());
-      return found ? (found.tag||'other') : 'other';
+  function renderTable(data, page) {
+    tableBody.innerHTML = "";
+    const start = (page - 1) * pageSize;
+    const end = start + pageSize;
+    const pageData = data.slice(start, end);
+    pageData.forEach(item => {
+      const tr = document.createElement("tr");
+      tr.innerHTML = `
+        <td>${item.chainName}</td>
+        <td>${item.symbol}</td>
+        <td>${item.tokenAddress}</td>
+        <td>${item.tag || ""}</td>
+        <td>${new Date(item.lastModifiedTime * 1000).toLocaleString()}</td>
+      `;
+      tableBody.appendChild(tr);
+    });
+    renderPagination(data.length, page);
+  }
+
+  function renderPagination(totalItems, page) {
+    pagination.innerHTML = "";
+    const totalPages = Math.ceil(totalItems / pageSize);
+    if (totalPages <= 1) return;
+
+    const prevLi = document.createElement("li");
+    prevLi.className = "page-item" + (page === 1 ? " disabled" : "");
+    const prevBtn = document.createElement("button");
+    prevBtn.className = "page-link";
+    prevBtn.textContent = "«";
+    prevBtn.onclick = () => { if (page > 1) { currentPage--; renderTable(filteredData, currentPage); } };
+    prevLi.appendChild(prevBtn);
+    pagination.appendChild(prevLi);
+
+    const currLi = document.createElement("li");
+    currLi.className = "page-item active";
+    const currBtn = document.createElement("button");
+    currBtn.className = "page-link";
+    currBtn.textContent = `${page} / ${totalPages}`;
+    currBtn.disabled = true;
+    currLi.appendChild(currBtn);
+    pagination.appendChild(currLi);
+
+    const nextLi = document.createElement("li");
+    nextLi.className = "page-item" + (page === totalPages ? " disabled" : "");
+    const nextBtn = document.createElement("button");
+    nextBtn.className = "page-link";
+    nextBtn.textContent = "»";
+    nextBtn.onclick = () => { if (page < totalPages) { currentPage++; renderTable(filteredData, currentPage); } };
+    nextLi.appendChild(nextBtn);
+    pagination.appendChild(nextLi);
+  }
+
+  function applyFilters() {
+    const chain = chainFilter.value.trim();
+    const keyword = searchInput.value.trim().toLowerCase();
+    filteredData = allData.filter(item => {
+      const matchChain = !chain || item.chainName === chain;
+      const matchKeyword = !keyword || item.symbol.toLowerCase().includes(keyword) || item.tokenAddress.toLowerCase().includes(keyword);
+      return matchChain && matchKeyword;
+    });
+    currentPage = 1;
+    renderTable(filteredData, currentPage);
+  }
+
+  searchBtn.addEventListener("click", applyFilters);
+  chainFilter.addEventListener("change", applyFilters);
+  searchInput.addEventListener("keypress", (e) => { if (e.key === "Enter") applyFilters(); });
+  pageSizeSelect.addEventListener("change", () => {
+    pageSize = parseInt(pageSizeSelect.value);
+    currentPage = 1;
+    renderTable(filteredData, currentPage);
+  });
+
+  // 更新 datalist
+  function updateTokenLists() {
+    const chain = pairChain.value;
+    const tokens = allData.filter(item => item.chainName === chain).map(item => item.symbol);
+    [tokenList1, tokenList2].forEach(dl => {
+      dl.innerHTML = "";
+      tokens.forEach(t => {
+        const opt = document.createElement("option");
+        opt.value = t;
+        dl.appendChild(opt);
+      });
+    });
+  }
+
+  pairChain.addEventListener("change", updateTokenLists);
+
+  // 分类函数
+  const getCategory = (token, chain) => {
+    const found = allData.find(item => item.chainName === chain && item.symbol.toLowerCase() === token.toLowerCase());
+    return found ? (found.tag || "other") : "other";
+  };
+
+  // 计算倍率
+  document.getElementById("calcPair").addEventListener("click", () => {
+    const chain = pairChain.value;
+    const token1 = document.getElementById("pair1Token").value.trim();
+    const token2 = document.getElementById("pair2Token").value.trim();
+
+    if (!token1 || !token2) {
+      document.getElementById("pairResult").textContent = "请填写两个币种";
+      return;
     }
 
-    document.getElementById('calcPair').addEventListener('click', ()=>{
-      const token1 = document.getElementById('pair1Token').value.trim();
-      const chain1 = document.getElementById('pair1Chain').value;
-      const token2 = document.getElementById('pair2Token').value.trim();
-      const chain2 = document.getElementById('pair2Chain').value;
+    const cat1 = getCategory(token1, chain);
+    const cat2 = getCategory(token2, chain);
 
-      if(!token1 || !token2){ document.getElementById('pairResult').textContent='请填写两个币种'; return; }
+    let ratio = "不计入";
+    if ((cat1 === "Group1" && cat2 === "Group2") || (cat1 === "Group2" && cat2 === "Group1")) {
+      ratio = "0.25 倍";
+    } else if (cat1 === "Group2" && cat2 === "Group2") {
+      ratio = "0.25 倍";
+    } else if ((cat1 === "Group1" || cat1 === "Group2") && cat2 === "other" || (cat2 === "Group1" || cat2 === "Group2") && cat1 === "other") {
+      ratio = "1 倍";
+    } else if (cat1 === "Group1" && cat2 === "Group1") {
+      ratio = "不计入";
+    } else if (cat1 === "other" && cat2 === "other") {
+      ratio = "不计入";
+    }
 
-      const cat1=getCategory(token1,chain1);
-      const cat2=getCategory(token2,chain2);
+    document.getElementById("pairResult").textContent = `倍率：${ratio}`;
+  });
 
-      let ratio='不计入';
-      if((cat1==='Group1' && cat2==='Group2')||(cat1==='Group2' && cat2==='Group1')){
-        ratio='0.25 倍';
-      }else if(cat1==='Group2' && cat2==='Group2'){
-        ratio='0.25 倍';
-      }else if((cat1==='Group1'||cat1==='Group2') && cat2==='other' || (cat2==='Group1'||cat2==='Group2') && cat1==='other'){
-        ratio='1 倍';
-      }else if(cat1==='Group1' && cat2==='Group1'){
-        ratio='不计入';
-      }else if(cat1==='other' && cat2==='other'){
-        ratio='不计入';
-      }
-      document.getElementById('pairResult').textContent=`倍率：${ratio}`;
-    });
-
-    loadData();
-  </script>
-</body>
-</html>
+  loadData();
+</script>
