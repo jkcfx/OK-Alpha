@@ -2,7 +2,7 @@ name: Fetch All Tokens
 
 on:
   schedule:
-    - cron: "0 */4 * * *"   # 每 4 小时执行一次
+    - cron: "*/10 * * * *"   # 每 4 小时执行一次
   workflow_dispatch:
 
 jobs:
