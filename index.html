@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <title>Token Info Viewer</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    .controls { margin-bottom: 20px; display: flex; gap: 10px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+    th { background: #f4f4f4; }
+    .pagination { margin-top: 20px; display: flex; gap: 5px; }
+    .pagination button { padding: 5px 10px; cursor: pointer; }
+    .pagination button.active { background: #007bff; color: white; border: none; }
+  </style>
+</head>
+<body>
+  <h2>Token 列表</h2>
+
+  <div class="controls">
+    <select id="chainFilter">
+      <option value="">全部链</option>
+    </select>
+    <input type="text" id="searchInput" placeholder="搜索 symbol 或 tokenAddress">
+    <button id="searchBtn">搜索</button>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Chain</th>
+        <th>Symbol</th>
+        <th>Token Address</th>
+        <th>Tag</th>
+        <th>Last Modified</th>
+      </tr>
+    </thead>
+    <tbody id="tableBody"></tbody>
+  </table>
+
+  <div class="pagination" id="pagination"></div>
+
+  <script>
+    // 示例 JSON 数据
+    const jsonData = {
+      "code":0,
+      "data":{
+        "pageNum":1,"pageSize":2,"pages":210,
+        "tokenBaseInfoList":[
+          {"chainId":1,"chainName":"ETH","lastModifiedBy":"admin","lastModifiedTime":1755174838,"symbol":"ETH","tag":"Group1","tokenAddress":"0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"},
+          {"chainId":1,"chainName":"ETH","lastModifiedBy":"admin","lastModifiedTime":1755174858,"symbol":"USDT","tag":"Group1","tokenAddress":"0xdac17f958d2ee523a2206206994597c13d831ec7"},
+          {"chainId":56,"chainName":"BSC","lastModifiedBy":"admin","lastModifiedTime":1755174900,"symbol":"BNB","tag":"Group2","tokenAddress":"0x0000000000000000000000000000000000000000"},
+          {"chainId":137,"chainName":"Polygon","lastModifiedBy":"admin","lastModifiedTime":1755175000,"symbol":"MATIC","tag":"Group3","tokenAddress":"0x1111111111111111111111111111111111111111"}
+        ],
+        "totalNum":419
+      }
+    };
+
+    // 全局变量
+    const pageSize = 2;
+    let currentPage = 1;
+    let filteredData = [];
+
+    const chainFilter = document.getElementById("chainFilter");
+    const searchInput = document.getElementById("searchInput");
+    const searchBtn = document.getElementById("searchBtn");
+    const tableBody = document.getElementById("tableBody");
+    const pagination = document.getElementById("pagination");
+
+    // 初始化下拉框
+    function initFilters(data) {
+      const chains = [...new Set(data.map(item => item.chainName))];
+      chains.forEach(chain => {
+        const opt = document.createElement("option");
+        opt.value = chain;
+        opt.textContent = chain;
+        chainFilter.appendChild(opt);
+      });
+    }
+
+    // 渲染表格
+    function renderTable(data, page) {
+      tableBody.innerHTML = "";
+      const start = (page - 1) * pageSize;
+      const end = start + pageSize;
+      const pageData = data.slice(start, end);
+
+      pageData.forEach(item => {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td>${item.chainName}</td>
+          <td>${item.symbol}</td>
+          <td>${item.tokenAddress}</td>
+          <td>${item.tag}</td>
+          <td>${new Date(item.lastModifiedTime * 1000).toLocaleString()}</td>
+        `;
+        tableBody.appendChild(tr);
+      });
+
+      renderPagination(data.length, page);
+    }
+
+    // 渲染分页按钮
+    function renderPagination(totalItems, currentPage) {
+      pagination.innerHTML = "";
+      const totalPages = Math.ceil(totalItems / pageSize);
+
+      for (let i = 1; i <= totalPages; i++) {
+        const btn = document.createElement("button");
+        btn.textContent = i;
+        if (i === currentPage) btn.classList.add("active");
+        btn.onclick = () => {
+          renderTable(filteredData, i);
+        };
+        pagination.appendChild(btn);
+      }
+    }
+
+    // 过滤数据
+    function applyFilters() {
+      const chain = chainFilter.value.trim();
+      const keyword = searchInput.value.trim().toLowerCase();
+
+      filteredData = jsonData.data.tokenBaseInfoList.filter(item => {
+        const matchChain = !chain || item.chainName === chain;
+        const matchKeyword = !keyword ||
+          item.symbol.toLowerCase().includes(keyword) ||
+          item.tokenAddress.toLowerCase().includes(keyword);
+        return matchChain && matchKeyword;
+      });
+
+      renderTable(filteredData, 1);
+    }
+
+    // 事件绑定
+    searchBtn.addEventListener("click", applyFilters);
+    chainFilter.addEventListener("change", applyFilters);
+
+    // 初始化
+    initFilters(jsonData.data.tokenBaseInfoList);
+    applyFilters();
+  </script>
+</body>
+</html>
