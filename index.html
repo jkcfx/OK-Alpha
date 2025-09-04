@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="zh-CN">
 <head>
   <meta charset="utf-8">
@@ -9,7 +8,8 @@
     .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 20px; }
     .table-container { max-height: 70vh; overflow-y: auto; }
     .last-updated { font-size: 0.9rem; color: #666; }
-    .pagination { flex-wrap: wrap; }
+    .pagination { flex-wrap: nowrap; gap: 5px; }
+    .page-size-select { width: 100px; }
   </style>
 </head>
 <body>
@@ -21,6 +21,13 @@
     </select>
     <input type="text" id="searchInput" class="form-control" placeholder="搜索 代币名或者合约" style="width: 250px;">
     <button id="searchBtn" class="btn btn-primary">搜索</button>
+    <select id="pageSizeSelect" class="form-select page-size-select">
+      <option value="10">10/页</option>
+      <option value="15">15/页</option>
+      <option value="20">20/页</option>
+      <option value="25">25/页</option>
+      <option value="50">50/页</option>
+    </select>
     <span class="last-updated ms-3" id="lastUpdated"></span>
   </div>
 
@@ -40,11 +47,11 @@
   </div>
 
   <nav>
-    <ul class="pagination" id="pagination"></ul>
+    <ul class="pagination justify-content-center" id="pagination"></ul>
   </nav>
 
   <script>
-    const pageSize = 15;
+    let pageSize = 10;
     let currentPage = 1;
     let allData = [];
     let filteredData = [];
@@ -55,8 +62,8 @@
     const tableBody = document.getElementById("tableBody");
     const pagination = document.getElementById("pagination");
     const lastUpdatedEl = document.getElementById("lastUpdated");
+    const pageSizeSelect = document.getElementById("pageSizeSelect");
 
-    // 初始化下拉链选择
     function initFilters(data) {
       const chains = [...new Set(data.map(item => item.chainName))];
       chainFilter.innerHTML = '<option value="">全部链</option>';
@@ -68,7 +75,6 @@
       });
     }
 
-    // 渲染表格
     function renderTable(data, page) {
       tableBody.innerHTML = "";
       const start = (page - 1) * pageSize;
@@ -90,26 +96,42 @@
       renderPagination(data.length, page);
     }
 
-    // 渲染分页
     function renderPagination(totalItems, page) {
       pagination.innerHTML = "";
       const totalPages = Math.ceil(totalItems / pageSize);
-      for (let i = 1; i <= totalPages; i++) {
-        const li = document.createElement("li");
-        li.className = "page-item" + (i === page ? " active" : "");
-        const btn = document.createElement("button");
-        btn.className = "page-link";
-        btn.textContent = i;
-        btn.onclick = () => {
-          currentPage = i;
-          renderTable(filteredData, currentPage);
-        };
-        li.appendChild(btn);
-        pagination.appendChild(li);
-      }
+      if(totalPages <= 1) return;
+
+      // 上一页
+      const prevLi = document.createElement("li");
+      prevLi.className = "page-item" + (page === 1 ? " disabled" : "");
+      const prevBtn = document.createElement("button");
+      prevBtn.className = "page-link";
+      prevBtn.textContent = "«";
+      prevBtn.onclick = () => { if(page>1){currentPage--; renderTable(filteredData,currentPage);} };
+      prevLi.appendChild(prevBtn);
+      pagination.appendChild(prevLi);
+
+      // 当前页号显示
+      const currLi = document.createElement("li");
+      currLi.className = "page-item active";
+      const currBtn = document.createElement("button");
+      currBtn.className = "page-link";
+      currBtn.textContent = `${page} / ${totalPages}`;
+      currBtn.disabled = true;
+      currLi.appendChild(currBtn);
+      pagination.appendChild(currLi);
+
+      // 下一页
+      const nextLi = document.createElement("li");
+      nextLi.className = "page-item" + (page === totalPages ? " disabled" : "");
+      const nextBtn = document.createElement("button");
+      nextBtn.className = "page-link";
+      nextBtn.textContent = "»";
+      nextBtn.onclick = () => { if(page<totalPages){currentPage++; renderTable(filteredData,currentPage);} };
+      nextLi.appendChild(nextBtn);
+      pagination.appendChild(nextLi);
     }
 
-    // 过滤数据
     function applyFilters() {
       const chain = chainFilter.value.trim();
       const keyword = searchInput.value.trim().toLowerCase();
@@ -122,21 +144,24 @@
         return matchChain && matchKeyword;
       });
 
-      renderTable(filteredData, 1);
+      currentPage = 1;
+      renderTable(filteredData, currentPage);
     }
 
     searchBtn.addEventListener("click", applyFilters);
     chainFilter.addEventListener("change", applyFilters);
-    searchInput.addEventListener("keypress", (e) => {
-      if (e.key === "Enter") applyFilters();
+    searchInput.addEventListener("keypress", (e) => { if(e.key==="Enter") applyFilters(); });
+    pageSizeSelect.addEventListener("change", () => {
+      pageSize = parseInt(pageSizeSelect.value);
+      currentPage = 1;
+      renderTable(filteredData, currentPage);
     });
 
-    // 加载 data.json
     async function loadData() {
       try {
-        const res = await fetch("data.json?ts=" + new Date().getTime());
+        const res = await fetch("data.json?ts=" + new Date().getTime()); // 防缓存
         const json = await res.json();
-        allData = json.tokens || [];  // ⚠ 重点：必须用 json.tokens
+        allData = json.tokens || [];
         if(json.lastUpdated){
           const date = new Date(json.lastUpdated * 1000);
           lastUpdatedEl.textContent = "更新时间: " + date.toLocaleString();
