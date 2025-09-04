@@ -1,0 +1,56 @@
+name: Fetch All Tokens
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # 每 4 小时执行一次
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Fetch all pages
+        run: |
+          API_URL="https://your-api-url.com/endpoint"
+          PAGE_SIZE=100
+
+          echo "[]" > all.json   # 初始化空数组
+
+          # 第一次请求，获取 totalNum & pageSize
+          first=$(curl -s "${API_URL}?pageNum=1&pageSize=${PAGE_SIZE}")
+          total=$(echo "$first" | jq -r '.data.totalNum')
+          pageSize=$(echo "$first" | jq -r '.data.pageSize')
+          totalPages=$(( (total + pageSize - 1) / pageSize ))
+
+          echo "Total items: $total, pageSize: $pageSize, totalPages: $totalPages"
+
+          # 提取第一页 tokenBaseInfoList
+          jq '.data.tokenBaseInfoList' <<< "$first" > all.json
+
+          # 依次请求第 2 页到最后一页
+          for ((i=2; i<=totalPages; i++)); do
+            echo "Fetching page $i..."
+            resp=$(curl -s "${API_URL}?pageNum=${i}&pageSize=${PAGE_SIZE}")
+            jq '.data.tokenBaseInfoList' <<< "$resp" > page.json
+
+            # 合并两个数组
+            jq -s '.[0] + .[1]' all.json page.json > merged.json
+            mv merged.json all.json
+          done
+
+          # 最终生成 data.json
+          mv all.json data.json
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "Update data.json from API" || echo "No changes to commit"
+          git push
