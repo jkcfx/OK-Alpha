@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1757045726,
+  "lastUpdated": 1757060251,
   "tokens": [
     {
       "chainId": 1,
@@ -1181,6 +1181,15 @@
       "tokenAddress": "0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6"
     },
     {
+      "chainId": 1,
+      "chainName": "ETH",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1757045742,
+      "symbol": "USD1",
+      "tag": "Group1",
+      "tokenAddress": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+    },
+    {
       "chainId": 10,
       "chainName": "OPTIMISM",
       "lastModifiedBy": "admin",
@@ -1890,6 +1899,15 @@
       "symbol": "WLFI",
       "tag": "Group2",
       "tokenAddress": "0x47474747477b199288bF72a1D702f7Fe0Fb1DEeA"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1757046237,
+      "symbol": "DAI",
+      "tag": "Group1",
+      "tokenAddress": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3"
     },
     {
       "chainId": 130,
