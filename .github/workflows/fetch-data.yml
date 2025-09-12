@@ -19,7 +19,6 @@ jobs:
         run: |
           API_URL="https://web3.okx.com/priapi/v1/dx/trade/multi/getAllTokenTagInfo"
           PAGE_SIZE=100
-
           echo "[]" > all.json   # 初始化空数组
 
           # 第一次请求，获取 totalNum & pageSize
@@ -27,7 +26,6 @@ jobs:
           total=$(echo "$first" | jq -r '.data.totalNum')
           pageSize=$(echo "$first" | jq -r '.data.pageSize')
           totalPages=$(( (total + pageSize - 1) / pageSize ))
-
           echo "Total items: $total, pageSize: $pageSize, totalPages: $totalPages"
 
           # 提取第一页 tokenBaseInfoList
@@ -38,8 +36,6 @@ jobs:
             echo "Fetching page $i..."
             resp=$(curl -s "${API_URL}?pageNum=${i}&pageSize=${PAGE_SIZE}")
             jq '.data.tokenBaseInfoList' <<< "$resp" > page.json
-
-            # 合并两个数组
             jq -s '.[0] + .[1]' all.json page.json > merged.json
             mv merged.json all.json
           done
@@ -48,8 +44,8 @@ jobs:
           last_updated=$(date +%s)
 
           # 生成最终 data.json，包含 tokens 和 lastUpdated
-          jq -n --argjson tokens "$(cat all.json)" --arg lastUpdated "$last_updated" \
-            '{lastUpdated: ($lastUpdated|tonumber), tokens: $tokens}' > data.json
+          jq -n --slurpfile tokens all.json --arg lastUpdated "$last_updated" \
+            '{lastUpdated: ($lastUpdated|tonumber), tokens: $tokens[0]}' > data.json
 
       - name: Commit changes
         run: |
