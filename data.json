@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1757984324,
+  "lastUpdated": 1757996135,
   "tokens": [
     {
       "chainId": 1,
@@ -963,15 +963,6 @@
       "symbol": "AAVE",
       "tag": "Group2",
       "tokenAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
-    },
-    {
-      "chainId": 1,
-      "chainName": "ETH",
-      "lastModifiedBy": "admin",
-      "lastModifiedTime": 1755175173,
-      "symbol": "ONDO",
-      "tag": "Group2",
-      "tokenAddress": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3"
     },
     {
       "chainId": 1,
