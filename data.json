@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1758010697,
+  "lastUpdated": 1758025567,
   "tokens": [
     {
       "chainId": 1,
@@ -6354,6 +6354,15 @@
       "symbol": "suUSD",
       "tag": "Group1",
       "tokenAddress": "0x8bf591eae535f93a242d5a954d3cde648b48a5a8"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1758014384,
+      "symbol": "USDai",
+      "tag": "Group1",
+      "tokenAddress": "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef"
     },
     {
       "chainId": 43114,
