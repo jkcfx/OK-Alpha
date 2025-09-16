@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1757996135,
+  "lastUpdated": 1758010697,
   "tokens": [
     {
       "chainId": 1,
@@ -6795,6 +6795,15 @@
       "symbol": "DUSD",
       "tag": "Group1",
       "tokenAddress": "0xa88b54e6b76fb97cdb8ecae868f1458e18a953f4"
+    },
+    {
+      "chainId": 59144,
+      "chainName": "Linea",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1758006679,
+      "symbol": "asUSD",
+      "tag": "Group1",
+      "tokenAddress": "0xa500000000e482752f032ea387390b6025a2377b"
     },
     {
       "chainId": 81457,
