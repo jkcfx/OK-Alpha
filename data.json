@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1758125789,
+  "lastUpdated": 1758140037,
   "tokens": [
     {
       "chainId": 1,
@@ -5636,6 +5636,15 @@
       "tokenAddress": "0xefb97aaf77993922ac4be4da8fbc9a2425322677"
     },
     {
+      "chainId": 8453,
+      "chainName": "Base",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1758126661,
+      "symbol": "ezETH",
+      "tag": "Group1",
+      "tokenAddress": "0x2416092f143378750bb29b79ed961ab195cceea5"
+    },
+    {
       "chainId": 10001,
       "chainName": "ETHW",
       "lastModifiedBy": "admin",
@@ -6912,6 +6921,15 @@
       "symbol": "SolvBTC.b",
       "tag": "Group2",
       "tokenAddress": "0x3ba89d490ab1c0c9cc2313385b30710e838370a4"
+    },
+    {
+      "chainId": 534352,
+      "chainName": "Scroll",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1758126661,
+      "symbol": "wstETH",
+      "tag": "Group1",
+      "tokenAddress": "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32"
     }
   ]
 }
