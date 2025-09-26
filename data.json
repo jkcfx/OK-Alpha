@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1758874742,
+  "lastUpdated": 1758889563,
   "tokens": [
     {
       "chainId": 1,
@@ -2549,6 +2549,15 @@
       "tokenAddress": "0x696025fab2f3e2ade78e57a3f553e993d2996615"
     },
     {
+      "chainId": 1,
+      "chainName": "ETH",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1758876479,
+      "symbol": "USDG",
+      "tag": "Group1",
+      "tokenAddress": "0xe343167631d89b6ffc58b88d6b7fb0228795491d"
+    },
+    {
       "chainId": 10,
       "chainName": "OPTIMISM",
       "lastModifiedBy": "admin",
@@ -4578,7 +4587,7 @@
       "chainName": "BSC",
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1758872293,
-      "symbol": "Froggie ",
+      "symbol": "Froggie",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
     },
@@ -5553,6 +5562,15 @@
       "symbol": "XDOG",
       "tag": "Group2",
       "tokenAddress": "0x0cc24c51bf89c00c5affbfcf5e856c25ecbdb48e"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1758876479,
+      "symbol": "USDG",
+      "tag": "Group1",
+      "tokenAddress": "0x4ae46a509f6b1d9056937ba4500cb143933d2dc8"
     },
     {
       "chainId": 250,
