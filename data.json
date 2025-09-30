@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1759249001,
+  "lastUpdated": 1759263244,
   "tokens": [
     {
       "chainId": 1,
@@ -4650,7 +4650,7 @@
       "chainName": "BSC",
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1758872293,
-      "symbol": "Froggie ",
+      "symbol": "Froggie",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
     },
@@ -5693,9 +5693,9 @@
       "chainId": 196,
       "chainName": "X Layer",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1759227838,
+      "lastModifiedTime": 1759250710,
       "symbol": "OKAY",
-      "tag": "Group1",
+      "tag": "Group2",
       "tokenAddress": "0x8854b281cdf5940ebd4a753f8d37f49775058e03"
     },
     {
