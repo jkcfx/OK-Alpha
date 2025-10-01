@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1759321679,
+  "lastUpdated": 1759335420,
   "tokens": [
     {
       "chainId": 1,
@@ -2616,7 +2616,7 @@
       "chainName": "OPTIMISM",
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1755174858,
-      "symbol": "OP_USDT",
+      "symbol": "USDT",
       "tag": "Group1",
       "tokenAddress": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58"
     },
@@ -2931,7 +2931,7 @@
       "chainName": "OPTIMISM",
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1759227838,
-      "symbol": "USDT",
+      "symbol": "OP_USDT0",
       "tag": "Group1",
       "tokenAddress": "0x01bff41798a0bcf287b996046ca68b395dbc1071"
     },
