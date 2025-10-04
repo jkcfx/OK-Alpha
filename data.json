@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1759522427,
+  "lastUpdated": 1759539359,
   "tokens": [
     {
       "chainId": 1,
@@ -8601,7 +8601,7 @@
       "chainName": "PLASMA",
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1759227838,
-      "symbol": "",
+      "symbol": "sUSDai",
       "tag": "Group1",
       "tokenAddress": "0x0B2b2B2076d95dda7817e785989fE353fe955ef9"
     },
