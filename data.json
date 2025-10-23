@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1761192960,
+  "lastUpdated": 1761207541,
   "tokens": [
     {
       "chainId": 1,
@@ -4650,7 +4650,7 @@
       "chainName": "BSC",
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1758872293,
-      "symbol": "Froggie ",
+      "symbol": "Froggie",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
     },
@@ -7182,6 +7182,15 @@
       "symbol": "VIRTUAL",
       "tag": "Group1",
       "tokenAddress": "3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1761205916,
+      "symbol": "CASH",
+      "tag": "Group1",
+      "tokenAddress": "CASHx9KJUStyftLFWGvEVf59SGeG9sh5FfcnZMVPCASH"
     },
     {
       "chainId": 1030,
