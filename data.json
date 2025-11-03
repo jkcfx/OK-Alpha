@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1762172930,
+  "lastUpdated": 1762186605,
   "tokens": [
     {
       "chainId": 1,
@@ -6246,6 +6246,15 @@
       "symbol": "OKAY",
       "tag": "Group2",
       "tokenAddress": "0x8854b281cdf5940ebd4a753f8d37f49775058e03"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1762177190,
+      "symbol": "xBTC",
+      "tag": "Group1",
+      "tokenAddress": "0xb7c00000bcdeef966b20b3d884b98e64d2b06b4f"
     },
     {
       "chainId": 250,
