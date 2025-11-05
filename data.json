@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1762316209,
+  "lastUpdated": 1762330774,
   "tokens": [
     {
       "chainId": 1,
@@ -7758,6 +7758,60 @@
       "symbol": "Sushi",
       "tag": "Group2",
       "tokenAddress": "ChVzxWRmrTeSgwd3Ui3UumcN8KX7VK3WaD4KGeSKpypj"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1762325829,
+      "symbol": "jlUSDC",
+      "tag": "Group1",
+      "tokenAddress": "9BEcn9aPEmhSPbPQeFGjidRiEKki46fVQDyPpSQXPA2D"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1762325829,
+      "symbol": "jlUSDG",
+      "tag": "Group1",
+      "tokenAddress": "9fvHrYNw1A8Evpcj7X2yy4k4fT7nNHcA9L6UsamNHAif"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1762325829,
+      "symbol": "jlUSDT",
+      "tag": "Group1",
+      "tokenAddress": "Cmn4v2wipYV41dkakDvCgFJpxhtaaKt11NyWV8pjSE8A"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1762325829,
+      "symbol": "jlEURC",
+      "tag": "Group1",
+      "tokenAddress": "GcV9tEj62VncGithz4o4N9x6HWXARxuRgEAYk9zahNA8"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1762325829,
+      "symbol": "jlUSDS",
+      "tag": "Group1",
+      "tokenAddress": "j14XLJZSVMcUYpAfajdZRpnfHUpJieZHS4aPektLWvh"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1762325829,
+      "symbol": "jlWSOL",
+      "tag": "Group1",
+      "tokenAddress": "2uQsyo1fXXQkDtcpXnLofWy88PxcvnfH2L8FPSE62FVU"
     },
     {
       "chainId": 1030,
