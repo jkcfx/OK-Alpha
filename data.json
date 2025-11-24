@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1763928899,
+  "lastUpdated": 1763946508,
   "tokens": [
     {
       "chainId": 1,
@@ -6072,7 +6072,7 @@
       "chainName": "Monad",
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1763693862,
-      "symbol": "",
+      "symbol": "SOL",
       "tag": "Group1",
       "tokenAddress": "0xea17E5a9efEBf1477dB45082d67010E2245217f1"
     },
