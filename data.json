@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1764217067,
+  "lastUpdated": 1764231639,
   "tokens": [
     {
       "chainId": 1,
@@ -4550,8 +4550,8 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1757303913,
-      "symbol": "",
+      "lastModifiedTime": 1764226801,
+      "symbol": "frxUSD",
       "tag": "Group1",
       "tokenAddress": "0x80eede496655fb9047dd39d9f418d5483ed600df"
     },
@@ -5909,7 +5909,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764210601,
+      "lastModifiedTime": 1764228601,
       "symbol": "Froggie",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
@@ -7074,33 +7074,6 @@
       "symbol": "RPL",
       "tag": "Group2",
       "tokenAddress": "0x7205705771547cf79201111b4bd8aaf29467b9ec"
-    },
-    {
-      "chainId": 143,
-      "chainName": "Monad",
-      "lastModifiedBy": "admin",
-      "lastModifiedTime": 1763693862,
-      "symbol": "",
-      "tag": "Group1",
-      "tokenAddress": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8"
-    },
-    {
-      "chainId": 143,
-      "chainName": "Monad",
-      "lastModifiedBy": "admin",
-      "lastModifiedTime": 1763693862,
-      "symbol": "",
-      "tag": "Group1",
-      "tokenAddress": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0"
-    },
-    {
-      "chainId": 143,
-      "chainName": "Monad",
-      "lastModifiedBy": "admin",
-      "lastModifiedTime": 1763693862,
-      "symbol": "",
-      "tag": "Group1",
-      "tokenAddress": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711"
     },
     {
       "chainId": 143,
