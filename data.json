@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1765155983,
+  "lastUpdated": 1765168106,
   "tokens": [
     {
       "chainId": 1,
@@ -5910,7 +5910,7 @@
       "chainName": "BSC",
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1765126801,
-      "symbol": "Froggie",
+      "symbol": "Froggie ",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
     },
