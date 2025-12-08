@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1765182153,
+  "lastUpdated": 1765196955,
   "tokens": [
     {
       "chainId": 1,
@@ -1895,9 +1895,9 @@
       "chainId": 1,
       "chainName": "ETH",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146302,
+      "lastModifiedTime": 1765186785,
       "symbol": "sDAI",
-      "tag": "Group2",
+      "tag": "Group1",
       "tokenAddress": "0x83f20f44975d03b1b09e64809b757c47f942beea"
     },
     {
@@ -3755,6 +3755,69 @@
       "tokenAddress": "0xfDb46864A7C476F0914c5E82CdED3364a9F56F8a"
     },
     {
+      "chainId": 1,
+      "chainName": "ETH",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "MUSD",
+      "tag": "Group1",
+      "tokenAddress": "0xdd468a1ddc392dcdbef6db6e34e89aa338f9f186"
+    },
+    {
+      "chainId": 1,
+      "chainName": "ETH",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186784,
+      "symbol": "USDD",
+      "tag": "Group1",
+      "tokenAddress": "0x4f8e5de400de08b164e7421b3ee387f461becd1a"
+    },
+    {
+      "chainId": 1,
+      "chainName": "ETH",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDT",
+      "tag": "Group1",
+      "tokenAddress": "0x1cdd2eab61112697626f7b4bb0e23da4febf7b7c"
+    },
+    {
+      "chainId": 1,
+      "chainName": "ETH",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "sSuperUSD",
+      "tag": "Group1",
+      "tokenAddress": "0x139450c2dcef827c9a2a0bb1cb5506260940c9fd"
+    },
+    {
+      "chainId": 1,
+      "chainName": "ETH",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDA",
+      "tag": "Group1",
+      "tokenAddress": "0x0000206329b97db379d5e1bf586bbdb969c63274"
+    },
+    {
+      "chainId": 1,
+      "chainName": "ETH",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187308,
+      "symbol": "USDCV",
+      "tag": "Group1",
+      "tokenAddress": "0x5422374b27757da72d5265cc745ea906e0446634"
+    },
+    {
+      "chainId": 1,
+      "chainName": "ETH",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187308,
+      "symbol": "USDR",
+      "tag": "Group1",
+      "tokenAddress": "0x4ea40dcee961675683e0a2e1721bd49cb9bca913"
+    },
+    {
       "chainId": 10,
       "chainName": "OPTIMISM",
       "lastModifiedBy": "admin",
@@ -4196,6 +4259,15 @@
       "tokenAddress": "0x724dc807b04555b71ed48a6896b6f41593b8c637"
     },
     {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186784,
+      "symbol": "axlUSDC",
+      "tag": "Group1",
+      "tokenAddress": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+    },
+    {
       "chainId": 25,
       "chainName": "CRONOS",
       "lastModifiedBy": "admin",
@@ -4257,6 +4329,15 @@
       "symbol": "VVS",
       "tag": "Group2",
       "tokenAddress": "0x2d03bece6747adc00e1a131bba1469c15fd11e03"
+    },
+    {
+      "chainId": 25,
+      "chainName": "CRONOS",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "DAI",
+      "tag": "Group1",
+      "tokenAddress": "0xf2001b145b43032aaf5ee2884e456ccd805f677d"
     },
     {
       "chainId": 56,
@@ -5909,7 +5990,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765126801,
+      "lastModifiedTime": 1765193402,
       "symbol": "Froggie",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
@@ -6257,6 +6338,69 @@
       "tokenAddress": "0x7ade93a8c7e24ab6ed1b6b4c27c90e4321ccf7ce"
     },
     {
+      "chainId": 56,
+      "chainName": "BSC",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "axlUSDC",
+      "tag": "Group1",
+      "tokenAddress": "0x4268b8f0b87b6eae5d897996e6b845ddbd99adf3"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186784,
+      "symbol": "sUSD1+",
+      "tag": "Group1",
+      "tokenAddress": "0x4f2760b32720f013e900dc92f65480137391199b"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186784,
+      "symbol": "USDD",
+      "tag": "Group1",
+      "tokenAddress": "0x45e51bc23d592eb2dba86da3985299f7895d66ba"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDe",
+      "tag": "Group1",
+      "tokenAddress": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDC",
+      "tag": "Group1",
+      "tokenAddress": "0xb04906e95ab5d797ada81508115611fee694c2b3"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDT",
+      "tag": "Group1",
+      "tokenAddress": "0x524bc91dc82d6b90ef29f76a3ecaabafffd490bc"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDC.z",
+      "tag": "Group1",
+      "tokenAddress": "0x40f85d6040df96ea14cd41142bcd244e14cf76f6"
+    },
+    {
       "chainId": 130,
       "chainName": "Unichain",
       "lastModifiedBy": "admin",
@@ -6300,6 +6444,24 @@
       "symbol": "WETH",
       "tag": "Group1",
       "tokenAddress": "0x4200000000000000000000000000000000000006"
+    },
+    {
+      "chainId": 130,
+      "chainName": "Unichain",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDT",
+      "tag": "Group1",
+      "tokenAddress": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518"
+    },
+    {
+      "chainId": 130,
+      "chainName": "Unichain",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "frxUSD",
+      "tag": "Group1",
+      "tokenAddress": "0x80eede496655fb9047dd39d9f418d5483ed600df"
     },
     {
       "chainId": 137,
@@ -7076,6 +7238,42 @@
       "tokenAddress": "0x7205705771547cf79201111b4bd8aaf29467b9ec"
     },
     {
+      "chainId": 137,
+      "chainName": "POLYGON",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "axlUSDC",
+      "tag": "Group1",
+      "tokenAddress": "0x750e4c4984a9e0f12978ea6742bc1c5d248f40ed"
+    },
+    {
+      "chainId": 137,
+      "chainName": "POLYGON",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186784,
+      "symbol": "USDC",
+      "tag": "Group1",
+      "tokenAddress": "0x4318cb63a2b8edf2de971e2f17f77097e499459d"
+    },
+    {
+      "chainId": 137,
+      "chainName": "POLYGON",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDT",
+      "tag": "Group1",
+      "tokenAddress": "0x3553f861dec0257bada9f8ed268bf0d74e45e89c"
+    },
+    {
+      "chainId": 137,
+      "chainName": "POLYGON",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDT",
+      "tag": "Group1",
+      "tokenAddress": "0x9417669fbf23357d2774e9d421307bd5ea1006d2"
+    },
+    {
       "chainId": 143,
       "chainName": "Monad",
       "lastModifiedBy": "admin",
@@ -7463,6 +7661,51 @@
       "tokenAddress": "0xb67fa6defce4042070eb1ae1511dcd6dcc6a532e"
     },
     {
+      "chainId": 250,
+      "chainName": "FTM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186784,
+      "symbol": "USDC",
+      "tag": "Group1",
+      "tokenAddress": "0x04068da6c83afcfa0e13ba15a6696662335d5b75"
+    },
+    {
+      "chainId": 250,
+      "chainName": "FTM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "fUSDT",
+      "tag": "Group1",
+      "tokenAddress": "0x049d68029688eabf473097a2fc38ef61633a3c7a"
+    },
+    {
+      "chainId": 250,
+      "chainName": "FTM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "DAI",
+      "tag": "Group1",
+      "tokenAddress": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e"
+    },
+    {
+      "chainId": 250,
+      "chainName": "FTM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "axlUSDC",
+      "tag": "Group1",
+      "tokenAddress": "0x1b6382dbdea11d97f24495c9a90b7c88469134a4"
+    },
+    {
+      "chainId": 250,
+      "chainName": "FTM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDC",
+      "tag": "Group1",
+      "tokenAddress": "0x28a92dde19d9989f39a49905d7c9c2fac7799bdf"
+    },
+    {
       "chainId": 324,
       "chainName": "zkSync Era",
       "lastModifiedBy": "admin",
@@ -7560,6 +7803,24 @@
       "symbol": "USDC.e",
       "tag": "Group1",
       "tokenAddress": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4"
+    },
+    {
+      "chainId": 324,
+      "chainName": "zkSync Era",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186784,
+      "symbol": "BUSD",
+      "tag": "Group1",
+      "tokenAddress": "0x2039bb4116b4efc145ec4f0e2ea75012d6c0f181"
+    },
+    {
+      "chainId": 324,
+      "chainName": "zkSync Era",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "DAI",
+      "tag": "Group1",
+      "tokenAddress": "0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656"
     },
     {
       "chainId": 501,
@@ -9479,6 +9740,42 @@
       "tokenAddress": "Xs151QeqTCiuKtinzfRATnUESM2xTU6V9Wy8Vy538ci"
     },
     {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "hyUSD",
+      "tag": "Group1",
+      "tokenAddress": "5YMkXAYccHSGnHn9nob9xEvv6Pvka9DZWH7nTbotTu9E"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "",
+      "tag": "Group1",
+      "tokenAddress": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "frxUSD",
+      "tag": "Group1",
+      "tokenAddress": "GzX1ireZDU865FiMaKrdVB1H6AE8LAqWYCg6chrMrfBw"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765188002,
+      "symbol": "usdcet",
+      "tag": "Group1",
+      "tokenAddress": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM"
+    },
+    {
       "chainId": 1030,
       "chainName": "Conflux eSpace",
       "lastModifiedBy": "admin",
@@ -9695,6 +9992,15 @@
       "tokenAddress": "0xa2036f0538221a77a3937f1379699f44945018d0"
     },
     {
+      "chainId": 1101,
+      "chainName": "Polygon zkEvm",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "DAI",
+      "tag": "Group1",
+      "tokenAddress": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4"
+    },
+    {
       "chainId": 1329,
       "chainName": "Sei EVM",
       "lastModifiedBy": "admin",
@@ -9801,6 +10107,15 @@
       "symbol": "MERLIN_BTC",
       "tag": "Group1",
       "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+      "chainId": 4200,
+      "chainName": "Merlin",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "M-USDT",
+      "tag": "Group1",
+      "tokenAddress": "0x967aec3276b63c5e2262da9641db9dbebb07dc0d"
     },
     {
       "chainId": 5000,
@@ -9936,6 +10251,105 @@
       "symbol": "ETH.ETH",
       "tag": "Group1",
       "tokenAddress": "0xd97b1de3619ed2c6beb3860147e30ca8a7dc9891"
+    },
+    {
+      "chainId": 7000,
+      "chainName": "Zeta",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDT.BSC",
+      "tag": "Group1",
+      "tokenAddress": "0x91d4f0d54090df2d81e834c3c8ce71c6c865e79f"
+    },
+    {
+      "chainId": 7000,
+      "chainName": "Zeta",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDC.BSC",
+      "tag": "Group1",
+      "tokenAddress": "0x05ba149a7bd6dc1f937fa9046a9e05c05f3b18b0"
+    },
+    {
+      "chainId": 7000,
+      "chainName": "Zeta",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDC.SUI",
+      "tag": "Group1",
+      "tokenAddress": "0xe134d947644f90486c8106ee528b1cd3e54a385e"
+    },
+    {
+      "chainId": 7000,
+      "chainName": "Zeta",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDC.POL",
+      "tag": "Group1",
+      "tokenAddress": "0xfc9201f4116ae6b054722e10b98d904829b469c3"
+    },
+    {
+      "chainId": 7000,
+      "chainName": "Zeta",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDC.BASE",
+      "tag": "Group1",
+      "tokenAddress": "0x96152e6180e085fa57c7708e18af8f05e37b479d"
+    },
+    {
+      "chainId": 7000,
+      "chainName": "Zeta",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDT.POL",
+      "tag": "Group1",
+      "tokenAddress": "0xdbff6471a79e5374d771922f2194eccc42210b9f"
+    },
+    {
+      "chainId": 7000,
+      "chainName": "Zeta",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDT.SOL",
+      "tag": "Group1",
+      "tokenAddress": "0xee9cc614d03e7dbe994b514079f4914a605b4719"
+    },
+    {
+      "chainId": 7000,
+      "chainName": "Zeta",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDC.SOL",
+      "tag": "Group1",
+      "tokenAddress": "0x8344d6f84d26f998fa070bbea6d2e15e359e2641"
+    },
+    {
+      "chainId": 7000,
+      "chainName": "Zeta",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDC.ARB",
+      "tag": "Group1",
+      "tokenAddress": "0x0327f0660525b15cdb8f1f5fbf0dd7cd5ba182ad"
+    },
+    {
+      "chainId": 7000,
+      "chainName": "Zeta",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDC.AVAX",
+      "tag": "Group1",
+      "tokenAddress": "0xa52ad01a1d62b408ffe06c2467439251da61e4a9"
+    },
+    {
+      "chainId": 7000,
+      "chainName": "Zeta",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDT.ARB",
+      "tag": "Group1",
+      "tokenAddress": "0x0ca762fa958194795320635c11ff0c45c6412958"
     },
     {
       "chainId": 8453,
@@ -10955,6 +11369,69 @@
       "tokenAddress": "0x80a94c36747cf51b2fbabdff045f6d22c1930ed1"
     },
     {
+      "chainId": 8453,
+      "chainName": "Base",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "DAI",
+      "tag": "Group1",
+      "tokenAddress": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "oUSDT",
+      "tag": "Group1",
+      "tokenAddress": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "axlUSDC",
+      "tag": "Group1",
+      "tokenAddress": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "USD₮0",
+      "tag": "Group1",
+      "tokenAddress": "0x102d758f688a4c1c5a80b116bd945d4455460282"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "USDe",
+      "tag": "Group1",
+      "tokenAddress": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186784,
+      "symbol": "AUSD",
+      "tag": "Group1",
+      "tokenAddress": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDA",
+      "tag": "Group1",
+      "tokenAddress": "0x0000206329b97db379d5e1bf586bbdb969c63274"
+    },
+    {
       "chainId": 9745,
       "chainName": "PLASMA",
       "lastModifiedBy": "admin",
@@ -11036,6 +11513,15 @@
       "tokenAddress": "0x0B2b2B2076d95dda7817e785989fE353fe955ef9"
     },
     {
+      "chainId": 9745,
+      "chainName": "PLASMA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "plUSD",
+      "tag": "Group1",
+      "tokenAddress": "0xf91c31299e998c5127bc5f11e4a657fc0cf358cd"
+    },
+    {
       "chainId": 10001,
       "chainName": "ETHW",
       "lastModifiedBy": "admin",
@@ -11088,6 +11574,15 @@
       "symbol": "ApeETH",
       "tag": "Group1",
       "tokenAddress": "0xcf800f4948d16f23333508191b1b1591daf70438"
+    },
+    {
+      "chainId": 33139,
+      "chainName": "ApeChain",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDC.e",
+      "tag": "Group1",
+      "tokenAddress": "0xf1815bd50389c46847f0bda824ec8da914045d14"
     },
     {
       "chainId": 34443,
@@ -11972,6 +12467,42 @@
       "tokenAddress": "0x6533afac2e7bccb20dca161449a13a32d391fb00"
     },
     {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "USDe",
+      "tag": "Group1",
+      "tokenAddress": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "axlUSDC",
+      "tag": "Group1",
+      "tokenAddress": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "sSuperUSD",
+      "tag": "Group1",
+      "tokenAddress": "0x139450c2dcef827c9a2a0bb1cb5506260940c9fd"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187270,
+      "symbol": "sUSDe",
+      "tag": "Group1",
+      "tokenAddress": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2"
+    },
+    {
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
@@ -12359,6 +12890,24 @@
       "tokenAddress": "0x420fca0121dc28039145009570975747295f2329"
     },
     {
+      "chainId": 43114,
+      "chainName": "AVAX",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "USDT.e",
+      "tag": "Group1",
+      "tokenAddress": "0xc7198437980c041c805a1edcba50c1ce5db95118"
+    },
+    {
+      "chainId": 43114,
+      "chainName": "AVAX",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187308,
+      "symbol": "DAI.e",
+      "tag": "Group1",
+      "tokenAddress": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70"
+    },
+    {
       "chainId": 59144,
       "chainName": "Linea",
       "lastModifiedBy": "admin",
@@ -12440,6 +12989,42 @@
       "tokenAddress": "0xa500000000e482752f032ea387390b6025a2377b"
     },
     {
+      "chainId": 59144,
+      "chainName": "Linea",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "mUSD",
+      "tag": "Group1",
+      "tokenAddress": "0xaca92e438df0b2401ff60da7e4337b687a2435da"
+    },
+    {
+      "chainId": 59144,
+      "chainName": "Linea",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "frxUSD",
+      "tag": "Group1",
+      "tokenAddress": "0xc7346783f5e645aa998b106ef9e7f499528673d8"
+    },
+    {
+      "chainId": 59144,
+      "chainName": "Linea",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "DAI",
+      "tag": "Group1",
+      "tokenAddress": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5"
+    },
+    {
+      "chainId": 59144,
+      "chainName": "Linea",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "axlUSDC",
+      "tag": "Group1",
+      "tokenAddress": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+    },
+    {
       "chainId": 81457,
       "chainName": "Blast",
       "lastModifiedBy": "admin",
@@ -12510,6 +13095,24 @@
       "symbol": "BLAST",
       "tag": "Group2",
       "tokenAddress": "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad"
+    },
+    {
+      "chainId": 81457,
+      "chainName": "Blast",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765186338,
+      "symbol": "axlUSDC",
+      "tag": "Group1",
+      "tokenAddress": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+    },
+    {
+      "chainId": 81457,
+      "chainName": "Blast",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187308,
+      "symbol": "USDe",
+      "tag": "Group1",
+      "tokenAddress": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
     },
     {
       "chainId": 534352,
