@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1765369782,
+  "lastUpdated": 1765383658,
   "tokens": [
     {
       "chainId": 1,
@@ -321,7 +321,7 @@
       "chainName": "ETH",
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1764146299,
-      "symbol": "USD0++",
+      "symbol": "bUSD0",
       "tag": "Group1",
       "tokenAddress": "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0"
     },
