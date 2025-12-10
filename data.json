@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1765328855,
+  "lastUpdated": 1765340880,
   "tokens": [
     {
       "chainId": 1,
@@ -5991,7 +5991,7 @@
       "chainName": "BSC",
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1765324802,
-      "symbol": "Froggie",
+      "symbol": "Froggie ",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
     },
@@ -10710,6 +10710,42 @@
       "symbol": "usdcet",
       "tag": "Group1",
       "tokenAddress": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765337660,
+      "symbol": "OPENx",
+      "tag": "Group2",
+      "tokenAddress": "XsGtpmjhmC8kyjVSWL4VicGu36ceq9u55PTgF8bhGv6"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765337660,
+      "symbol": "IWMx",
+      "tag": "Group2",
+      "tokenAddress": "XsbELVbLGBkn7xfMfyYuUipKGt1iRUc2B7pYRvFTFu3"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765337660,
+      "symbol": "IJRx",
+      "tag": "Group2",
+      "tokenAddress": "XsyZcb97BzETAqi9BoP2C9D196MiMNBisGMVNje2Thz"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765337660,
+      "symbol": "TONXx",
+      "tag": "Group2",
+      "tokenAddress": "XscE4GUcsYhcyZu5ATiGUMmhxYa1D5fwbpJw4K6K4dp"
     },
     {
       "chainId": 1030,
