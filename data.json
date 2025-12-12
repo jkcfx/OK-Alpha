@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1765542556,
+  "lastUpdated": 1765556244,
   "tokens": [
     {
       "chainId": 1,
@@ -4262,7 +4262,7 @@
       "chainId": 10,
       "chainName": "OPTIMISM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
+      "lastModifiedTime": 1765542602,
       "symbol": "axlUSDC",
       "tag": "Group1",
       "tokenAddress": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
@@ -4298,8 +4298,8 @@
       "chainId": 25,
       "chainName": "CRONOS",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "wftm",
+      "lastModifiedTime": 1765555202,
+      "symbol": "FTM",
       "tag": "Group1",
       "tokenAddress": "0xb44a9b6905af7c801311e8f4e76932ee959c663c"
     },
@@ -4496,8 +4496,8 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "dola",
+      "lastModifiedTime": 1765549802,
+      "symbol": "DOLA",
       "tag": "Group1",
       "tokenAddress": "0x2f29bc0ffaf9bff337b31cbe6cb5fb3bf12e5840"
     },
@@ -4749,7 +4749,7 @@
       "chainName": "BSC",
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1765539002,
-      "symbol": "bob",
+      "symbol": "BOB",
       "tag": "Group1",
       "tokenAddress": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b"
     },
@@ -4937,8 +4937,8 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "cusd",
+      "lastModifiedTime": 1765555202,
+      "symbol": "CUSD",
       "tag": "Group1",
       "tokenAddress": "0xfa4ba88cf97e282c505bea095297786c16070129"
     },
@@ -6197,7 +6197,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
+      "lastModifiedTime": 1765542602,
       "symbol": "SUSHI",
       "tag": "Group2",
       "tokenAddress": "0x947950bcc74888a40ffa2593c5798f11fc9124c4"
@@ -8897,8 +8897,8 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "tbtc",
+      "lastModifiedTime": 1765544401,
+      "symbol": "tBTC",
       "tag": "Group1",
       "tokenAddress": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU"
     },
@@ -9212,8 +9212,8 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "cusd",
+      "lastModifiedTime": 1765544401,
+      "symbol": "CUSD",
       "tag": "Group1",
       "tokenAddress": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL"
     },
@@ -11732,8 +11732,8 @@
       "chainId": 8453,
       "chainName": "Base",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "usdm",
+      "lastModifiedTime": 1765548001,
+      "symbol": "USDM",
       "tag": "Group1",
       "tokenAddress": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
     },
@@ -12704,8 +12704,8 @@
       "chainId": 42161,
       "chainName": "ARBITRUM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "frxeth",
+      "lastModifiedTime": 1765544401,
+      "symbol": "frxETH",
       "tag": "Group1",
       "tokenAddress": "0x178412e79c25968a32e89b11f63b33f733770c2a"
     },
@@ -13010,8 +13010,8 @@
       "chainId": 42161,
       "chainName": "ARBITRUM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "usdm",
+      "lastModifiedTime": 1765555202,
+      "symbol": "USDM",
       "tag": "Group1",
       "tokenAddress": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
     },
@@ -13487,8 +13487,8 @@
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "wbtc",
+      "lastModifiedTime": 1765548001,
+      "symbol": "WBTC",
       "tag": "Group1",
       "tokenAddress": "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab"
     },
@@ -13775,7 +13775,7 @@
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
+      "lastModifiedTime": 1765542601,
       "symbol": "TRYB",
       "tag": "Group1",
       "tokenAddress": "0x564a341df6c126f90cf3ecb92120fd7190acb401"
