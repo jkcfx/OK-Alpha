@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1765556244,
+  "lastUpdated": 1765570552,
   "tokens": [
     {
       "chainId": 1,
@@ -4748,7 +4748,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
+      "lastModifiedTime": 1765557002,
       "symbol": "BOB",
       "tag": "Group1",
       "tokenAddress": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b"
@@ -5990,7 +5990,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765510202,
+      "lastModifiedTime": 1765569602,
       "symbol": "Froggie",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
@@ -11696,8 +11696,8 @@
       "chainId": 8453,
       "chainName": "Base",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "usdglo",
+      "lastModifiedTime": 1765560601,
+      "symbol": "USDGLO",
       "tag": "Group1",
       "tokenAddress": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
     },
@@ -13730,8 +13730,8 @@
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "veur",
+      "lastModifiedTime": 1765567802,
+      "symbol": "VEUR",
       "tag": "Group1",
       "tokenAddress": "0x7678e162f38ec9ef2bfd1d0aaf9fd93355e5fa0b"
     },
@@ -13739,8 +13739,8 @@
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "vchf",
+      "lastModifiedTime": 1765560601,
+      "symbol": "VCHF",
       "tag": "Group1",
       "tokenAddress": "0x228a48df6819ccc2eca01e2192ebafffdad56c19"
     },
