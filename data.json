@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1765715161,
+  "lastUpdated": 1765728946,
   "tokens": [
     {
       "chainId": 1,
@@ -4973,8 +4973,8 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "tryb",
+      "lastModifiedTime": 1765726201,
+      "symbol": "TRYB",
       "tag": "Group1",
       "tokenAddress": "0xc1fdbed7dac39cae2ccc0748f7a80dc446f6a594"
     },
@@ -5990,7 +5990,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765713602,
+      "lastModifiedTime": 1765715401,
       "symbol": "Froggie",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
