@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1765945676,
+  "lastUpdated": 1765959686,
   "tokens": [
     {
       "chainId": 1,
@@ -3821,8 +3821,8 @@
       "chainId": 10,
       "chainName": "OPTIMISM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "OP_ETH",
+      "lastModifiedTime": 1765958402,
+      "symbol": "ETH",
       "tag": "Group1",
       "tokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
     },
@@ -5990,7 +5990,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765944002,
+      "lastModifiedTime": 1765958402,
       "symbol": "Froggie",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
@@ -7340,8 +7340,8 @@
       "chainId": 130,
       "chainName": "Unichain",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "UNICHAIN_ETH",
+      "lastModifiedTime": 1765958402,
+      "symbol": "ETH",
       "tag": "Group1",
       "tokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
     },
@@ -8321,8 +8321,8 @@
       "chainId": 169,
       "chainName": "Manta Pacific",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "MANTA_ETH",
+      "lastModifiedTime": 1765958402,
+      "symbol": "ETH",
       "tag": "Group1",
       "tokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
     },
@@ -8654,8 +8654,8 @@
       "chainId": 324,
       "chainName": "zkSync Era",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "ERA_ETH",
+      "lastModifiedTime": 1765958402,
+      "symbol": "ETH",
       "tag": "Group1",
       "tokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
     },
@@ -10877,8 +10877,8 @@
       "chainId": 1101,
       "chainName": "Polygon zkEvm",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "POLYGON_ETH",
+      "lastModifiedTime": 1765958402,
+      "symbol": "ETH",
       "tag": "Group1",
       "tokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
     },
@@ -11327,8 +11327,8 @@
       "chainId": 8453,
       "chainName": "Base",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "BASE_ETH",
+      "lastModifiedTime": 1765958402,
+      "symbol": "ETH",
       "tag": "Group1",
       "tokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
     },
@@ -12560,8 +12560,8 @@
       "chainId": 34443,
       "chainName": "Mode",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "MODE_ETH",
+      "lastModifiedTime": 1765958402,
+      "symbol": "ETH",
       "tag": "Group1",
       "tokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
     },
@@ -12632,8 +12632,8 @@
       "chainId": 42161,
       "chainName": "ARBITRUM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "ARB_ETH",
+      "lastModifiedTime": 1765958402,
+      "symbol": "ETH",
       "tag": "Group1",
       "tokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
     },
@@ -13883,8 +13883,8 @@
       "chainId": 59144,
       "chainName": "Linea",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "LINEA_ETH",
+      "lastModifiedTime": 1765958402,
+      "symbol": "ETH",
       "tag": "Group1",
       "tokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
     },
@@ -14000,8 +14000,8 @@
       "chainId": 81457,
       "chainName": "Blast",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "BLAST_ETH",
+      "lastModifiedTime": 1765958402,
+      "symbol": "ETH",
       "tag": "Group1",
       "tokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
     },
@@ -14090,8 +14090,8 @@
       "chainId": 534352,
       "chainName": "Scroll",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "SCROLL_ETH",
+      "lastModifiedTime": 1765958402,
+      "symbol": "ETH",
       "tag": "Group1",
       "tokenAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
     },
