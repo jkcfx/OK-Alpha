@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1766046046,
+  "lastUpdated": 1766060971,
   "tokens": [
     {
       "chainId": 1,
@@ -2165,9 +2165,9 @@
       "chainId": 1,
       "chainName": "ETH",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146302,
+      "lastModifiedTime": 1766049275,
       "symbol": "thBILL",
-      "tag": "Group2",
+      "tag": "Group1",
       "tokenAddress": "0x5fa487bca6158c64046b2813623e20755091da0b"
     },
     {
@@ -5990,7 +5990,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766023202,
+      "lastModifiedTime": 1766059201,
       "symbol": "Froggie",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
@@ -13253,9 +13253,9 @@
       "chainId": 42161,
       "chainName": "ARBITRUM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146303,
+      "lastModifiedTime": 1766049275,
       "symbol": "thBILL",
-      "tag": "Group2",
+      "tag": "Group1",
       "tokenAddress": "0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a"
     },
     {
