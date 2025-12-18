@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1766074818,
+  "lastUpdated": 1766088883,
   "tokens": [
     {
       "chainId": 1,
@@ -4298,8 +4298,8 @@
       "chainId": 25,
       "chainName": "CRONOS",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765555202,
-      "symbol": "FTM",
+      "lastModifiedTime": 1766082601,
+      "symbol": "wftm",
       "tag": "Group1",
       "tokenAddress": "0xb44a9b6905af7c801311e8f4e76932ee959c663c"
     },
@@ -5991,7 +5991,7 @@
       "chainName": "BSC",
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1766061001,
-      "symbol": "Froggie",
+      "symbol": "Froggie ",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
     },
