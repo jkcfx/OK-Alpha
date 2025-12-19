@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1766161082,
+  "lastUpdated": 1766175352,
   "tokens": [
     {
       "chainId": 1,
@@ -4298,8 +4298,8 @@
       "chainId": 25,
       "chainName": "CRONOS",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766082601,
-      "symbol": "wftm",
+      "lastModifiedTime": 1766174402,
+      "symbol": "FTM",
       "tag": "Group1",
       "tokenAddress": "0xb44a9b6905af7c801311e8f4e76932ee959c663c"
     },
