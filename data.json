@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1766261657,
+  "lastUpdated": 1766279542,
   "tokens": [
     {
       "chainId": 1,
@@ -2237,7 +2237,7 @@
       "chainId": 1,
       "chainName": "ETH",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146302,
+      "lastModifiedTime": 1766273401,
       "symbol": "ARB",
       "tag": "Group1",
       "tokenAddress": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1"
@@ -3866,7 +3866,7 @@
       "chainId": 10,
       "chainName": "OPTIMISM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146299,
+      "lastModifiedTime": 1766275201,
       "symbol": "rETH",
       "tag": "Group1",
       "tokenAddress": "0x9bcef72be871e61ed4fbbc7630889bee758eb81d"
@@ -3893,7 +3893,7 @@
       "chainId": 10,
       "chainName": "OPTIMISM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146299,
+      "lastModifiedTime": 1766275201,
       "symbol": "frxETH",
       "tag": "Group1",
       "tokenAddress": "0x6806411765af15bddd26f8f544a34cc40cb9838b"
@@ -4046,8 +4046,8 @@
       "chainId": 10,
       "chainName": "OPTIMISM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146300,
-      "symbol": "BOB",
+      "lastModifiedTime": 1766271602,
+      "symbol": "bob",
       "tag": "Group1",
       "tokenAddress": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b"
     },
@@ -4262,7 +4262,7 @@
       "chainId": 10,
       "chainName": "OPTIMISM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765542602,
+      "lastModifiedTime": 1766273401,
       "symbol": "axlUSDC",
       "tag": "Group1",
       "tokenAddress": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
@@ -4298,8 +4298,8 @@
       "chainId": 25,
       "chainName": "CRONOS",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766174402,
-      "symbol": "FTM",
+      "lastModifiedTime": 1766271602,
+      "symbol": "wftm",
       "tag": "Group1",
       "tokenAddress": "0xb44a9b6905af7c801311e8f4e76932ee959c663c"
     },
@@ -4325,7 +4325,7 @@
       "chainId": 25,
       "chainName": "CRONOS",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146302,
+      "lastModifiedTime": 1766273401,
       "symbol": "VVS",
       "tag": "Group2",
       "tokenAddress": "0x2d03bece6747adc00e1a131bba1469c15fd11e03"
@@ -4406,7 +4406,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146299,
+      "lastModifiedTime": 1766273401,
       "symbol": "FDUSD",
       "tag": "Group1",
       "tokenAddress": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409"
@@ -4415,8 +4415,8 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765540802,
-      "symbol": "ezETH",
+      "lastModifiedTime": 1766271602,
+      "symbol": "ezeth",
       "tag": "Group1",
       "tokenAddress": "0x2416092f143378750bb29b79ed961ab195cceea5"
     },
@@ -4496,8 +4496,8 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765549802,
-      "symbol": "DOLA",
+      "lastModifiedTime": 1766271602,
+      "symbol": "dola",
       "tag": "Group1",
       "tokenAddress": "0x2f29bc0ffaf9bff337b31cbe6cb5fb3bf12e5840"
     },
@@ -4676,7 +4676,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146300,
+      "lastModifiedTime": 1766275201,
       "symbol": "USDX",
       "tag": "Group1",
       "tokenAddress": "0xf3527ef8de265eaa3716fb312c12847bfba66cef"
@@ -4748,7 +4748,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765557002,
+      "lastModifiedTime": 1766275201,
       "symbol": "BOB",
       "tag": "Group1",
       "tokenAddress": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b"
@@ -4865,8 +4865,8 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765540802,
-      "symbol": "USDZ",
+      "lastModifiedTime": 1766271602,
+      "symbol": "usdz",
       "tag": "Group1",
       "tokenAddress": "0x734d66f635523d7ddb7d2373c128333da313041b"
     },
@@ -4937,7 +4937,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765555202,
+      "lastModifiedTime": 1766275201,
       "symbol": "CUSD",
       "tag": "Group1",
       "tokenAddress": "0xfa4ba88cf97e282c505bea095297786c16070129"
@@ -4955,8 +4955,8 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765708201,
-      "symbol": "jEUR",
+      "lastModifiedTime": 1766271602,
+      "symbol": "jeur",
       "tag": "Group1",
       "tokenAddress": "0x23b8683ff98f9e4781552dfe6f12aa32814924e8"
     },
@@ -4973,8 +4973,8 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765726201,
-      "symbol": "TRYB",
+      "lastModifiedTime": 1766271602,
+      "symbol": "tryb",
       "tag": "Group1",
       "tokenAddress": "0xc1fdbed7dac39cae2ccc0748f7a80dc446f6a594"
     },
@@ -5279,7 +5279,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146302,
+      "lastModifiedTime": 1766273401,
       "symbol": "DEXE",
       "tag": "Group2",
       "tokenAddress": "0x6e88056e8376ae7709496ba64d37fa2f8015ce3e"
@@ -5666,7 +5666,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146302,
+      "lastModifiedTime": 1766273401,
       "symbol": "CGPT",
       "tag": "Group2",
       "tokenAddress": "0x9840652dc04fb9db2c43853633f0f62be6f00f98"
@@ -5990,7 +5990,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766253601,
+      "lastModifiedTime": 1766275202,
       "symbol": "Froggie",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
@@ -6368,7 +6368,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765540802,
+      "lastModifiedTime": 1766277002,
       "symbol": "USDe",
       "tag": "Group1",
       "tokenAddress": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
@@ -8861,7 +8861,7 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765540802,
+      "lastModifiedTime": 1766273401,
       "symbol": "FDUSD",
       "tag": "Group1",
       "tokenAddress": "9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u"
@@ -8906,8 +8906,8 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765544401,
-      "symbol": "tBTC",
+      "lastModifiedTime": 1766271602,
+      "symbol": "tbtc",
       "tag": "Group1",
       "tokenAddress": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU"
     },
@@ -9149,7 +9149,7 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146300,
+      "lastModifiedTime": 1766273401,
       "symbol": "VEUR",
       "tag": "Group1",
       "tokenAddress": "C4Kkr9NZU3VbyedcgutU6LKmi6MKz81sx6gRmk5pX519"
@@ -9212,8 +9212,8 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765629002,
-      "symbol": "BRZ",
+      "lastModifiedTime": 1766271602,
+      "symbol": "brz",
       "tag": "Group1",
       "tokenAddress": "FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD"
     },
@@ -9221,7 +9221,7 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765544401,
+      "lastModifiedTime": 1766275201,
       "symbol": "CUSD",
       "tag": "Group1",
       "tokenAddress": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL"
@@ -9356,7 +9356,7 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146301,
+      "lastModifiedTime": 1766273401,
       "symbol": "RENDER",
       "tag": "Group2",
       "tokenAddress": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof"
@@ -9806,7 +9806,7 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146302,
+      "lastModifiedTime": 1766273401,
       "symbol": "WLFI",
       "tag": "Group2",
       "tokenAddress": "WLFinEv6ypjkczcS83FZqFpgFZYwQXutRbxGe7oC16g"
@@ -11408,7 +11408,7 @@
       "chainId": 8453,
       "chainName": "Base",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146299,
+      "lastModifiedTime": 1766273401,
       "symbol": "crvUSD",
       "tag": "Group1",
       "tokenAddress": "0x417ac0e078398c154edfadd9ef675d30be60af93"
@@ -11579,8 +11579,8 @@
       "chainId": 8453,
       "chainName": "Base",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146300,
-      "symbol": "ZARP",
+      "lastModifiedTime": 1766271602,
+      "symbol": "zarp",
       "tag": "Group1",
       "tokenAddress": "0xb755506531786c8ac63b756bab1ac387bacb0c04"
     },
@@ -11705,8 +11705,8 @@
       "chainId": 8453,
       "chainName": "Base",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765560601,
-      "symbol": "USDGLO",
+      "lastModifiedTime": 1766271602,
+      "symbol": "usdglo",
       "tag": "Group1",
       "tokenAddress": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
     },
@@ -11741,8 +11741,8 @@
       "chainId": 8453,
       "chainName": "Base",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765548001,
-      "symbol": "USDM",
+      "lastModifiedTime": 1766271602,
+      "symbol": "usdm",
       "tag": "Group1",
       "tokenAddress": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
     },
@@ -12146,7 +12146,7 @@
       "chainId": 8453,
       "chainName": "Base",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146303,
+      "lastModifiedTime": 1766273401,
       "symbol": "SPX",
       "tag": "Group2",
       "tokenAddress": "0x50da645f148798f68ef2d7db7c1cb22a6819bb2c"
@@ -12686,7 +12686,7 @@
       "chainId": 42161,
       "chainName": "ARBITRUM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765540802,
+      "lastModifiedTime": 1766273401,
       "symbol": "USDS",
       "tag": "Group1",
       "tokenAddress": "0x6491c05a82219b8d1479057361ff1654749b876b"
@@ -12713,8 +12713,8 @@
       "chainId": 42161,
       "chainName": "ARBITRUM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765544401,
-      "symbol": "frxETH",
+      "lastModifiedTime": 1766271602,
+      "symbol": "frxeth",
       "tag": "Group1",
       "tokenAddress": "0x178412e79c25968a32e89b11f63b33f733770c2a"
     },
@@ -12731,7 +12731,7 @@
       "chainId": 42161,
       "chainName": "ARBITRUM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
+      "lastModifiedTime": 1766271602,
       "symbol": "dola",
       "tag": "Group1",
       "tokenAddress": "0x6a7661795c374c0bfc635934efaddff3a7ee23b6"
@@ -13019,8 +13019,8 @@
       "chainId": 42161,
       "chainName": "ARBITRUM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765555202,
-      "symbol": "USDM",
+      "lastModifiedTime": 1766271602,
+      "symbol": "usdm",
       "tag": "Group1",
       "tokenAddress": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
     },
@@ -13226,7 +13226,7 @@
       "chainId": 42161,
       "chainName": "ARBITRUM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146302,
+      "lastModifiedTime": 1766273401,
       "symbol": "GMX",
       "tag": "Group2",
       "tokenAddress": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a"
@@ -13307,7 +13307,7 @@
       "chainId": 42161,
       "chainName": "ARBITRUM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146303,
+      "lastModifiedTime": 1766277002,
       "symbol": "SUSHI",
       "tag": "Group2",
       "tokenAddress": "0xd4d42f0b6def4ce0383636770ef773390d85c61a"
@@ -13460,7 +13460,7 @@
       "chainId": 42161,
       "chainName": "ARBITRUM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765186338,
+      "lastModifiedTime": 1766273401,
       "symbol": "axlUSDC",
       "tag": "Group1",
       "tokenAddress": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
@@ -13577,7 +13577,7 @@
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146299,
+      "lastModifiedTime": 1766273401,
       "symbol": "EURC",
       "tag": "Group1",
       "tokenAddress": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd"
@@ -13730,8 +13730,8 @@
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765634401,
-      "symbol": "JPYC",
+      "lastModifiedTime": 1766271602,
+      "symbol": "jpyc",
       "tag": "Group1",
       "tokenAddress": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb"
     },
@@ -13739,8 +13739,8 @@
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765567802,
-      "symbol": "VEUR",
+      "lastModifiedTime": 1766271602,
+      "symbol": "veur",
       "tag": "Group1",
       "tokenAddress": "0x7678e162f38ec9ef2bfd1d0aaf9fd93355e5fa0b"
     },
@@ -13748,8 +13748,8 @@
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765560601,
-      "symbol": "VCHF",
+      "lastModifiedTime": 1766271602,
+      "symbol": "vchf",
       "tag": "Group1",
       "tokenAddress": "0x228a48df6819ccc2eca01e2192ebafffdad56c19"
     },
@@ -13784,7 +13784,7 @@
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765542601,
+      "lastModifiedTime": 1766273401,
       "symbol": "TRYB",
       "tag": "Group1",
       "tokenAddress": "0x564a341df6c126f90cf3ecb92120fd7190acb401"
@@ -13883,7 +13883,7 @@
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765187308,
+      "lastModifiedTime": 1766273401,
       "symbol": "DAI.e",
       "tag": "Group1",
       "tokenAddress": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70"
