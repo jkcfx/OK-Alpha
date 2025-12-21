@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1766319998,
+  "lastUpdated": 1766333774,
   "tokens": [
     {
       "chainId": 1,
@@ -4298,8 +4298,8 @@
       "chainId": 25,
       "chainName": "CRONOS",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766271602,
-      "symbol": "wftm",
+      "lastModifiedTime": 1766325601,
+      "symbol": "FTM",
       "tag": "Group1",
       "tokenAddress": "0xb44a9b6905af7c801311e8f4e76932ee959c663c"
     },
@@ -4496,8 +4496,8 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766271602,
-      "symbol": "dola",
+      "lastModifiedTime": 1766329201,
+      "symbol": "DOLA",
       "tag": "Group1",
       "tokenAddress": "0x2f29bc0ffaf9bff337b31cbe6cb5fb3bf12e5840"
     },
@@ -4860,15 +4860,6 @@
       "symbol": "USDV",
       "tag": "Group1",
       "tokenAddress": "0x9a5350edf28c1f93bb36d6e94b5c425fde8e222d"
-    },
-    {
-      "chainId": 56,
-      "chainName": "BSC",
-      "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766286001,
-      "symbol": "USDZ",
-      "tag": "Group1",
-      "tokenAddress": "0x734d66f635523d7ddb7d2373c128333da313041b"
     },
     {
       "chainId": 56,
@@ -5990,7 +5981,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766311201,
+      "lastModifiedTime": 1766332801,
       "symbol": "Froggie",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
@@ -11705,8 +11696,8 @@
       "chainId": 8453,
       "chainName": "Base",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766271602,
-      "symbol": "usdglo",
+      "lastModifiedTime": 1766332801,
+      "symbol": "USDGLO",
       "tag": "Group1",
       "tokenAddress": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
     },
