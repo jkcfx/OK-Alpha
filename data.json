@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1766279542,
+  "lastUpdated": 1766291537,
   "tokens": [
     {
       "chainId": 1,
@@ -4046,8 +4046,8 @@
       "chainId": 10,
       "chainName": "OPTIMISM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766271602,
-      "symbol": "bob",
+      "lastModifiedTime": 1766282401,
+      "symbol": "BOB",
       "tag": "Group1",
       "tokenAddress": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b"
     },
@@ -4865,8 +4865,8 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766271602,
-      "symbol": "usdz",
+      "lastModifiedTime": 1766286001,
+      "symbol": "USDZ",
       "tag": "Group1",
       "tokenAddress": "0x734d66f635523d7ddb7d2373c128333da313041b"
     },
@@ -8906,8 +8906,8 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766271602,
-      "symbol": "tbtc",
+      "lastModifiedTime": 1766286001,
+      "symbol": "tBTC",
       "tag": "Group1",
       "tokenAddress": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU"
     },
@@ -11579,8 +11579,8 @@
       "chainId": 8453,
       "chainName": "Base",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766271602,
-      "symbol": "zarp",
+      "lastModifiedTime": 1766282401,
+      "symbol": "ZARP",
       "tag": "Group1",
       "tokenAddress": "0xb755506531786c8ac63b756bab1ac387bacb0c04"
     },
@@ -12713,8 +12713,8 @@
       "chainId": 42161,
       "chainName": "ARBITRUM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766271602,
-      "symbol": "frxeth",
+      "lastModifiedTime": 1766284201,
+      "symbol": "frxETH",
       "tag": "Group1",
       "tokenAddress": "0x178412e79c25968a32e89b11f63b33f733770c2a"
     },
