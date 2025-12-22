@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1766406587,
+  "lastUpdated": 1766420282,
   "tokens": [
     {
       "chainId": 1,
@@ -5981,7 +5981,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766383202,
+      "lastModifiedTime": 1766412002,
       "symbol": "Froggie",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
@@ -9212,8 +9212,8 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766271602,
-      "symbol": "brz",
+      "lastModifiedTime": 1766415601,
+      "symbol": "BRZ",
       "tag": "Group1",
       "tokenAddress": "FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD"
     },
@@ -13757,8 +13757,8 @@
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766271602,
-      "symbol": "jpyc",
+      "lastModifiedTime": 1766408401,
+      "symbol": "JPYC",
       "tag": "Group1",
       "tokenAddress": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb"
     },
