@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1766365865,
+  "lastUpdated": 1766378064,
   "tokens": [
     {
       "chainId": 1,
@@ -5981,7 +5981,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766359802,
+      "lastModifiedTime": 1766368802,
       "symbol": "Froggie",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
@@ -8208,6 +8208,15 @@
       "symbol": "USDT",
       "tag": "Group1",
       "tokenAddress": "0x9417669fbf23357d2774e9d421307bd5ea1006d2"
+    },
+    {
+      "chainId": 137,
+      "chainName": "POLYGON",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1766376002,
+      "symbol": "XAUt0",
+      "tag": "Group2",
+      "tokenAddress": "0xf1815bd50389c46847f0bda824ec8da914045d14"
     },
     {
       "chainId": 143,
@@ -10748,6 +10757,15 @@
       "tokenAddress": "XscE4GUcsYhcyZu5ATiGUMmhxYa1D5fwbpJw4K6K4dp"
     },
     {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1766376002,
+      "symbol": "XAUt0",
+      "tag": "Group2",
+      "tokenAddress": "AymATz4TCL9sWNEEV9Kvyz45CHVhDZ6kUgjTJPzLpU9P"
+    },
+    {
       "chainId": 1030,
       "chainName": "Conflux eSpace",
       "lastModifiedBy": "admin",
@@ -11732,8 +11750,8 @@
       "chainId": 8453,
       "chainName": "Base",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766271602,
-      "symbol": "usdm",
+      "lastModifiedTime": 1766368802,
+      "symbol": "USDM",
       "tag": "Group1",
       "tokenAddress": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c"
     },
@@ -12492,6 +12510,15 @@
       "symbol": "plUSD",
       "tag": "Group1",
       "tokenAddress": "0xf91c31299e998c5127bc5f11e4a657fc0cf358cd"
+    },
+    {
+      "chainId": 9745,
+      "chainName": "PLASMA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1766376002,
+      "symbol": "XAUt0",
+      "tag": "Group2",
+      "tokenAddress": "0x1b64b9025eebb9a6239575df9ea4b9ac46d4d193"
     },
     {
       "chainId": 10001,
@@ -13475,6 +13502,15 @@
       "tokenAddress": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2"
     },
     {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1766376002,
+      "symbol": "XAUt0",
+      "tag": "Group2",
+      "tokenAddress": "0x40461291347e1ecbb09499f3371d3f17f10d7159"
+    },
+    {
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
@@ -13878,6 +13914,15 @@
       "symbol": "DAI.e",
       "tag": "Group1",
       "tokenAddress": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70"
+    },
+    {
+      "chainId": 43114,
+      "chainName": "AVAX",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1766376002,
+      "symbol": "XAUt0",
+      "tag": "Group2",
+      "tokenAddress": "0x2775d5105276781b4b85ba6ea6a6653beed1dd32"
     },
     {
       "chainId": 59144,
