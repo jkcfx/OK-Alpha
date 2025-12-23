@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1766452088,
+  "lastUpdated": 1766464347,
   "tokens": [
     {
       "chainId": 1,
@@ -5982,7 +5982,7 @@
       "chainName": "BSC",
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1766439001,
-      "symbol": "Froggie",
+      "symbol": "Froggie ",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
     },
@@ -13766,8 +13766,8 @@
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766271602,
-      "symbol": "veur",
+      "lastModifiedTime": 1766457002,
+      "symbol": "VEUR",
       "tag": "Group1",
       "tokenAddress": "0x7678e162f38ec9ef2bfd1d0aaf9fd93355e5fa0b"
     },
