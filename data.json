@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1766434558,
+  "lastUpdated": 1766452088,
   "tokens": [
     {
       "chainId": 1,
@@ -5981,7 +5981,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766433602,
+      "lastModifiedTime": 1766439001,
       "symbol": "Froggie",
       "tag": "Group2",
       "tokenAddress": "0xa45f5eb48cecd034751651aeeda6271bd5df8888"
@@ -12749,8 +12749,8 @@
       "chainId": 42161,
       "chainName": "ARBITRUM",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766271602,
-      "symbol": "dola",
+      "lastModifiedTime": 1766437201,
+      "symbol": "DOLA",
       "tag": "Group1",
       "tokenAddress": "0x6a7661795c374c0bfc635934efaddff3a7ee23b6"
     },
