@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1766550635,
+  "lastUpdated": 1766564450,
   "tokens": [
     {
       "chainId": 1,
@@ -248,9 +248,9 @@
       "chainId": 1,
       "chainName": "ETH",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146299,
+      "lastModifiedTime": 1766553432,
       "symbol": "PAXG",
-      "tag": "Group1",
+      "tag": "Group2",
       "tokenAddress": "0x45804880de22913dafe09f4980848ece6ecbaf78"
     },
     {
