@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1766564450,
+  "lastUpdated": 1766579364,
   "tokens": [
     {
       "chainId": 1,
@@ -2588,9 +2588,9 @@
       "chainId": 1,
       "chainName": "ETH",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146303,
+      "lastModifiedTime": 1766571601,
       "symbol": "USDon",
-      "tag": "Group2",
+      "tag": "Group1",
       "tokenAddress": "0xace8e719899f6e91831b18ae746c9a965c2119f1"
     },
     {
@@ -7295,9 +7295,9 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765235783,
+      "lastModifiedTime": 1766571601,
       "symbol": "USDon",
-      "tag": "Group2",
+      "tag": "Group1",
       "tokenAddress": "0x1f8955E640Cbd9abc3C3Bb408c9E2E1f5F20DfE6"
     },
     {
