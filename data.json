@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1767630041,
+  "lastUpdated": 1767644282,
   "tokens": [
     {
       "chainId": 1,
@@ -10764,6 +10764,15 @@
       "symbol": "XAUt0",
       "tag": "Group2",
       "tokenAddress": "AymATz4TCL9sWNEEV9Kvyz45CHVhDZ6kUgjTJPzLpU9P"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1767632388,
+      "symbol": "JupUSD",
+      "tag": "Group1",
+      "tokenAddress": "JuprjznTrTSp2UFa3ZBUFgwdAmtZCq4MQCwysN55USD"
     },
     {
       "chainId": 1030,
