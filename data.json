@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1767687701,
+  "lastUpdated": 1767702664,
   "tokens": [
     {
       "chainId": 1,
@@ -4370,8 +4370,8 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "ETH",
+      "lastModifiedTime": 1767697202,
+      "symbol": "WETH",
       "tag": "Group1",
       "tokenAddress": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
     },
