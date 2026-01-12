@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1768206155,
+  "lastUpdated": 1768221149,
   "tokens": [
     {
       "chainId": 1,
@@ -11867,8 +11867,8 @@
       "chainId": 5000,
       "chainName": "Mantle",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1767782814,
-      "symbol": "",
+      "lastModifiedTime": 1768217402,
+      "symbol": "IWMx",
       "tag": "Group2",
       "tokenAddress": "0xdadfb355c6110eda0908740d52c834d6c2bcddc7"
     },
