@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1768594562,
+  "lastUpdated": 1768612049,
   "tokens": [
     {
       "chainId": 1,
@@ -14297,7 +14297,7 @@
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766273401,
+      "lastModifiedTime": 1768606202,
       "symbol": "EURC",
       "tag": "Group1",
       "tokenAddress": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd"
@@ -14450,8 +14450,8 @@
       "chainId": 43114,
       "chainName": "AVAX",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766408401,
-      "symbol": "JPYC",
+      "lastModifiedTime": 1768604402,
+      "symbol": "jpyc",
       "tag": "Group1",
       "tokenAddress": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb"
     },
