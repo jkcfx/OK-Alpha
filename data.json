@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1768970322,
+  "lastUpdated": 1768983809,
   "tokens": [
     {
       "chainId": 1,
@@ -9032,8 +9032,8 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "zusd",
+      "lastModifiedTime": 1768980601,
+      "symbol": "ZUSD",
       "tag": "Group1",
       "tokenAddress": "FrBfWJ4qE5sCzKm3k3JaAtqZcXUh4LvJygDeketsrsH4"
     },
@@ -9041,8 +9041,8 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765539002,
-      "symbol": "gyen",
+      "lastModifiedTime": 1768982401,
+      "symbol": "GYEN",
       "tag": "Group1",
       "tokenAddress": "Crn4x1Y2HUKko7ox2EZMT6N2t2ZyH7eKtwkBGVnhEq1g"
     },
