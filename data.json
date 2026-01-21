@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1768983809,
+  "lastUpdated": 1768998860,
   "tokens": [
     {
       "chainId": 1,
@@ -8514,6 +8514,42 @@
       "symbol": "xBTC",
       "tag": "Group1",
       "tokenAddress": "0xb7c00000bcdeef966b20b3d884b98e64d2b06b4f"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1768995856,
+      "symbol": "xETH",
+      "tag": "Group1",
+      "tokenAddress": "0xE7B000003A45145decf8a28FC755aD5eC5EA025A"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1768995856,
+      "symbol": "xSOL",
+      "tag": "Group1",
+      "tokenAddress": "0x505000008DE8748DBd4422ff4687a4FC9bEba15b"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1768995856,
+      "symbol": "xBETH",
+      "tag": "Group1",
+      "tokenAddress": "0xAFeab3B85B6A56cF5F02317F0f7A23340eb983D7"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1768995856,
+      "symbol": "xOKSOL",
+      "tag": "Group1",
+      "tokenAddress": "0x14a686103854DAB7b8801E31979CAA595835B25d"
     },
     {
       "chainId": 250,
