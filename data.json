@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1769070164,
+  "lastUpdated": 1769085238,
   "tokens": [
     {
       "chainId": 1,
@@ -10908,6 +10908,942 @@
       "symbol": "jlJUPUSD",
       "tag": "Group1",
       "tokenAddress": "7GxATsNMnaC88vdwd2t3mwrFuQwwGvmYPrUQ4D6FotXk"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "AAPLon",
+      "tag": "Group2",
+      "tokenAddress": "123mYEnRLM2LLYsJW3K6oyYh8uP1fngj732iG638ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "ABNBon",
+      "tag": "Group2",
+      "tokenAddress": "128qNYovdGv2YqayErcJgU7gDwbNVX1VuoxbtWz8ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "ABTon",
+      "tag": "Group2",
+      "tokenAddress": "129gRoHKhVg7CvPMrqVsEB4uYZo6zV4yDZX6NBg9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "ACNon",
+      "tag": "Group2",
+      "tokenAddress": "12LxMMJYVSf4LoeqjFE47BQQNRciaH9E3nbDfjH4ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "ADBEon",
+      "tag": "Group2",
+      "tokenAddress": "12Rh6JhfW4X5fKP16bbUdb4pcVCKDHFB48x8GG33ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "AGGon",
+      "tag": "Group2",
+      "tokenAddress": "13qTjKx53y6LKGGStiKeieGbnVx3fx1bbwopKFb3ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "AMDon",
+      "tag": "Group2",
+      "tokenAddress": "14diAn5z8kjrKwSC8WLqvBqqe5YmihJhjxRxd8Z6ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "AMZNon",
+      "tag": "Group2",
+      "tokenAddress": "14Tqdo8V1FhzKsE3W2pFsZCzYPQxxupXRcqw9jv6ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "APOon",
+      "tag": "Group2",
+      "tokenAddress": "14VXAhoa1R74vi1ZuiQyGLJrnDMfoFBPJSCpGVz3ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "APPon",
+      "tag": "Group2",
+      "tokenAddress": "14Z8rQQe2Aza33YgEUmj3g3QGNz8DXLiFPuCnsD1ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "ARMon",
+      "tag": "Group2",
+      "tokenAddress": "15SsCZqCsM9fZGhTmP4rdJTPT9WGZKazDSsgeQ8ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "ASMLon",
+      "tag": "Group2",
+      "tokenAddress": "1eLZPRsn8bAKmoxsqDMH9Q2m2k7GMNp6RLSQGm8ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "AVGOon",
+      "tag": "Group2",
+      "tokenAddress": "1FWZtdWN7y38BSXGzbs8D6Shk88oL9atDNgbVz9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "AXPon",
+      "tag": "Group2",
+      "tokenAddress": "1WxT6NdK7uqpfXuKpALxL2n3f7Rq61XXeHA8UM4ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075860,
+      "symbol": "BABAon",
+      "tag": "Group2",
+      "tokenAddress": "1zvb9ELBFShBCWKEk5jRTJAaPAwtVt7quEXx1X4ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "BAon",
+      "tag": "Group2",
+      "tokenAddress": "1YVZ4LGpq8CAhpdpm3mgy7GgPb83gJczCpxLUQ3ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "BIDUon",
+      "tag": "Group2",
+      "tokenAddress": "54CoRF2FYMZNJg9tS36xq5BUcLZ7rju1r59jGc2ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "BLKon",
+      "tag": "Group2",
+      "tokenAddress": "5H1VpMzRuoNtRbPTRCz35ETtEUtnkt8hJuQb9v7ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "CMGon",
+      "tag": "Group2",
+      "tokenAddress": "5owVsVFSHACQuippFYdLp3qWRobp2EGcwxMmsr6ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "COINon",
+      "tag": "Group2",
+      "tokenAddress": "5u6KDiNJXxX4rGMfYT4BApZQC5CuDNrG6MHkwp1ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "COSTon",
+      "tag": "Group2",
+      "tokenAddress": "6btaz134wjHkR8sqhAYrtSM6tavftfxnRvnyMd8ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "CRCLon",
+      "tag": "Group2",
+      "tokenAddress": "6xHEyem9hmkGtVq6XGCiQUGpPsHBaoYuYdFNZa5ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "CRMon",
+      "tag": "Group2",
+      "tokenAddress": "7D7ukbcnUNYt7Et5vtsDZhAy28MKu9pkHka1Hp9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "CSCOon",
+      "tag": "Group2",
+      "tokenAddress": "7DWcZE1uVc8m2mf9pV8KNov28ET7HsvHkhrhgr9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "CVXon",
+      "tag": "Group2",
+      "tokenAddress": "7tgKziACteG26VjV5xKufojKxwTgCFyTwmWUmz5ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "DASHon",
+      "tag": "Group2",
+      "tokenAddress": "83P1gCFBZfGRCwJuBt9juxJKEsZwejJoG66eTZ6ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "DISon",
+      "tag": "Group2",
+      "tokenAddress": "mJf1xT3suXtkXBCfZcE9oUUuyxkvSgqYBWiX7v1ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "EEMon",
+      "tag": "Group2",
+      "tokenAddress": "916SDKz7y5ZcEZC9CtnQ5Djs1Y8Yv3UAPb6bak8ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "EFAon",
+      "tag": "Group2",
+      "tokenAddress": "AbvryMGnaba9oADMZk8Vp2Av6MtczsncGyfWaC4ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "EQIXon",
+      "tag": "Group2",
+      "tokenAddress": "aheEdmuryJU8ymy8LjYheZH5i2BW1UMsfuWQKD2ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "FIGon",
+      "tag": "Group2",
+      "tokenAddress": "aLDdFsr3VTUQaHFK6yNvQxztvxQ8nxW4AMuSGC7ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "FUTUon",
+      "tag": "Group2",
+      "tokenAddress": "Ao5rKFRQ54W3DKSAtqfhBRPNHewwWRLNLao2JL9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "GEon",
+      "tag": "Group2",
+      "tokenAddress": "aTBfDuLRqYHBiG82bHA7DzwjSDTFre2dRtGH3S5ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "GMEon",
+      "tag": "Group2",
+      "tokenAddress": "aznKt8v32CwYMEcTcB4bGTv8DXWStCpHrcCtyy7ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "GOOGLon",
+      "tag": "Group2",
+      "tokenAddress": "bbahNA5vT9WJeYft8tALrH1LXWffjwqVoUbqYa1ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "GSon",
+      "tag": "Group2",
+      "tokenAddress": "BchJRy2snmhJZf3rQ9LJ3ePs2BGfYgfvQNo31d2ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "HIMSon",
+      "tag": "Group2",
+      "tokenAddress": "bdh3njeo19d2TBLAKTGvCWdSoArfVw8uZBAJHY4ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "HOODon",
+      "tag": "Group2",
+      "tokenAddress": "BVdXGvmgi6A9oAiwWvBvP76fyTqcCNRJMM7zMN6ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "HYGon",
+      "tag": "Group2",
+      "tokenAddress": "c5ug15fwZRfQhhVa6LHscFY33ebVDHcVCezYpj7ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "IAUon",
+      "tag": "Group2",
+      "tokenAddress": "M77ZvkZ8zW5udRbuJCbuwSwavRa7bGAZYMTwru8ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "IBMon",
+      "tag": "Group2",
+      "tokenAddress": "C8bZkgSxXkyT1RgxByp2teJ24hgimPLoyEYoNa9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "IEFAon",
+      "tag": "Group2",
+      "tokenAddress": "C9J9vZ8N79GzzxFoRkPWCkGtMKU8akg4FhUk4r9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "IEMGon",
+      "tag": "Group2",
+      "tokenAddress": "cdVNL7wK8mf1UCDqM6zdrziRv4hmvqWhXeTcck2ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "IJHon",
+      "tag": "Group2",
+      "tokenAddress": "cfPLN9WXD2BTkbZhRZMVXPmVSiRo44hJWRtnaC8ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "INTCon",
+      "tag": "Group2",
+      "tokenAddress": "cJpUMp5R7rZ6fGeLHbHhrRuJzK9mkyKDjZqNpT3ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "INTUon",
+      "tag": "Group2",
+      "tokenAddress": "CozoH5HBTyyeYSQxHcWpGzd4Sq5XBaKzBzvTtN3ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "ITOTon",
+      "tag": "Group2",
+      "tokenAddress": "CPWkMURVvcnX8hGjqCTb8i5LkzV3VSvyk7SeJi8ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "IVVon",
+      "tag": "Group2",
+      "tokenAddress": "CqW2pd6dCPG9xKZfAsTovzDsMmAGKJSDBNcwM96ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "IWFon",
+      "tag": "Group2",
+      "tokenAddress": "dSHPFuMMjZqt7xDYGWrexXTSkdEZAiZngqymQF2ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "IWMon",
+      "tag": "Group2",
+      "tokenAddress": "dvj2kKFSyjpnyYSYppgFdAEVfgjMEoQGi9VaV23ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "IWNon",
+      "tag": "Group2",
+      "tokenAddress": "DX7g7WNjDpVzNK9CG81v7wb6ZbiNzYfkdzH2Xs5ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "JDon",
+      "tag": "Group2",
+      "tokenAddress": "E1aUS5nyv7kaBzdQzPVJW5zfaMgoUJpKYzdnFS2ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "JPMon",
+      "tag": "Group2",
+      "tokenAddress": "E5Gczsavxcomqf6Cw1sGCKLabL1xYD2FzKxVoB4ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "KOon",
+      "tag": "Group2",
+      "tokenAddress": "e6G4pfFcrdKxJuZ4YXixRFfMbpMvgXG2Mjcus71ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "LINon",
+      "tag": "Group2",
+      "tokenAddress": "Edik9MoFp8LAXS9HNu2gRFyihwYqDqv4ZmNmVT9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "LLYon",
+      "tag": "Group2",
+      "tokenAddress": "eGGxZwNSfuNKRqQLKaz2hc4QkA2mau7skyxPdj7ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "LMTon",
+      "tag": "Group2",
+      "tokenAddress": "EoReHwUnGGekbXFHLj5rbCVKiwWqu32GrETMfw4ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "MAon",
+      "tag": "Group2",
+      "tokenAddress": "EsVHcyRxXFJCLMiuYLWhoDygrNe1BJGpYeZ17X7ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "MARAon",
+      "tag": "Group2",
+      "tokenAddress": "ETCJUmuhs5aY62xgEVWCZ5JR8KPdeXUaJz3LuC5ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "MCDon",
+      "tag": "Group2",
+      "tokenAddress": "EUbJjmDt8JA222M91bVLZs211siZ2jzbFArH9N3ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "MELIon",
+      "tag": "Group2",
+      "tokenAddress": "EWwdgGshGngcMpDV34pWZRSu5bkAuiKuKTTHKQ8ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "METAon",
+      "tag": "Group2",
+      "tokenAddress": "fDxs5y12E7x7jBwCKBXGqt71uJmCWsAQ3Srkte6ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "MRVLon",
+      "tag": "Group2",
+      "tokenAddress": "FovBwhoV5KQjZCdhoM6jgXYwXLX3F8vgAfvmLH7ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "MSFTon",
+      "tag": "Group2",
+      "tokenAddress": "FRmH6iRkMr33DLG6zVLR7EM4LojBFAuq6NtFzG6ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "MSTRon",
+      "tag": "Group2",
+      "tokenAddress": "FSz4ouiqXpHuGPcpacZfTzbMjScoj5FfzHkiyu2ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "MUon",
+      "tag": "Group2",
+      "tokenAddress": "Fz9edBpaURPPzpKVRR1A8PENYDEgHqwx5D5th28ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "NFLXon",
+      "tag": "Group2",
+      "tokenAddress": "g4KnPrxPLeeKkwvDmZFMtYQPM64eHeShbD55vK6ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "NKEon",
+      "tag": "Group2",
+      "tokenAddress": "g646pcdG2Rt5DH9WZzL7VVnVDWCCMTTrnktwE74ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "NOWon",
+      "tag": "Group2",
+      "tokenAddress": "G7pTVoSECz5RQWubEnTP7AC83KHUsSyoiqYR1R2ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "NVDAon",
+      "tag": "Group2",
+      "tokenAddress": "gEGtLTPNQ7jcg25zTetkbmF7teoDLcrfTnQfmn2ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "NVOon",
+      "tag": "Group2",
+      "tokenAddress": "GeV7S8vjP8qdYZpdGv2Xi6e7MUMCk8NAAp2z7g5ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "ORCLon",
+      "tag": "Group2",
+      "tokenAddress": "GmDADFpfwjfzZq9MfCafMDTS69MgVjtzD7Fd9a4ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "PANWon",
+      "tag": "Group2",
+      "tokenAddress": "M7hVQomhw4Q2D2op3HvBrZjHu9SryjNvD5haEZ1ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "PBRon",
+      "tag": "Group2",
+      "tokenAddress": "GRciFCqJ5y2hbiD6U5mGkohY65BZTXGuGUrCqf7ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "PEPon",
+      "tag": "Group2",
+      "tokenAddress": "gud6b3fYekjhMG5F818BALwbg2vt4JKoow59Md9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "PFEon",
+      "tag": "Group2",
+      "tokenAddress": "Gwh9fPsX1qWATXy63vNaJnAFfwebWQtZaVmPko6ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "PGon",
+      "tag": "Group2",
+      "tokenAddress": "GZ8v4NdSG7CTRZqHMgNsTPRULeVi8CpdWd9wZY8ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "PLTRon",
+      "tag": "Group2",
+      "tokenAddress": "HfsnTS5qtdStwec9DfBrunRqnAMYMMz1kjv9Hu9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "PYPLon",
+      "tag": "Group2",
+      "tokenAddress": "hM7B3UQTTR81mS27SxDDPzBbjejmo8fnpFjzgv9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "QBTSon",
+      "tag": "Group2",
+      "tokenAddress": "hqJXutLF6f7DxStrWCrnZDfXzbNTZmvi3KheVi6ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "QCOMon",
+      "tag": "Group2",
+      "tokenAddress": "hrmX7MV5hifoaBVjnrdpz698yABxrbBNAcWtWo9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "QQQon",
+      "tag": "Group2",
+      "tokenAddress": "HrYNm6jTQ71LoFphjVKBTdAE4uja7WsmLG8VxB8ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "RDDTon",
+      "tag": "Group2",
+      "tokenAddress": "HXFrTf9v9NdjGUTnx4sojR3Cf92hoBsQFUxKTN7ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "RIOTon",
+      "tag": "Group2",
+      "tokenAddress": "i6f3DvZBuLpnGSqS8x6WPeStJ7jNe5KewD6afD5ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "SBETon",
+      "tag": "Group2",
+      "tokenAddress": "iLDu2jjp2i3Uqc2Vm7K7GLiUj3hR4Un49MtD7c4ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "SBUXon",
+      "tag": "Group2",
+      "tokenAddress": "iPFqjcZQTNMNXA4kbShbMhfAVD8yr8Uq9UtXMV6ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "SHOPon",
+      "tag": "Group2",
+      "tokenAddress": "ivdDracs2s7jCP698dJXKSEQdVrNj9hasJL1Uq1ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "SLVon",
+      "tag": "Group2",
+      "tokenAddress": "iy11ytbSGcUnrjE6Lfv78TFqxKyUESfku1FugS9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "SMCIon",
+      "tag": "Group2",
+      "tokenAddress": "jLca79XzcewRuBZyaJxVxuKpUHcEix1X4CP1RP9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "SNOWon",
+      "tag": "Group2",
+      "tokenAddress": "JmFLCBwoNvcXy6B2VqABg6m784ubkXpaEx3p7S5ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "SPGIon",
+      "tag": "Group2",
+      "tokenAddress": "JrTYw7A9jihX5TwpRStYviEbsYf2X2VJpZ13719ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "SPOTon",
+      "tag": "Group2",
+      "tokenAddress": "jzCvs2Pk8tDcfsFRqnEMjurgaQW4iQfEkandUR8ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "SPYon",
+      "tag": "Group2",
+      "tokenAddress": "k18WJUULWheRkSpSquYGdNNmtuE2Vbw1hpuUi92ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "TIPon",
+      "tag": "Group2",
+      "tokenAddress": "k6BPp2Xmf2TYgrZiUyWfUoZBKeqaDbvPoAVgSx2ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "TLTon",
+      "tag": "Group2",
+      "tokenAddress": "KaSLSWByKy6b9FrCYXPEJoHmLpuFZtTCJk1F1Z9ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "TMon",
+      "tag": "Group2",
+      "tokenAddress": "kbmF7ERJWMaaDswMprrH9gHSLya5D2RMBNgKqg3ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "TSLAon",
+      "tag": "Group2",
+      "tokenAddress": "KeGv7bsfR4MheC1CkmnAVceoApjrkvBhHYjWb67ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "TSMon",
+      "tag": "Group2",
+      "tokenAddress": "keybg184d4vyXeQdFqs4o99YsMg7xBthxTJ6Ky3ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "UBERon",
+      "tag": "Group2",
+      "tokenAddress": "KJNeFW3kk3ycPjXpC6cbuyckjeYHacc2ekhtAi5ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "UNHon",
+      "tag": "Group2",
+      "tokenAddress": "kPBGL8vAwKN3UGmr9cjkM2dU79SC3nzTC9yu7F8ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "USDon",
+      "tag": "Group1",
+      "tokenAddress": "ZPFtoCe7WWqG4N3ZFRccS8T9SMBeHsd1Vmgv2i7ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "Von",
+      "tag": "Group2",
+      "tokenAddress": "kxEW4oJL75K37VeXaZF1ynbHQATQwhECQKN1374ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "WFCon",
+      "tag": "Group2",
+      "tokenAddress": "L6ZE5qCpVVSqLePz64CrwkgyWoPF9M7tB8BeFH4ondo"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769075861,
+      "symbol": "WMTon",
+      "tag": "Group2",
+      "tokenAddress": "LZddqAqKqJW9oMZSjTxCUmbmzBRQtv9gMkD9hZ3ondo"
     },
     {
       "chainId": 1030,
