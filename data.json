@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1769749500,
+  "lastUpdated": 1769761787,
   "tokens": [
     {
       "chainId": 1,
@@ -8219,6 +8219,15 @@
       "tokenAddress": "0xf1815bd50389c46847f0bda824ec8da914045d14"
     },
     {
+      "chainId": 137,
+      "chainName": "POLYGON",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769757354,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6"
+    },
+    {
       "chainId": 143,
       "chainName": "Monad",
       "lastModifiedBy": "admin",
@@ -15174,6 +15183,15 @@
       "symbol": "XAUt0",
       "tag": "Group2",
       "tokenAddress": "0x40461291347e1ecbb09499f3371d3f17f10d7159"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1769757354,
+      "symbol": "cbBTC",
+      "tag": "Group1",
+      "tokenAddress": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
     },
     {
       "chainId": 43114,
