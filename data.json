@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1769876372,
+  "lastUpdated": 1769890663,
   "tokens": [
     {
       "chainId": 1,
@@ -9257,8 +9257,8 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1769729401,
-      "symbol": "brz",
+      "lastModifiedTime": 1769889601,
+      "symbol": "BRZ",
       "tag": "Group1",
       "tokenAddress": "FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD"
     },
