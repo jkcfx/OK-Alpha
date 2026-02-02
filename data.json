@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1770021280,
+  "lastUpdated": 1770036070,
   "tokens": [
     {
       "chainId": 1,
@@ -4268,6 +4268,15 @@
       "tokenAddress": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
     },
     {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "0x68f180fcce6836688e9084f035309e29bf0a2095"
+    },
+    {
       "chainId": 25,
       "chainName": "CRONOS",
       "lastModifiedBy": "admin",
@@ -4338,6 +4347,15 @@
       "symbol": "DAI",
       "tag": "Group1",
       "tokenAddress": "0xf2001b145b43032aaf5ee2884e456ccd805f677d"
+    },
+    {
+      "chainId": 25,
+      "chainName": "CRONOS",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "0x062E66477Faf219F25D27dCED647BF57C3107d52"
     },
     {
       "chainId": 56,
@@ -7337,6 +7355,15 @@
       "tokenAddress": "0xce24439f2d9c6a2289f741120fe202248b666666"
     },
     {
+      "chainId": 56,
+      "chainName": "BSC",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+    },
+    {
       "chainId": 130,
       "chainName": "Unichain",
       "lastModifiedBy": "admin",
@@ -7398,6 +7425,15 @@
       "symbol": "frxUSD",
       "tag": "Group1",
       "tokenAddress": "0x80eede496655fb9047dd39d9f418d5483ed600df"
+    },
+    {
+      "chainId": 130,
+      "chainName": "Unichain",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
     },
     {
       "chainId": 137,
@@ -8300,6 +8336,15 @@
       "tokenAddress": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a"
     },
     {
+      "chainId": 143,
+      "chainName": "Monad",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+    },
+    {
       "chainId": 146,
       "chainName": "Sonic",
       "lastModifiedBy": "admin",
@@ -8334,6 +8379,15 @@
       "symbol": "USDC",
       "tag": "Group1",
       "tokenAddress": "0x29219dd400f2bf60e5a23d13be72b486d4038894"
+    },
+    {
+      "chainId": 146,
+      "chainName": "Sonic",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
     },
     {
       "chainId": 169,
@@ -8694,6 +8748,15 @@
       "symbol": "USDC",
       "tag": "Group1",
       "tokenAddress": "0x28a92dde19d9989f39a49905d7c9c2fac7799bdf"
+    },
+    {
+      "chainId": 250,
+      "chainName": "FTM",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "0x321162Cd933E2Be498Cd2267a90534A804051b11"
     },
     {
       "chainId": 324,
@@ -11855,6 +11918,15 @@
       "tokenAddress": "LZddqAqKqJW9oMZSjTxCUmbmzBRQtv9gMkD9hZ3ondo"
     },
     {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "5XZw2LKTyrfvfiskJ78AMpackRjPcyCif1WhUsPDuVqQ"
+    },
+    {
       "chainId": 1030,
       "chainName": "Conflux eSpace",
       "lastModifiedBy": "admin",
@@ -11898,6 +11970,15 @@
       "symbol": "WCFX",
       "tag": "Group1",
       "tokenAddress": "0x14b2d3bc65e74dae1030eafd8ac30c533c976a9b"
+    },
+    {
+      "chainId": 1030,
+      "chainName": "Conflux eSpace",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "0x1f545487c62e5acfea45dcadd9c627361d1616d8"
     },
     {
       "chainId": 1088,
@@ -11979,6 +12060,15 @@
       "symbol": "m.USDC",
       "tag": "Group1",
       "tokenAddress": "0xea32a96608495e54156ae48931a7c20f0dcc1a21"
+    },
+    {
+      "chainId": 1088,
+      "chainName": "Metis",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4"
     },
     {
       "chainId": 1101,
@@ -12195,6 +12285,15 @@
       "symbol": "M-USDT",
       "tag": "Group1",
       "tokenAddress": "0x967aec3276b63c5e2262da9641db9dbebb07dc0d"
+    },
+    {
+      "chainId": 4200,
+      "chainName": "Merlin",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba"
     },
     {
       "chainId": 5000,
@@ -14096,6 +14195,24 @@
       "tokenAddress": "0x0000206329b97db379d5e1bf586bbdb969c63274"
     },
     {
+      "chainId": 8453,
+      "chainName": "Base",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770022936,
+      "symbol": "flETH",
+      "tag": "Group1",
+      "tokenAddress": "0x000000000d564d5be76f7f0d28fe52605afc7cf8"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "0x1cea84203673764244e05693e42e6ace62be9ba5"
+    },
+    {
       "chainId": 9745,
       "chainName": "PLASMA",
       "lastModifiedBy": "admin",
@@ -14211,6 +14328,15 @@
       "symbol": "wethw_lfg",
       "tag": "Group1",
       "tokenAddress": "0x7bf88d2c0e32de92cdaf2d43ccdc23e8edfd5990"
+    },
+    {
+      "chainId": 10001,
+      "chainName": "ETHW",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "0x4bbd68d8b1f25ae7b460e3347c637fe9e7338e0c"
     },
     {
       "chainId": 33139,
@@ -15608,6 +15734,15 @@
       "tokenAddress": "0x2775d5105276781b4b85ba6ea6a6653beed1dd32"
     },
     {
+      "chainId": 43114,
+      "chainName": "AVAX",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "WBTC",
+      "tag": "Group1",
+      "tokenAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+    },
+    {
       "chainId": 59144,
       "chainName": "Linea",
       "lastModifiedBy": "admin",
@@ -15876,6 +16011,15 @@
       "symbol": "STONE",
       "tag": "Group1",
       "tokenAddress": "0x80137510979822322193fc997d400d5a6c747bf7"
+    },
+    {
+      "chainId": 70000029,
+      "chainName": "Sei",
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1770033278,
+      "symbol": "",
+      "tag": "Group1",
+      "tokenAddress": "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
     }
   ]
 }
