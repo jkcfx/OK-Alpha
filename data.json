@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1770049787,
+  "lastUpdated": 1770081953,
   "tokens": [
     {
       "chainId": 1,
@@ -8609,7 +8609,7 @@
       "chainId": 501,
       "chainName": "SOLANA",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146301,
+      "lastModifiedTime": 1770080401,
       "symbol": "IDRX",
       "tag": "Group1",
       "tokenAddress": "idrxTdNftk6tYedPv2M7tCFHBVCpk5rkiNRd8yUArhr"
