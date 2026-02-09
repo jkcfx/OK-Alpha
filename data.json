@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1770626503,
+  "lastUpdated": 1770641572,
   "tokens": [
     {
       "chainId": 1,
@@ -7889,8 +7889,8 @@
       "chainId": 10001,
       "chainName": "ETHW",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146303,
-      "symbol": "wethw_lfg",
+      "lastModifiedTime": 1770638401,
+      "symbol": "WETHW",
       "tag": "Group1",
       "tokenAddress": "0x7bf88d2c0e32de92cdaf2d43ccdc23e8edfd5990"
     },
