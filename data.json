@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1771705019,
+  "lastUpdated": 1771723576,
   "tokens": [
     {
       "chainId": 1,
@@ -4406,7 +4406,7 @@
       "chainId": 56,
       "chainName": "BSC",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146300,
+      "lastModifiedTime": 1771720201,
       "symbol": "USDW",
       "tag": "Group1",
       "tokenAddress": "0xabddb950f2ae8430c5a818f8bb4ec09e3ae41253"
