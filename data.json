@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1772714549,
+  "lastUpdated": 1772733379,
   "tokens": [
     {
       "chainId": 1,
@@ -4730,7 +4730,7 @@
       "chainId": 137,
       "chainName": "POLYGON",
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146301,
+      "lastModifiedTime": 1772728203,
       "symbol": "EURA",
       "tag": "Group1",
       "tokenAddress": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4"
