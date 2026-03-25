@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1774443156,
+  "lastUpdated": 1774457747,
   "tokens": [
     {
       "chainId": 1,
@@ -9627,7 +9627,7 @@
       "id": 3493,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1764146304,
-      "symbol": "",
+      "symbol": "SOL",
       "tag": "Group1",
       "tokenAddress": "0xea17E5a9efEBf1477dB45082d67010E2245217f1"
     },
@@ -11667,7 +11667,7 @@
       "id": 3697,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1765186784,
-      "symbol": "",
+      "symbol": "USDD",
       "tag": "Group1",
       "tokenAddress": "0x45e51bc23d592eb2dba86da3985299f7895d66ba"
     },
@@ -15377,7 +15377,7 @@
       "id": 4068,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1770048511,
-      "symbol": "",
+      "symbol": "VBT",
       "tag": "Group2",
       "tokenAddress": "0xa40dea9da281a39a96b650befe4d21766d309261"
     },
@@ -16207,7 +16207,7 @@
       "id": 4151,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1770048511,
-      "symbol": "",
+      "symbol": "GANA",
       "tag": "Group2",
       "tokenAddress": "0x8773af45b12e8125ed86ffa07cdc875824815989"
     },
