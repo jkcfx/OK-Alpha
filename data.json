@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1774762913,
+  "lastUpdated": 1774773154,
   "tokens": [
     {
       "chainId": 1,
@@ -16840,6 +16840,106 @@
       "symbol": "WETH",
       "tag": "Group1",
       "tokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 4215,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1774770995,
+      "symbol": "aXlrUSDT0",
+      "tag": "Group1",
+      "tokenAddress": "0xf356ae412db5df43bd3a10746f7ad4e1c4de4297"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 4216,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1774770995,
+      "symbol": "aXlrUSDG",
+      "tag": "Group1",
+      "tokenAddress": "0x228765a3C18065C923F23a0CCb6c7cEFB3eA2223"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 4217,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1774770995,
+      "symbol": "aXlrxBTC",
+      "tag": "Group1",
+      "tokenAddress": "0xF5F9d4e9e2AFe7E0b193d291Befb41d61930464e"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 4218,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1774770995,
+      "symbol": "aXlrWOKB",
+      "tag": "Group1",
+      "tokenAddress": "0x3ea3A4038FbA5757A9A68de920b44698d7326A59"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 4219,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1774770995,
+      "symbol": "aXlrxETH",
+      "tag": "Group1",
+      "tokenAddress": "0xe6639ba6c1d79Be6d4c776E4c17504538d1719cD"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 4220,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1774770995,
+      "symbol": "aXlrxSOL",
+      "tag": "Group1",
+      "tokenAddress": "0x523dCe1b164327818fc5B41278fAe41f6B5753FE"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 4221,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1774770995,
+      "symbol": "aXlrxBETH",
+      "tag": "Group1",
+      "tokenAddress": "0xe9e78053f1Ef084f8cD01dBE8ccE95c6b0944d32"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 4222,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1774770995,
+      "symbol": "aXlrxOKSOL",
+      "tag": "Group1",
+      "tokenAddress": "0x38811564090aAb7bB455c5b771e26201a3535a01"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 4223,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1774770995,
+      "symbol": "GHO",
+      "tag": "Group1",
+      "tokenAddress": "0xDe6539018B095353A40753Dc54C91C68c9487D4E"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 4224,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1774770995,
+      "symbol": "aXlrGHO",
+      "tag": "Group1",
+      "tokenAddress": "0x77188335A21f4C409d2CfeDe3195A7B5f28651b0"
     }
   ]
 }
