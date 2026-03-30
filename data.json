@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1774889385,
+  "lastUpdated": 1774903047,
   "tokens": [
     {
       "chainId": 1,
@@ -14007,7 +14007,7 @@
       "id": 3931,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1767856049,
-      "symbol": "",
+      "symbol": "ANTHROPIC",
       "tag": "Group2",
       "tokenAddress": "Pren1FvFX6J3E4kXhJuCiAD5aDmGEb7qJRncwA8Lkhw"
     },
@@ -14017,7 +14017,7 @@
       "id": 3932,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1767856049,
-      "symbol": "",
+      "symbol": "OPENAI",
       "tag": "Group2",
       "tokenAddress": "PreweJYECqtQwBtpxHL171nL2K6umo692gTm7Q3rpgF"
     },
@@ -14027,7 +14027,7 @@
       "id": 3933,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1767856049,
-      "symbol": "",
+      "symbol": "SPACEX",
       "tag": "Group2",
       "tokenAddress": "PreANxuXjsy2pvisWWMNB6YaJNzr7681wJJr2rHsfTh"
     },
@@ -14037,7 +14037,7 @@
       "id": 3934,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1767856049,
-      "symbol": "",
+      "symbol": "XAI",
       "tag": "Group2",
       "tokenAddress": "PreC1KtJ1sBPPqaeeqL6Qb15GTLCYVvyYEwxhdfTwfx"
     },
@@ -14047,7 +14047,7 @@
       "id": 3935,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1768185647,
-      "symbol": "",
+      "symbol": "jlJUPUSD",
       "tag": "Group1",
       "tokenAddress": "7GxATsNMnaC88vdwd2t3mwrFuQwwGvmYPrUQ4D6FotXk"
     },
@@ -14057,7 +14057,7 @@
       "id": 3936,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1768995856,
-      "symbol": "",
+      "symbol": "xETH",
       "tag": "Group1",
       "tokenAddress": "0xE7B000003A45145decf8a28FC755aD5eC5EA025A"
     },
@@ -14067,7 +14067,7 @@
       "id": 3937,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1768995856,
-      "symbol": "",
+      "symbol": "xSOL",
       "tag": "Group1",
       "tokenAddress": "0x505000008DE8748DBd4422ff4687a4FC9bEba15b"
     },
@@ -14077,7 +14077,7 @@
       "id": 3938,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1768995856,
-      "symbol": "",
+      "symbol": "xBETH",
       "tag": "Group1",
       "tokenAddress": "0xAFeab3B85B6A56cF5F02317F0f7A23340eb983D7"
     },
@@ -14087,7 +14087,7 @@
       "id": 3939,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1768995856,
-      "symbol": "",
+      "symbol": "xOKSOL",
       "tag": "Group1",
       "tokenAddress": "0x14a686103854DAB7b8801E31979CAA595835B25d"
     },
@@ -14097,7 +14097,7 @@
       "id": 3940,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "AAPLon",
       "tag": "Group2",
       "tokenAddress": "123mYEnRLM2LLYsJW3K6oyYh8uP1fngj732iG638ondo"
     },
@@ -14107,7 +14107,7 @@
       "id": 3941,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "ABNBon",
       "tag": "Group2",
       "tokenAddress": "128qNYovdGv2YqayErcJgU7gDwbNVX1VuoxbtWz8ondo"
     },
@@ -14117,7 +14117,7 @@
       "id": 3942,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "ABTon",
       "tag": "Group2",
       "tokenAddress": "129gRoHKhVg7CvPMrqVsEB4uYZo6zV4yDZX6NBg9ondo"
     },
@@ -14127,7 +14127,7 @@
       "id": 3943,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "ACNon",
       "tag": "Group2",
       "tokenAddress": "12LxMMJYVSf4LoeqjFE47BQQNRciaH9E3nbDfjH4ondo"
     },
@@ -14137,7 +14137,7 @@
       "id": 3944,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "ADBEon",
       "tag": "Group2",
       "tokenAddress": "12Rh6JhfW4X5fKP16bbUdb4pcVCKDHFB48x8GG33ondo"
     },
@@ -14147,7 +14147,7 @@
       "id": 3945,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "AGGon",
       "tag": "Group2",
       "tokenAddress": "13qTjKx53y6LKGGStiKeieGbnVx3fx1bbwopKFb3ondo"
     },
@@ -14157,7 +14157,7 @@
       "id": 3946,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "AMDon",
       "tag": "Group2",
       "tokenAddress": "14diAn5z8kjrKwSC8WLqvBqqe5YmihJhjxRxd8Z6ondo"
     },
@@ -14167,7 +14167,7 @@
       "id": 3947,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "AMZNon",
       "tag": "Group2",
       "tokenAddress": "14Tqdo8V1FhzKsE3W2pFsZCzYPQxxupXRcqw9jv6ondo"
     },
@@ -14177,7 +14177,7 @@
       "id": 3948,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "APOon",
       "tag": "Group2",
       "tokenAddress": "14VXAhoa1R74vi1ZuiQyGLJrnDMfoFBPJSCpGVz3ondo"
     },
@@ -14187,7 +14187,7 @@
       "id": 3949,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "APPon",
       "tag": "Group2",
       "tokenAddress": "14Z8rQQe2Aza33YgEUmj3g3QGNz8DXLiFPuCnsD1ondo"
     },
@@ -14197,7 +14197,7 @@
       "id": 3950,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "ARMon",
       "tag": "Group2",
       "tokenAddress": "15SsCZqCsM9fZGhTmP4rdJTPT9WGZKazDSsgeQ8ondo"
     },
@@ -14207,7 +14207,7 @@
       "id": 3951,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "ASMLon",
       "tag": "Group2",
       "tokenAddress": "1eLZPRsn8bAKmoxsqDMH9Q2m2k7GMNp6RLSQGm8ondo"
     },
@@ -14217,7 +14217,7 @@
       "id": 3952,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "AVGOon",
       "tag": "Group2",
       "tokenAddress": "1FWZtdWN7y38BSXGzbs8D6Shk88oL9atDNgbVz9ondo"
     },
@@ -14227,7 +14227,7 @@
       "id": 3953,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "AXPon",
       "tag": "Group2",
       "tokenAddress": "1WxT6NdK7uqpfXuKpALxL2n3f7Rq61XXeHA8UM4ondo"
     },
@@ -14237,7 +14237,7 @@
       "id": 3954,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075860,
-      "symbol": "",
+      "symbol": "BABAon",
       "tag": "Group2",
       "tokenAddress": "1zvb9ELBFShBCWKEk5jRTJAaPAwtVt7quEXx1X4ondo"
     },
@@ -14247,7 +14247,7 @@
       "id": 3955,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "BAon",
       "tag": "Group2",
       "tokenAddress": "1YVZ4LGpq8CAhpdpm3mgy7GgPb83gJczCpxLUQ3ondo"
     },
@@ -14257,7 +14257,7 @@
       "id": 3956,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "BIDUon",
       "tag": "Group2",
       "tokenAddress": "54CoRF2FYMZNJg9tS36xq5BUcLZ7rju1r59jGc2ondo"
     },
@@ -14267,7 +14267,7 @@
       "id": 3957,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "BLKon",
       "tag": "Group2",
       "tokenAddress": "5H1VpMzRuoNtRbPTRCz35ETtEUtnkt8hJuQb9v7ondo"
     },
@@ -14277,7 +14277,7 @@
       "id": 3958,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "CMGon",
       "tag": "Group2",
       "tokenAddress": "5owVsVFSHACQuippFYdLp3qWRobp2EGcwxMmsr6ondo"
     },
@@ -14287,7 +14287,7 @@
       "id": 3959,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "COINon",
       "tag": "Group2",
       "tokenAddress": "5u6KDiNJXxX4rGMfYT4BApZQC5CuDNrG6MHkwp1ondo"
     },
@@ -14297,7 +14297,7 @@
       "id": 3960,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "COSTon",
       "tag": "Group2",
       "tokenAddress": "6btaz134wjHkR8sqhAYrtSM6tavftfxnRvnyMd8ondo"
     },
@@ -14307,7 +14307,7 @@
       "id": 3961,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "CRCLon",
       "tag": "Group2",
       "tokenAddress": "6xHEyem9hmkGtVq6XGCiQUGpPsHBaoYuYdFNZa5ondo"
     },
@@ -14317,7 +14317,7 @@
       "id": 3962,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "CRMon",
       "tag": "Group2",
       "tokenAddress": "7D7ukbcnUNYt7Et5vtsDZhAy28MKu9pkHka1Hp9ondo"
     },
@@ -14327,7 +14327,7 @@
       "id": 3963,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "CSCOon",
       "tag": "Group2",
       "tokenAddress": "7DWcZE1uVc8m2mf9pV8KNov28ET7HsvHkhrhgr9ondo"
     },
@@ -14337,7 +14337,7 @@
       "id": 3964,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "CVXon",
       "tag": "Group2",
       "tokenAddress": "7tgKziACteG26VjV5xKufojKxwTgCFyTwmWUmz5ondo"
     },
@@ -14347,7 +14347,7 @@
       "id": 3965,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "DASHon",
       "tag": "Group2",
       "tokenAddress": "83P1gCFBZfGRCwJuBt9juxJKEsZwejJoG66eTZ6ondo"
     },
@@ -14357,7 +14357,7 @@
       "id": 3966,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "DISon",
       "tag": "Group2",
       "tokenAddress": "mJf1xT3suXtkXBCfZcE9oUUuyxkvSgqYBWiX7v1ondo"
     },
@@ -14367,7 +14367,7 @@
       "id": 3967,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "EEMon",
       "tag": "Group2",
       "tokenAddress": "916SDKz7y5ZcEZC9CtnQ5Djs1Y8Yv3UAPb6bak8ondo"
     },
@@ -14377,7 +14377,7 @@
       "id": 3968,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "EFAon",
       "tag": "Group2",
       "tokenAddress": "AbvryMGnaba9oADMZk8Vp2Av6MtczsncGyfWaC4ondo"
     },
@@ -14387,7 +14387,7 @@
       "id": 3969,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "EQIXon",
       "tag": "Group2",
       "tokenAddress": "aheEdmuryJU8ymy8LjYheZH5i2BW1UMsfuWQKD2ondo"
     },
@@ -14397,7 +14397,7 @@
       "id": 3970,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "FIGon",
       "tag": "Group2",
       "tokenAddress": "aLDdFsr3VTUQaHFK6yNvQxztvxQ8nxW4AMuSGC7ondo"
     },
@@ -14407,7 +14407,7 @@
       "id": 3971,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "FUTUon",
       "tag": "Group2",
       "tokenAddress": "Ao5rKFRQ54W3DKSAtqfhBRPNHewwWRLNLao2JL9ondo"
     },
@@ -14417,7 +14417,7 @@
       "id": 3972,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "GEon",
       "tag": "Group2",
       "tokenAddress": "aTBfDuLRqYHBiG82bHA7DzwjSDTFre2dRtGH3S5ondo"
     },
@@ -14427,7 +14427,7 @@
       "id": 3973,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "GMEon",
       "tag": "Group2",
       "tokenAddress": "aznKt8v32CwYMEcTcB4bGTv8DXWStCpHrcCtyy7ondo"
     },
@@ -14437,7 +14437,7 @@
       "id": 3974,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "GOOGLon",
       "tag": "Group2",
       "tokenAddress": "bbahNA5vT9WJeYft8tALrH1LXWffjwqVoUbqYa1ondo"
     },
@@ -14447,7 +14447,7 @@
       "id": 3975,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "GSon",
       "tag": "Group2",
       "tokenAddress": "BchJRy2snmhJZf3rQ9LJ3ePs2BGfYgfvQNo31d2ondo"
     },
@@ -14457,7 +14457,7 @@
       "id": 3976,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "HIMSon",
       "tag": "Group2",
       "tokenAddress": "bdh3njeo19d2TBLAKTGvCWdSoArfVw8uZBAJHY4ondo"
     },
@@ -14467,7 +14467,7 @@
       "id": 3977,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "HOODon",
       "tag": "Group2",
       "tokenAddress": "BVdXGvmgi6A9oAiwWvBvP76fyTqcCNRJMM7zMN6ondo"
     },
@@ -14477,7 +14477,7 @@
       "id": 3978,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "HYGon",
       "tag": "Group2",
       "tokenAddress": "c5ug15fwZRfQhhVa6LHscFY33ebVDHcVCezYpj7ondo"
     },
@@ -14487,7 +14487,7 @@
       "id": 3979,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "IAUon",
       "tag": "Group2",
       "tokenAddress": "M77ZvkZ8zW5udRbuJCbuwSwavRa7bGAZYMTwru8ondo"
     },
@@ -14497,7 +14497,7 @@
       "id": 3980,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "IBMon",
       "tag": "Group2",
       "tokenAddress": "C8bZkgSxXkyT1RgxByp2teJ24hgimPLoyEYoNa9ondo"
     },
@@ -14507,7 +14507,7 @@
       "id": 3981,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "IEFAon",
       "tag": "Group2",
       "tokenAddress": "C9J9vZ8N79GzzxFoRkPWCkGtMKU8akg4FhUk4r9ondo"
     },
@@ -14517,7 +14517,7 @@
       "id": 3982,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "IEMGon",
       "tag": "Group2",
       "tokenAddress": "cdVNL7wK8mf1UCDqM6zdrziRv4hmvqWhXeTcck2ondo"
     },
@@ -14527,7 +14527,7 @@
       "id": 3983,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "IJHon",
       "tag": "Group2",
       "tokenAddress": "cfPLN9WXD2BTkbZhRZMVXPmVSiRo44hJWRtnaC8ondo"
     },
@@ -14537,7 +14537,7 @@
       "id": 3984,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "INTCon",
       "tag": "Group2",
       "tokenAddress": "cJpUMp5R7rZ6fGeLHbHhrRuJzK9mkyKDjZqNpT3ondo"
     },
@@ -14547,7 +14547,7 @@
       "id": 3985,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "INTUon",
       "tag": "Group2",
       "tokenAddress": "CozoH5HBTyyeYSQxHcWpGzd4Sq5XBaKzBzvTtN3ondo"
     },
@@ -14557,7 +14557,7 @@
       "id": 3986,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "ITOTon",
       "tag": "Group2",
       "tokenAddress": "CPWkMURVvcnX8hGjqCTb8i5LkzV3VSvyk7SeJi8ondo"
     },
@@ -14567,7 +14567,7 @@
       "id": 3987,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "IVVon",
       "tag": "Group2",
       "tokenAddress": "CqW2pd6dCPG9xKZfAsTovzDsMmAGKJSDBNcwM96ondo"
     },
@@ -14577,7 +14577,7 @@
       "id": 3988,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "IWFon",
       "tag": "Group2",
       "tokenAddress": "dSHPFuMMjZqt7xDYGWrexXTSkdEZAiZngqymQF2ondo"
     },
@@ -14587,7 +14587,7 @@
       "id": 3989,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "IWMon",
       "tag": "Group2",
       "tokenAddress": "dvj2kKFSyjpnyYSYppgFdAEVfgjMEoQGi9VaV23ondo"
     },
@@ -14597,7 +14597,7 @@
       "id": 3990,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "IWNon",
       "tag": "Group2",
       "tokenAddress": "DX7g7WNjDpVzNK9CG81v7wb6ZbiNzYfkdzH2Xs5ondo"
     },
@@ -14607,7 +14607,7 @@
       "id": 3991,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "JDon",
       "tag": "Group2",
       "tokenAddress": "E1aUS5nyv7kaBzdQzPVJW5zfaMgoUJpKYzdnFS2ondo"
     },
@@ -14617,7 +14617,7 @@
       "id": 3992,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "JPMon",
       "tag": "Group2",
       "tokenAddress": "E5Gczsavxcomqf6Cw1sGCKLabL1xYD2FzKxVoB4ondo"
     },
@@ -14627,7 +14627,7 @@
       "id": 3993,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "KOon",
       "tag": "Group2",
       "tokenAddress": "e6G4pfFcrdKxJuZ4YXixRFfMbpMvgXG2Mjcus71ondo"
     },
@@ -14637,7 +14637,7 @@
       "id": 3994,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "LINon",
       "tag": "Group2",
       "tokenAddress": "Edik9MoFp8LAXS9HNu2gRFyihwYqDqv4ZmNmVT9ondo"
     },
@@ -14647,7 +14647,7 @@
       "id": 3995,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "LLYon",
       "tag": "Group2",
       "tokenAddress": "eGGxZwNSfuNKRqQLKaz2hc4QkA2mau7skyxPdj7ondo"
     },
@@ -14657,7 +14657,7 @@
       "id": 3996,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "LMTon",
       "tag": "Group2",
       "tokenAddress": "EoReHwUnGGekbXFHLj5rbCVKiwWqu32GrETMfw4ondo"
     },
@@ -14667,7 +14667,7 @@
       "id": 3997,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "MAon",
       "tag": "Group2",
       "tokenAddress": "EsVHcyRxXFJCLMiuYLWhoDygrNe1BJGpYeZ17X7ondo"
     },
@@ -14677,7 +14677,7 @@
       "id": 3998,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "MARAon",
       "tag": "Group2",
       "tokenAddress": "ETCJUmuhs5aY62xgEVWCZ5JR8KPdeXUaJz3LuC5ondo"
     },
@@ -14687,7 +14687,7 @@
       "id": 3999,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "MCDon",
       "tag": "Group2",
       "tokenAddress": "EUbJjmDt8JA222M91bVLZs211siZ2jzbFArH9N3ondo"
     },
@@ -14697,7 +14697,7 @@
       "id": 4000,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "MELIon",
       "tag": "Group2",
       "tokenAddress": "EWwdgGshGngcMpDV34pWZRSu5bkAuiKuKTTHKQ8ondo"
     },
@@ -14707,7 +14707,7 @@
       "id": 4001,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "METAon",
       "tag": "Group2",
       "tokenAddress": "fDxs5y12E7x7jBwCKBXGqt71uJmCWsAQ3Srkte6ondo"
     },
@@ -14717,7 +14717,7 @@
       "id": 4002,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "MRVLon",
       "tag": "Group2",
       "tokenAddress": "FovBwhoV5KQjZCdhoM6jgXYwXLX3F8vgAfvmLH7ondo"
     },
@@ -14727,7 +14727,7 @@
       "id": 4003,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "MSFTon",
       "tag": "Group2",
       "tokenAddress": "FRmH6iRkMr33DLG6zVLR7EM4LojBFAuq6NtFzG6ondo"
     },
@@ -14737,7 +14737,7 @@
       "id": 4004,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "MSTRon",
       "tag": "Group2",
       "tokenAddress": "FSz4ouiqXpHuGPcpacZfTzbMjScoj5FfzHkiyu2ondo"
     },
@@ -14747,7 +14747,7 @@
       "id": 4005,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "MUon",
       "tag": "Group2",
       "tokenAddress": "Fz9edBpaURPPzpKVRR1A8PENYDEgHqwx5D5th28ondo"
     },
@@ -14757,7 +14757,7 @@
       "id": 4006,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "NFLXon",
       "tag": "Group2",
       "tokenAddress": "g4KnPrxPLeeKkwvDmZFMtYQPM64eHeShbD55vK6ondo"
     },
@@ -14767,7 +14767,7 @@
       "id": 4007,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "NKEon",
       "tag": "Group2",
       "tokenAddress": "g646pcdG2Rt5DH9WZzL7VVnVDWCCMTTrnktwE74ondo"
     },
@@ -14777,7 +14777,7 @@
       "id": 4008,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "NOWon",
       "tag": "Group2",
       "tokenAddress": "G7pTVoSECz5RQWubEnTP7AC83KHUsSyoiqYR1R2ondo"
     },
@@ -14787,7 +14787,7 @@
       "id": 4009,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "NVDAon",
       "tag": "Group2",
       "tokenAddress": "gEGtLTPNQ7jcg25zTetkbmF7teoDLcrfTnQfmn2ondo"
     },
@@ -14797,7 +14797,7 @@
       "id": 4010,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "NVOon",
       "tag": "Group2",
       "tokenAddress": "GeV7S8vjP8qdYZpdGv2Xi6e7MUMCk8NAAp2z7g5ondo"
     },
@@ -14807,7 +14807,7 @@
       "id": 4011,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "ORCLon",
       "tag": "Group2",
       "tokenAddress": "GmDADFpfwjfzZq9MfCafMDTS69MgVjtzD7Fd9a4ondo"
     },
@@ -14817,7 +14817,7 @@
       "id": 4012,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "PANWon",
       "tag": "Group2",
       "tokenAddress": "M7hVQomhw4Q2D2op3HvBrZjHu9SryjNvD5haEZ1ondo"
     },
@@ -14827,7 +14827,7 @@
       "id": 4013,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "PBRon",
       "tag": "Group2",
       "tokenAddress": "GRciFCqJ5y2hbiD6U5mGkohY65BZTXGuGUrCqf7ondo"
     },
@@ -14837,7 +14837,7 @@
       "id": 4014,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "PEPon",
       "tag": "Group2",
       "tokenAddress": "gud6b3fYekjhMG5F818BALwbg2vt4JKoow59Md9ondo"
     },
@@ -14847,7 +14847,7 @@
       "id": 4015,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "PFEon",
       "tag": "Group2",
       "tokenAddress": "Gwh9fPsX1qWATXy63vNaJnAFfwebWQtZaVmPko6ondo"
     },
@@ -14857,7 +14857,7 @@
       "id": 4016,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "PGon",
       "tag": "Group2",
       "tokenAddress": "GZ8v4NdSG7CTRZqHMgNsTPRULeVi8CpdWd9wZY8ondo"
     },
@@ -14867,7 +14867,7 @@
       "id": 4017,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "PLTRon",
       "tag": "Group2",
       "tokenAddress": "HfsnTS5qtdStwec9DfBrunRqnAMYMMz1kjv9Hu9ondo"
     },
@@ -14877,7 +14877,7 @@
       "id": 4018,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "PYPLon",
       "tag": "Group2",
       "tokenAddress": "hM7B3UQTTR81mS27SxDDPzBbjejmo8fnpFjzgv9ondo"
     },
@@ -14887,7 +14887,7 @@
       "id": 4019,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "QBTSon",
       "tag": "Group2",
       "tokenAddress": "hqJXutLF6f7DxStrWCrnZDfXzbNTZmvi3KheVi6ondo"
     },
@@ -14897,7 +14897,7 @@
       "id": 4020,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "QCOMon",
       "tag": "Group2",
       "tokenAddress": "hrmX7MV5hifoaBVjnrdpz698yABxrbBNAcWtWo9ondo"
     },
@@ -14907,7 +14907,7 @@
       "id": 4021,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "QQQon",
       "tag": "Group2",
       "tokenAddress": "HrYNm6jTQ71LoFphjVKBTdAE4uja7WsmLG8VxB8ondo"
     },
@@ -14917,7 +14917,7 @@
       "id": 4022,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "RDDTon",
       "tag": "Group2",
       "tokenAddress": "HXFrTf9v9NdjGUTnx4sojR3Cf92hoBsQFUxKTN7ondo"
     },
@@ -14927,7 +14927,7 @@
       "id": 4023,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "RIOTon",
       "tag": "Group2",
       "tokenAddress": "i6f3DvZBuLpnGSqS8x6WPeStJ7jNe5KewD6afD5ondo"
     },
@@ -14937,7 +14937,7 @@
       "id": 4024,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "SBETon",
       "tag": "Group2",
       "tokenAddress": "iLDu2jjp2i3Uqc2Vm7K7GLiUj3hR4Un49MtD7c4ondo"
     },
@@ -14947,7 +14947,7 @@
       "id": 4025,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "SBUXon",
       "tag": "Group2",
       "tokenAddress": "iPFqjcZQTNMNXA4kbShbMhfAVD8yr8Uq9UtXMV6ondo"
     },
@@ -14957,7 +14957,7 @@
       "id": 4026,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "SHOPon",
       "tag": "Group2",
       "tokenAddress": "ivdDracs2s7jCP698dJXKSEQdVrNj9hasJL1Uq1ondo"
     },
@@ -14967,7 +14967,7 @@
       "id": 4027,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "SLVon",
       "tag": "Group2",
       "tokenAddress": "iy11ytbSGcUnrjE6Lfv78TFqxKyUESfku1FugS9ondo"
     },
@@ -14977,7 +14977,7 @@
       "id": 4028,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "SMCIon",
       "tag": "Group2",
       "tokenAddress": "jLca79XzcewRuBZyaJxVxuKpUHcEix1X4CP1RP9ondo"
     },
@@ -14987,7 +14987,7 @@
       "id": 4029,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "SNOWon",
       "tag": "Group2",
       "tokenAddress": "JmFLCBwoNvcXy6B2VqABg6m784ubkXpaEx3p7S5ondo"
     },
@@ -14997,7 +14997,7 @@
       "id": 4030,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1769075861,
-      "symbol": "",
+      "symbol": "SPGIon",
       "tag": "Group2",
       "tokenAddress": "JrTYw7A9jihX5TwpRStYviEbsYf2X2VJpZ13719ondo"
     },
