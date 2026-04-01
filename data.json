@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1775033754,
+  "lastUpdated": 1775048532,
   "tokens": [
     {
       "chainId": 1,
@@ -6370,16 +6370,6 @@
       "symbol": "wUSDR",
       "tag": "Group1",
       "tokenAddress": "0x9467f15f44a8641389556387b43d9ed3f6981818"
-    },
-    {
-      "chainId": 56,
-      "chainName": "BSC",
-      "id": 2150,
-      "lastModifiedBy": "admin",
-      "lastModifiedTime": 1772060401,
-      "symbol": "jeur",
-      "tag": "Group1",
-      "tokenAddress": "0x23b8683ff98f9e4781552dfe6f12aa32814924e8"
     },
     {
       "chainId": 56,
