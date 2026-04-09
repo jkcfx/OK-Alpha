@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1775740000,
+  "lastUpdated": 1775753969,
   "tokens": [
     {
       "chainId": 1,
@@ -16930,6 +16930,26 @@
       "symbol": "aXlrGHO",
       "tag": "Group1",
       "tokenAddress": "0x77188335A21f4C409d2CfeDe3195A7B5f28651b0"
+    },
+    {
+      "chainId": 1,
+      "chainName": "ETH",
+      "id": 4225,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1775753328,
+      "symbol": "apxUSD",
+      "tag": "Group1",
+      "tokenAddress": "0x98a878b1cd98131b271883b390f68d2c90674665"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 4226,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1775753328,
+      "symbol": "apxUSD",
+      "tag": "Group1",
+      "tokenAddress": "0xd993935e13851dd7517af10687ec7e5022127228"
     }
   ]
 }
