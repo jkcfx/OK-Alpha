@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1776217891,
+  "lastUpdated": 1776232547,
   "tokens": [
     {
       "chainId": 1,
@@ -16950,6 +16950,16 @@
       "symbol": "apxUSD",
       "tag": "Group1",
       "tokenAddress": "0xd993935e13851dd7517af10687ec7e5022127228"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 4227,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1776225821,
+      "symbol": "UUSD",
+      "tag": "Group1",
+      "tokenAddress": "0x61a10e8556bed032ea176330e7f17d6a12a10000"
     }
   ]
 }
