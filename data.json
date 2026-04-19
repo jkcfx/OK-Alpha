@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1776588235,
+  "lastUpdated": 1776602595,
   "tokens": [
     {
       "chainId": 1,
@@ -16960,6 +16960,26 @@
       "symbol": "UUSD",
       "tag": "Group1",
       "tokenAddress": "0x61a10e8556bed032ea176330e7f17d6a12a10000"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 4228,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1776601566,
+      "symbol": "syrupUSDC",
+      "tag": "Group1",
+      "tokenAddress": "AvZZF1YaZDziPY2RCK4oJrRVrbN3mTD9NL24hPeaZeUj"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 4229,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1776601566,
+      "symbol": "syrupUSDC",
+      "tag": "Group1",
+      "tokenAddress": "0x41ca7586cc1311807b4605fbb748a3b8862b42b5"
     }
   ]
 }
