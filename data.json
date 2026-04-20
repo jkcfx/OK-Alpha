@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1776665384,
+  "lastUpdated": 1776678748,
   "tokens": [
     {
       "chainId": 1,
@@ -17040,6 +17040,36 @@
       "symbol": "wstETH",
       "tag": "Group1",
       "tokenAddress": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452"
+    },
+    {
+      "chainId": 9745,
+      "chainName": "PLASMA",
+      "id": 4236,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1776669669,
+      "symbol": "syrupUSDT",
+      "tag": "Group1",
+      "tokenAddress": "0xc4374775489cb9c56003bf2c9b12495fc64f0771"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 4237,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1776669669,
+      "symbol": "syrupUSDT",
+      "tag": "Group1",
+      "tokenAddress": "0x8e9d4cea39299323fe8eda678cad449718556c4e"
+    },
+    {
+      "chainId": 1,
+      "chainName": "ETH",
+      "id": 4238,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1776669669,
+      "symbol": "syrupUSDT",
+      "tag": "Group1",
+      "tokenAddress": "0x356b8d89c1e1239cbbb9de4815c39a1474d5ba7d"
     }
   ]
 }
