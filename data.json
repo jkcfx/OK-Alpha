@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1776650436,
+  "lastUpdated": 1776665384,
   "tokens": [
     {
       "chainId": 1,
@@ -16980,6 +16980,66 @@
       "symbol": "syrupUSDC",
       "tag": "Group1",
       "tokenAddress": "0x41ca7586cc1311807b4605fbb748a3b8862b42b5"
+    },
+    {
+      "chainId": 1,
+      "chainName": "ETH",
+      "id": 4230,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1776657602,
+      "symbol": "wsteth",
+      "tag": "Group1",
+      "tokenAddress": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
+    },
+    {
+      "chainId": 143,
+      "chainName": "Monad",
+      "id": 4231,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1776657087,
+      "symbol": "wstETH",
+      "tag": "Group1",
+      "tokenAddress": "0x10aeaf63194db8d453d4d85a06e5efe1dd0b5417"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 4232,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1776657602,
+      "symbol": "wsteth",
+      "tag": "Group1",
+      "tokenAddress": "0x5979D7b546E38E414F7E9822514be443A4800529"
+    },
+    {
+      "chainId": 137,
+      "chainName": "POLYGON",
+      "id": 4233,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1776657087,
+      "symbol": "wstETH",
+      "tag": "Group1",
+      "tokenAddress": "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 4234,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1776657602,
+      "symbol": "WSTETH",
+      "tag": "Group1",
+      "tokenAddress": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 4235,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1776657087,
+      "symbol": "wstETH",
+      "tag": "Group1",
+      "tokenAddress": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452"
     }
   ]
 }
