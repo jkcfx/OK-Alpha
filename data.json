@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1776763113,
+  "lastUpdated": 1776776829,
   "tokens": [
     {
       "chainId": 1,
@@ -4890,16 +4890,6 @@
       "symbol": "aUSD₮",
       "tag": "Group1",
       "tokenAddress": "0x9eead9ce15383caeed975427340b3a369410cfbf"
-    },
-    {
-      "chainId": 56,
-      "chainName": "BSC",
-      "id": 2001,
-      "lastModifiedBy": "admin",
-      "lastModifiedTime": 1771720201,
-      "symbol": "USDW",
-      "tag": "Group1",
-      "tokenAddress": "0xabddb950f2ae8430c5a818f8bb4ec09e3ae41253"
     },
     {
       "chainId": 56,
