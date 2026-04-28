@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1777342285,
+  "lastUpdated": 1777357497,
   "tokens": [
     {
       "chainId": 1,
@@ -5124,16 +5124,6 @@
     {
       "chainId": 137,
       "chainName": "POLYGON",
-      "id": 2025,
-      "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146300,
-      "symbol": "USDW",
-      "tag": "Group1",
-      "tokenAddress": "0xab670fdfb0060bdc6508b84a309ff41b56ccaf3f"
-    },
-    {
-      "chainId": 137,
-      "chainName": "POLYGON",
       "id": 2026,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1764146300,
@@ -6280,16 +6270,6 @@
       "symbol": "VCHF",
       "tag": "Group1",
       "tokenAddress": "0x02cea97794d2cfb5f560e1ff4e9c59d1bec75969"
-    },
-    {
-      "chainId": 137,
-      "chainName": "POLYGON",
-      "id": 2142,
-      "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146301,
-      "symbol": "USDW",
-      "tag": "Group1",
-      "tokenAddress": "0x60f7dd499956ec8fcea8ed80e9d7eade4ccdc417"
     },
     {
       "chainId": 1,
@@ -23774,16 +23754,6 @@
     {
       "chainId": 501,
       "chainName": "SOLANA",
-      "id": 4910,
-      "lastModifiedBy": "admin",
-      "lastModifiedTime": 1777016058,
-      "symbol": "",
-      "tag": "Group2",
-      "tokenAddress": "Xs54Crhmpvp6uxZXwgSTegrRH2kShh88XFPzgf4BExu"
-    },
-    {
-      "chainId": 501,
-      "chainName": "SOLANA",
       "id": 4911,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1777016058,
@@ -32210,6 +32180,26 @@
       "symbol": "sNOBL",
       "tag": "Group2",
       "tokenAddress": "0x32aa999667ecadf3709263b3028b852762378696"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 5886,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1777356001,
+      "symbol": "XLEx",
+      "tag": "Group2",
+      "tokenAddress": "Xs54CrhmpVp6uxZXwgSTegrRH2kShh88XFPzgf4BExu"
+    },
+    {
+      "chainId": 43114,
+      "chainName": "AVAX",
+      "id": 5887,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1777356001,
+      "symbol": "axlUSDC",
+      "tag": "Group1",
+      "tokenAddress": "0xfab550568c688d5d8a52c7d794cb93edc26ec0ec"
     }
   ]
 }
