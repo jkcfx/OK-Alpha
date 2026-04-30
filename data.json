@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1777555572,
+  "lastUpdated": 1777569103,
   "tokens": [
     {
       "chainId": 1,
@@ -9756,7 +9756,7 @@
       "chainName": "BSC",
       "id": 3510,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146304,
+      "lastModifiedTime": 1777555802,
       "symbol": "sAIFC",
       "tag": "Group2",
       "tokenAddress": "0x753b805fdacb1582e94fdd4e0fbeee27da9ee2b4"
