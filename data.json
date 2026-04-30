@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1777543201,
+  "lastUpdated": 1777555572,
   "tokens": [
     {
       "chainId": 1,
@@ -9757,7 +9757,7 @@
       "id": 3510,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1764146304,
-      "symbol": "sALTS",
+      "symbol": "sAIFC",
       "tag": "Group2",
       "tokenAddress": "0x753b805fdacb1582e94fdd4e0fbeee27da9ee2b4"
     },
