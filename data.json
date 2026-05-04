@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1777860514,
+  "lastUpdated": 1777876466,
   "tokens": [
     {
       "chainId": 1,
@@ -15560,16 +15560,6 @@
       "symbol": "TRAC",
       "tag": "Group2",
       "tokenAddress": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f"
-    },
-    {
-      "chainId": 501,
-      "chainName": "SOLANA",
-      "id": 4091,
-      "lastModifiedBy": "admin",
-      "lastModifiedTime": 1770048511,
-      "symbol": "ANB",
-      "tag": "Group2",
-      "tokenAddress": "FkiJSGKDMjRip1MFKa4bxVUtZBA2hkpBHdTfEW8E4iQj"
     },
     {
       "chainId": 56,
