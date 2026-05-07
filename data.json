@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1778135406,
+  "lastUpdated": 1778148945,
   "tokens": [
     {
       "chainId": 1,
@@ -5440,16 +5440,6 @@
       "symbol": "RAI",
       "tag": "Group1",
       "tokenAddress": "0x7fb688ccf682d58f86d7e38e03f9d22e7705448b"
-    },
-    {
-      "chainId": 1,
-      "chainName": "ETH",
-      "id": 2058,
-      "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146301,
-      "symbol": "reUSD",
-      "tag": "Group1",
-      "tokenAddress": "0x57ab1e0003f623289cd798b1824be09a793e4bec"
     },
     {
       "chainId": 8453,
@@ -12000,6 +11990,16 @@
       "symbol": "USDC.AVAX",
       "tag": "Group1",
       "tokenAddress": "0xa52ad01a1d62b408ffe06c2467439251da61e4a9"
+    },
+    {
+      "chainId": 7000,
+      "chainName": "Zeta",
+      "id": 3735,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1765187191,
+      "symbol": "USDT.ARB",
+      "tag": "Group1",
+      "tokenAddress": "0x0ca762fa958194795320635c11ff0c45c6412958"
     },
     {
       "chainId": 56,
@@ -32180,6 +32180,16 @@
       "symbol": "axlUSDC",
       "tag": "Group1",
       "tokenAddress": "0xfab550568c688d5d8a52c7d794cb93edc26ec0ec"
+    },
+    {
+      "chainId": 1,
+      "chainName": "ETH",
+      "id": 5888,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1778137740,
+      "symbol": "reUSD",
+      "tag": "Group1",
+      "tokenAddress": "0x5086bf358635b81d8c47c66d1c8b9e567db70c72"
     }
   ]
 }
