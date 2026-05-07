@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1778119787,
+  "lastUpdated": 1778135406,
   "tokens": [
     {
       "chainId": 1,
@@ -12000,16 +12000,6 @@
       "symbol": "USDC.AVAX",
       "tag": "Group1",
       "tokenAddress": "0xa52ad01a1d62b408ffe06c2467439251da61e4a9"
-    },
-    {
-      "chainId": 7000,
-      "chainName": "Zeta",
-      "id": 3735,
-      "lastModifiedBy": "admin",
-      "lastModifiedTime": 1765187191,
-      "symbol": "USDT.ARB",
-      "tag": "Group1",
-      "tokenAddress": "0x0ca762fa958194795320635c11ff0c45c6412958"
     },
     {
       "chainId": 56,
