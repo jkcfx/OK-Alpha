@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1778521782,
+  "lastUpdated": 1778533898,
   "tokens": [
     {
       "chainId": 1,
@@ -16710,16 +16710,6 @@
       "symbol": "BIO",
       "tag": "Group1",
       "tokenAddress": "0x226a2fa2556c48245e57cd1cba4c6c9e67077dd2"
-    },
-    {
-      "chainId": 56,
-      "chainName": "BSC",
-      "id": 4208,
-      "lastModifiedBy": "admin",
-      "lastModifiedTime": 1772096098,
-      "symbol": "ASTER",
-      "tag": "Group1",
-      "tokenAddress": "0x000ae314e2a2172a039b26378814c252734f556a"
     },
     {
       "chainId": 25,
