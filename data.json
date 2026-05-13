@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1778667280,
+  "lastUpdated": 1778681536,
   "tokens": [
     {
       "chainId": 1,
@@ -32590,6 +32590,46 @@
       "symbol": "sSMCZ",
       "tag": "Group2",
       "tokenAddress": "0x6026b9a2ace367e7e2a0a4bae13209b7898e9486"
+    },
+    {
+      "chainId": 1672,
+      "chainName": "Pharos",
+      "id": 5930,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1778670386,
+      "symbol": "PROS",
+      "tag": "Group1",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+      "chainId": 1672,
+      "chainName": "Pharos",
+      "id": 5931,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1778670386,
+      "symbol": "USDC",
+      "tag": "Group1",
+      "tokenAddress": "0xc879c018db60520f4355c26ed1a6d572cdac1815"
+    },
+    {
+      "chainId": 1672,
+      "chainName": "Pharos",
+      "id": 5932,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1778670386,
+      "symbol": "WETH",
+      "tag": "Group1",
+      "tokenAddress": "0x1f4b7011ee3d53969bb67f59428a9ec0477856e9"
+    },
+    {
+      "chainId": 1672,
+      "chainName": "Pharos",
+      "id": 5933,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1778670386,
+      "symbol": "WPROS",
+      "tag": "Group1",
+      "tokenAddress": "0x52c48d4213107b20bc583832b0d951fb9ca8f0b0"
     }
   ]
 }
