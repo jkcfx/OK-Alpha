@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1780065940,
+  "lastUpdated": 1780079236,
   "tokens": [
     {
       "chainId": 1,
@@ -176,8 +176,8 @@
       "chainName": "POLYGON",
       "id": 1417,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "USDT0",
+      "lastModifiedTime": 1780077602,
+      "symbol": "USDT",
       "tag": "Group1",
       "tokenAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
     },
