@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1780282472,
+  "lastUpdated": 1780305264,
   "tokens": [
     {
       "chainId": 1,
@@ -256,8 +256,8 @@
       "chainName": "Mantle",
       "id": 1425,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "USDT",
+      "lastModifiedTime": 1780291801,
+      "symbol": "MANTLE_USDT",
       "tag": "Group1",
       "tokenAddress": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae"
     },
@@ -34130,6 +34130,86 @@
       "symbol": "EWUx",
       "tag": "Group2",
       "tokenAddress": "XsbWCMXPzLdZMLpPtiiWE7M99fySmsnK5eFCWGWfDQ8"
+    },
+    {
+      "chainId": 70000080,
+      "chainName": "HYPE",
+      "id": 6084,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1780283092,
+      "symbol": "HYPE",
+      "tag": "Group1",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+      "chainId": 70000080,
+      "chainName": "HYPE",
+      "id": 6085,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1780283092,
+      "symbol": "USDT",
+      "tag": "Group1",
+      "tokenAddress": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
+    },
+    {
+      "chainId": 70000080,
+      "chainName": "HYPE",
+      "id": 6086,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1780283092,
+      "symbol": "USDC",
+      "tag": "Group1",
+      "tokenAddress": "0xb88339cb7199b77e23db6e890353e22632ba630f"
+    },
+    {
+      "chainId": 70000080,
+      "chainName": "HYPE",
+      "id": 6087,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1780283092,
+      "symbol": "USDH",
+      "tag": "Group1",
+      "tokenAddress": "0x111111a1a0667d36bd57c0a9f569b98057111111"
+    },
+    {
+      "chainId": 70000080,
+      "chainName": "HYPE",
+      "id": 6088,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1780283092,
+      "symbol": "kHYPE",
+      "tag": "Group1",
+      "tokenAddress": "0xfd739d4e423301ce9385c1fb8850539d657c296d"
+    },
+    {
+      "chainId": 70000080,
+      "chainName": "HYPE",
+      "id": 6089,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1780283092,
+      "symbol": "WHYPE",
+      "tag": "Group1",
+      "tokenAddress": "0x5555555555555555555555555555555555555555"
+    },
+    {
+      "chainId": 70000080,
+      "chainName": "HYPE",
+      "id": 6090,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1780283092,
+      "symbol": "UBTC",
+      "tag": "Group1",
+      "tokenAddress": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463"
+    },
+    {
+      "chainId": 70000080,
+      "chainName": "HYPE",
+      "id": 6091,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1780283092,
+      "symbol": "UETH",
+      "tag": "Group1",
+      "tokenAddress": "0xBe6727B535545C67d5cAa73dEa54865B92CF7907"
     }
   ]
 }
