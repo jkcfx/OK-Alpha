@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1780908426,
+  "lastUpdated": 1780932862,
   "tokens": [
     {
       "chainId": 1,
@@ -2766,8 +2766,8 @@
       "chainName": "ETH",
       "id": 1682,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146299,
-      "symbol": "EURR",
+      "lastModifiedTime": 1780916401,
+      "symbol": "***",
       "tag": "Group1",
       "tokenAddress": "0x50753cfaf86c094925bf976f218d043f8791e408"
     },
@@ -2956,8 +2956,8 @@
       "chainName": "ETH",
       "id": 1701,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146299,
-      "symbol": "USDR",
+      "lastModifiedTime": 1780916401,
+      "symbol": "***",
       "tag": "Group1",
       "tokenAddress": "0x7b43e3875440b44613dc3bc08e7763e6da63c8f8"
     },
@@ -4246,8 +4246,8 @@
       "chainName": "ETH",
       "id": 1936,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146300,
-      "symbol": "A7A5",
+      "lastModifiedTime": 1780916401,
+      "symbol": "***",
       "tag": "Group1",
       "tokenAddress": "0x6fa0be17e4bea2fcfa22ef89bf8ac9aab0ab0fc9"
     },
@@ -4486,8 +4486,8 @@
       "chainName": "ETH",
       "id": 1960,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146300,
-      "symbol": "wA7A5",
+      "lastModifiedTime": 1780916401,
+      "symbol": "***",
       "tag": "Group1",
       "tokenAddress": "0x0d57436f2d39c0664c6f0f2e349229483f87ea38"
     },
@@ -25266,7 +25266,7 @@
       "chainName": "BSC",
       "id": 5065,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1777016295,
+      "lastModifiedTime": 1780930802,
       "symbol": "KWEBon",
       "tag": "Group2",
       "tokenAddress": "0x7437203800140ba7d9081dde8cef09ee40e3bf03"
@@ -26446,8 +26446,8 @@
       "chainName": "BSC",
       "id": 5183,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1777016295,
-      "symbol": "FXIon",
+      "lastModifiedTime": 1780930802,
+      "symbol": "***",
       "tag": "Group2",
       "tokenAddress": "0x9b8e987e6fec8cf1380c4dca7071e2c7853aeea1"
     },
@@ -28976,8 +28976,8 @@
       "chainName": "ETH",
       "id": 5436,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1777016864,
-      "symbol": "USDKG",
+      "lastModifiedTime": 1780916402,
+      "symbol": "***",
       "tag": "Group1",
       "tokenAddress": "0xe820c06321e60d36257c666643fa5436643445e3"
     },
