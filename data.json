@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1781128298,
+  "lastUpdated": 1781146367,
   "tokens": [
     {
       "chainId": 1,
@@ -25267,7 +25267,7 @@
       "id": 5065,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1781118002,
-      "symbol": "***",
+      "symbol": "KWEBon",
       "tag": "Group2",
       "tokenAddress": "0x7437203800140ba7d9081dde8cef09ee40e3bf03"
     },
