@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1782121234,
+  "lastUpdated": 1782146495,
   "tokens": [
     {
       "chainId": 1,
@@ -21256,8 +21256,8 @@
       "chainName": "ETH",
       "id": 4663,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1777015629,
-      "symbol": "KWEBon",
+      "lastModifiedTime": 1782126001,
+      "symbol": "***",
       "tag": "Group2",
       "tokenAddress": "0xeaa2287290544ed9f481012aa348619a4d2f9e51"
     },
@@ -25266,7 +25266,7 @@
       "chainName": "BSC",
       "id": 5065,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1781805602,
+      "lastModifiedTime": 1782144001,
       "symbol": "***",
       "tag": "Group2",
       "tokenAddress": "0x7437203800140ba7d9081dde8cef09ee40e3bf03"
