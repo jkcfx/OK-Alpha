@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1782225167,
+  "lastUpdated": 1782236759,
   "tokens": [
     {
       "chainId": 1,
@@ -25266,7 +25266,7 @@
       "chainName": "BSC",
       "id": 5065,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782144001,
+      "lastModifiedTime": 1782234002,
       "symbol": "***",
       "tag": "Group2",
       "tokenAddress": "0x7437203800140ba7d9081dde8cef09ee40e3bf03"
@@ -26446,7 +26446,7 @@
       "chainName": "BSC",
       "id": 5183,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782201601,
+      "lastModifiedTime": 1782232201,
       "symbol": "***",
       "tag": "Group2",
       "tokenAddress": "0x9b8e987e6fec8cf1380c4dca7071e2c7853aeea1"
