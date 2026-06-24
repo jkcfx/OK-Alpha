@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1782323307,
+  "lastUpdated": 1782335865,
   "tokens": [
     {
       "chainId": 1,
@@ -5346,8 +5346,8 @@
       "chainName": "SOLANA",
       "id": 2048,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1770080401,
-      "symbol": "IDRX",
+      "lastModifiedTime": 1782324001,
+      "symbol": "OLDIDRX",
       "tag": "Group1",
       "tokenAddress": "idrxTdNftk6tYedPv2M7tCFHBVCpk5rkiNRd8yUArhr"
     },
@@ -26446,7 +26446,7 @@
       "chainName": "BSC",
       "id": 5183,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782237601,
+      "lastModifiedTime": 1782327601,
       "symbol": "***",
       "tag": "Group2",
       "tokenAddress": "0x9b8e987e6fec8cf1380c4dca7071e2c7853aeea1"
