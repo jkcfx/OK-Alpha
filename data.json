@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1782355031,
+  "lastUpdated": 1782372967,
   "tokens": [
     {
       "chainId": 1,
@@ -23796,8 +23796,8 @@
       "chainName": "SOLANA",
       "id": 4918,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782309601,
-      "symbol": "***",
+      "lastModifiedTime": 1782361801,
+      "symbol": "FXIon",
       "tag": "Group2",
       "tokenAddress": "CeFbGYXDmkyfo1TXXzzZ512mtnCCewNohu6V15vondo"
     },
@@ -24136,8 +24136,8 @@
       "chainName": "SOLANA",
       "id": 4952,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782311401,
-      "symbol": "***",
+      "lastModifiedTime": 1782361801,
+      "symbol": "KWEBon",
       "tag": "Group2",
       "tokenAddress": "DVPSYdqWPLvNa8afnEqa3B9eDfTTWpGyUZeXvdMondo"
     },
