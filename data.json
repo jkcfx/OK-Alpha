@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1782470709,
+  "lastUpdated": 1782482888,
   "tokens": [
     {
       "chainId": 1,
@@ -28466,8 +28466,8 @@
       "chainName": "ETH",
       "id": 5385,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782469801,
-      "symbol": "FXIon",
+      "lastModifiedTime": 1782473401,
+      "symbol": "***",
       "tag": "Group2",
       "tokenAddress": "0x2dd57b497c777d9825a5902114be81df98ede958"
     },
