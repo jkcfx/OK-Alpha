@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1782805397,
+  "lastUpdated": 1782816585,
   "tokens": [
     {
       "chainId": 1,
@@ -5166,8 +5166,8 @@
       "chainName": "AVAX",
       "id": 2030,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782774001,
-      "symbol": "vchf",
+      "lastModifiedTime": 1782808201,
+      "symbol": "VCHF",
       "tag": "Group1",
       "tokenAddress": "0x228a48df6819ccc2eca01e2192ebafffdad56c19"
     },
