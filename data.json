@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1782767924,
+  "lastUpdated": 1782787207,
   "tokens": [
     {
       "chainId": 1,
@@ -5166,8 +5166,8 @@
       "chainName": "AVAX",
       "id": 2030,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766505601,
-      "symbol": "VCHF",
+      "lastModifiedTime": 1782774001,
+      "symbol": "vchf",
       "tag": "Group1",
       "tokenAddress": "0x228a48df6819ccc2eca01e2192ebafffdad56c19"
     },
@@ -23796,8 +23796,8 @@
       "chainName": "SOLANA",
       "id": 4918,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782678601,
-      "symbol": "***",
+      "lastModifiedTime": 1782777601,
+      "symbol": "FXIon",
       "tag": "Group2",
       "tokenAddress": "CeFbGYXDmkyfo1TXXzzZ512mtnCCewNohu6V15vondo"
     },
@@ -24136,8 +24136,8 @@
       "chainName": "SOLANA",
       "id": 4952,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782678601,
-      "symbol": "***",
+      "lastModifiedTime": 1782777601,
+      "symbol": "KWEBon",
       "tag": "Group2",
       "tokenAddress": "DVPSYdqWPLvNa8afnEqa3B9eDfTTWpGyUZeXvdMondo"
     },
