@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1782915309,
+  "lastUpdated": 1782928054,
   "tokens": [
     {
       "chainId": 1,
@@ -23796,7 +23796,7 @@
       "chainName": "SOLANA",
       "id": 4918,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782851401,
+      "lastModifiedTime": 1782916201,
       "symbol": "FXIon",
       "tag": "Group2",
       "tokenAddress": "CeFbGYXDmkyfo1TXXzzZ512mtnCCewNohu6V15vondo"
@@ -24136,7 +24136,7 @@
       "chainName": "SOLANA",
       "id": 4952,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782851401,
+      "lastModifiedTime": 1782916201,
       "symbol": "KWEBon",
       "tag": "Group2",
       "tokenAddress": "DVPSYdqWPLvNa8afnEqa3B9eDfTTWpGyUZeXvdMondo"
@@ -25266,7 +25266,7 @@
       "chainName": "BSC",
       "id": 5065,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782743401,
+      "lastModifiedTime": 1782921601,
       "symbol": "***",
       "tag": "Group2",
       "tokenAddress": "0x7437203800140ba7d9081dde8cef09ee40e3bf03"
@@ -26446,7 +26446,7 @@
       "chainName": "BSC",
       "id": 5183,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782894601,
+      "lastModifiedTime": 1782921601,
       "symbol": "***",
       "tag": "Group2",
       "tokenAddress": "0x9b8e987e6fec8cf1380c4dca7071e2c7853aeea1"
