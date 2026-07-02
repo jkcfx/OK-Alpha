@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1782940837,
+  "lastUpdated": 1782959757,
   "tokens": [
     {
       "chainId": 1,
@@ -5166,8 +5166,8 @@
       "chainName": "AVAX",
       "id": 2030,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782808201,
-      "symbol": "VCHF",
+      "lastModifiedTime": 1782946801,
+      "symbol": "vchf",
       "tag": "Group1",
       "tokenAddress": "0x228a48df6819ccc2eca01e2192ebafffdad56c19"
     },
@@ -5996,8 +5996,8 @@
       "chainName": "POLYGON",
       "id": 2115,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146301,
-      "symbol": "VCHF",
+      "lastModifiedTime": 1782946801,
+      "symbol": "vchf",
       "tag": "Group1",
       "tokenAddress": "0xcdb3867935247049e87c38ea270edd305d84c9ae"
     },
@@ -6256,8 +6256,8 @@
       "chainName": "ARBITRUM",
       "id": 2141,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146301,
-      "symbol": "VCHF",
+      "lastModifiedTime": 1782946801,
+      "symbol": "vchf",
       "tag": "Group1",
       "tokenAddress": "0x02cea97794d2cfb5f560e1ff4e9c59d1bec75969"
     },
