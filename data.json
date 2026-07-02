@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1783013879,
+  "lastUpdated": 1783025796,
   "tokens": [
     {
       "chainId": 1,
@@ -26446,8 +26446,8 @@
       "chainName": "BSC",
       "id": 5183,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782921601,
-      "symbol": "FXIon",
+      "lastModifiedTime": 1783018802,
+      "symbol": "***",
       "tag": "Group2",
       "tokenAddress": "0x9b8e987e6fec8cf1380c4dca7071e2c7853aeea1"
     },
