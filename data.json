@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1783025796,
+  "lastUpdated": 1783044671,
   "tokens": [
     {
       "chainId": 1,
@@ -6256,8 +6256,8 @@
       "chainName": "ARBITRUM",
       "id": 2141,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782946801,
-      "symbol": "vchf",
+      "lastModifiedTime": 1783033201,
+      "symbol": "VCHF",
       "tag": "Group1",
       "tokenAddress": "0x02cea97794d2cfb5f560e1ff4e9c59d1bec75969"
     },
@@ -25266,7 +25266,7 @@
       "chainName": "BSC",
       "id": 5065,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782921601,
+      "lastModifiedTime": 1783031402,
       "symbol": "***",
       "tag": "Group2",
       "tokenAddress": "0x7437203800140ba7d9081dde8cef09ee40e3bf03"
