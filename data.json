@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1783409483,
+  "lastUpdated": 1783421325,
   "tokens": [
     {
       "chainId": 1,
@@ -14006,8 +14006,8 @@
       "chainName": "X Layer",
       "id": 3936,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1768995856,
-      "symbol": "xETH",
+      "lastModifiedTime": 1783414801,
+      "symbol": "ETH",
       "tag": "Group1",
       "tokenAddress": "0xE7B000003A45145decf8a28FC755aD5eC5EA025A"
     },
@@ -14016,8 +14016,8 @@
       "chainName": "X Layer",
       "id": 3937,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1768995856,
-      "symbol": "xSOL",
+      "lastModifiedTime": 1783414801,
+      "symbol": "SOL",
       "tag": "Group1",
       "tokenAddress": "0x505000008DE8748DBd4422ff4687a4FC9bEba15b"
     },
@@ -25266,7 +25266,7 @@
       "chainName": "BSC",
       "id": 5065,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1783369802,
+      "lastModifiedTime": 1783418401,
       "symbol": "***",
       "tag": "Group2",
       "tokenAddress": "0x7437203800140ba7d9081dde8cef09ee40e3bf03"
