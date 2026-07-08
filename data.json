@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1783491728,
+  "lastUpdated": 1783505350,
   "tokens": [
     {
       "chainId": 1,
@@ -21256,7 +21256,7 @@
       "chainName": "ETH",
       "id": 4663,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782126001,
+      "lastModifiedTime": 1783497602,
       "symbol": "***",
       "tag": "Group2",
       "tokenAddress": "0xeaa2287290544ed9f481012aa348619a4d2f9e51"
