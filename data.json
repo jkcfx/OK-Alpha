@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1783619361,
+  "lastUpdated": 1783631710,
   "tokens": [
     {
       "chainId": 1,
@@ -21256,8 +21256,8 @@
       "chainName": "ETH",
       "id": 4663,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1783497602,
-      "symbol": "***",
+      "lastModifiedTime": 1783629001,
+      "symbol": "KWEBon",
       "tag": "Group2",
       "tokenAddress": "0xeaa2287290544ed9f481012aa348619a4d2f9e51"
     },
@@ -24136,8 +24136,8 @@
       "chainName": "SOLANA",
       "id": 4952,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1783542601,
-      "symbol": "***",
+      "lastModifiedTime": 1783629002,
+      "symbol": "KWEBon",
       "tag": "Group2",
       "tokenAddress": "DVPSYdqWPLvNa8afnEqa3B9eDfTTWpGyUZeXvdMondo"
     },
