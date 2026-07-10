@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1783680348,
+  "lastUpdated": 1783692295,
   "tokens": [
     {
       "chainId": 1,
@@ -44330,6 +44330,1006 @@
       "symbol": "SPCXx",
       "tag": "Group2",
       "tokenAddress": "0x68fa48b1c2fe52b3d776e1953e0e782b5044ce28"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7104,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "ETH",
+      "tag": "Group1",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7105,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "USDe",
+      "tag": "Group1",
+      "tokenAddress": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7106,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "USDG",
+      "tag": "Group1",
+      "tokenAddress": "0x5fc5360d0400a0fd4f2af552add042d716f1d168"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7107,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "VIRTUAL",
+      "tag": "Group1",
+      "tokenAddress": "0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7108,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "WETH",
+      "tag": "Group1",
+      "tokenAddress": "0x0bd7d308f8e1639fab988df18a8011f41eacad73"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7109,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "AAOI",
+      "tag": "Group2",
+      "tokenAddress": "0x521cf887e6531c6f667b5bc4d896e5d9bfe8eb2e"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7110,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "AAPL",
+      "tag": "Group2",
+      "tokenAddress": "0xaf3d76f1834a1d425780943c99ea8a608f8a93f9"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7111,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "AMAT",
+      "tag": "Group2",
+      "tokenAddress": "0x36046893810a7e7fce501229d57dc3fc8c8716d0"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7112,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "AMD",
+      "tag": "Group2",
+      "tokenAddress": "0x86923f96303d656e4aa86d9d42d1e57ad2023fdc"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7113,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "AMZN",
+      "tag": "Group2",
+      "tokenAddress": "0x12f190a9f9d7d37a250758b26824b97ce941bf54"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7114,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "APLD",
+      "tag": "Group2",
+      "tokenAddress": "0xb8dbf92f9741c9ac1c32115e78581f23509916fd"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7115,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "ASML",
+      "tag": "Group2",
+      "tokenAddress": "0x47f93d52cbec7c6d2cfc080e154002370a60daea"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7116,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "ASTS",
+      "tag": "Group2",
+      "tokenAddress": "0x1af6446f07eb1d97c546afc8c9544cbdf3ad5137"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7117,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "AVGO",
+      "tag": "Group2",
+      "tokenAddress": "0x156e175dd063a8ce274c50654ef40e0032b3fbcf"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7118,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "BA",
+      "tag": "Group2",
+      "tokenAddress": "0x4d21483a44bf67a86b77e3da301411880797d452"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7119,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "BABA",
+      "tag": "Group2",
+      "tokenAddress": "0xad25ac6c84d497db898fa1e8387bf6af3532a1c4"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7120,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "BE",
+      "tag": "Group2",
+      "tokenAddress": "0x822cc93ffd030293e9842c30bbd678f530701867"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7121,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "CBRS",
+      "tag": "Group2",
+      "tokenAddress": "0x5c90450bbb4273d7b2f17cf6917aeb237a569679"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7122,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "CCL",
+      "tag": "Group2",
+      "tokenAddress": "0x9651342cea770ae9a2969ba2a52611523146aef9"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7123,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "CELH",
+      "tag": "Group2",
+      "tokenAddress": "0x8cf07c5a878945185d327aaa6e33faa95f95e7bf"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7124,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "CLSK",
+      "tag": "Group2",
+      "tokenAddress": "0xcbb95bbf36099d34da091dc6fa6f49efa257cee3"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7125,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "COIN",
+      "tag": "Group2",
+      "tokenAddress": "0x6330d8c3178a418788df01a47479c0ce7ccf450b"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7126,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "COST",
+      "tag": "Group2",
+      "tokenAddress": "0x4ea005168d7f09a7a0ba9d1def21a479950e44c2"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7127,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "CRCL",
+      "tag": "Group2",
+      "tokenAddress": "0xdf0992e440dd0be65bd8439b609d6d4366bf1cb5"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7128,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "CRWD",
+      "tag": "Group2",
+      "tokenAddress": "0xea72ecca2d0f6bfa1394dbbcff85b52cd4233931"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7129,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "CRWV",
+      "tag": "Group2",
+      "tokenAddress": "0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7130,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "DDOG",
+      "tag": "Group2",
+      "tokenAddress": "0x27c99fbde9d0d2aa4f4bfb4943f237843ddf6958"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7131,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "DELL",
+      "tag": "Group2",
+      "tokenAddress": "0x941ae714ec6d8130c7b75d67160ca08f1e7d11dd"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7132,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "ELF",
+      "tag": "Group2",
+      "tokenAddress": "0x39ec44bee4f6a116c6f9b8de566848a985c53c60"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7133,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "EWY",
+      "tag": "Group2",
+      "tokenAddress": "0x7f0abef0c07280f82c6a08ead09ded6bae2c13fc"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7134,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "F",
+      "tag": "Group2",
+      "tokenAddress": "0x25c288e6d899b9bc30160965ad9644c67e73be0c"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7135,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "FLNC",
+      "tag": "Group2",
+      "tokenAddress": "0x282e87451e10fa6679bc7d76c69be44cd3fc777c"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7136,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "FUTU",
+      "tag": "Group2",
+      "tokenAddress": "0xeb30663bdff0622ef4e4e5cbb4e975f19f33f51d"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7137,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "GLW",
+      "tag": "Group2",
+      "tokenAddress": "0x7c04e6a3368f2a1de3874f0e80d2e0a1a9915da6"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7138,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "GME",
+      "tag": "Group2",
+      "tokenAddress": "0x1b0e319c6a659f002271b69db8a7df2f911c153e"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7139,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "GOOGL",
+      "tag": "Group2",
+      "tokenAddress": "0x2e0847e8910a9732eb3fb1bb4b70a580adad4fe3"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7140,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "INOD",
+      "tag": "Group2",
+      "tokenAddress": "0xf1953dab6fad537488d5a022361ffaa8b4c95ec6"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7141,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "INTC",
+      "tag": "Group2",
+      "tokenAddress": "0xc72b96e0e48ecd4dc75e1e45396e26300bc39681"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7142,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "INTU",
+      "tag": "Group2",
+      "tokenAddress": "0x56d23bee5f41a7120170b0c603dae30128e460e9"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7143,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "IONQ",
+      "tag": "Group2",
+      "tokenAddress": "0x558378e000d634a36593e338ebacdd6207640efe"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7144,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "IREN",
+      "tag": "Group2",
+      "tokenAddress": "0xf0ab0c93be6f41369d302e55db1a96b3c430212d"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7145,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "LITE",
+      "tag": "Group2",
+      "tokenAddress": "0x8ef20885f94e3d9bc7eb3080279188bd5ed7c08c"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7146,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "LLY",
+      "tag": "Group2",
+      "tokenAddress": "0x8005d266423c7ea827372c9c864491e5786600ea"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7147,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "LULU",
+      "tag": "Group2",
+      "tokenAddress": "0x4e62068525ab11fe768e29dfd00ef909b9803016"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7148,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "LUNR",
+      "tag": "Group2",
+      "tokenAddress": "0xa5d4968421ba94814be3b136b15cf422101ac1a3"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7149,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "MDB",
+      "tag": "Group2",
+      "tokenAddress": "0xddf2266b79abf0b48898959b0ed6e6adf512be74"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7150,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "META",
+      "tag": "Group2",
+      "tokenAddress": "0xc0d6457c16cc70d6790dd43521c899c87ce02f35"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7151,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "MRVL",
+      "tag": "Group2",
+      "tokenAddress": "0x62fd0668e10d8b72339be2dcf7643001688ff13b"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7152,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "MSFT",
+      "tag": "Group2",
+      "tokenAddress": "0xe93237c50d904957cf27e7b1133b510c669c2e74"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7153,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "MSTR",
+      "tag": "Group2",
+      "tokenAddress": "0xec262a75e413fafd0df80480274532c79d42da09"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7154,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "MU",
+      "tag": "Group2",
+      "tokenAddress": "0xff080c8ce2e5feadaca0da81314ae59d232d4afd"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7155,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "MXL",
+      "tag": "Group2",
+      "tokenAddress": "0x48961813349333209994750ffa89b3c5c22ec969"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7156,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "NBIS",
+      "tag": "Group2",
+      "tokenAddress": "0x9d9c6684f596f66a64c030b93a886d51fd4d7931"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7157,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "NFLX",
+      "tag": "Group2",
+      "tokenAddress": "0xe0444ef8bf4ed74f74fd73686e2ddf4c1c5591e8"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7158,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "NNE",
+      "tag": "Group2",
+      "tokenAddress": "0xbef75684c43c4ea7bd18dd532a2244674ee8b926"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7159,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "NOW",
+      "tag": "Group2",
+      "tokenAddress": "0x0c3260af4b8f13a69c4c2dfb84fd667890cdfa14"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7160,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "NU",
+      "tag": "Group2",
+      "tokenAddress": "0x408c14038a04f7bd235329e26d2bf569ee20e250"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7161,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "NVDA",
+      "tag": "Group2",
+      "tokenAddress": "0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7162,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "NVTS",
+      "tag": "Group2",
+      "tokenAddress": "0xbe6702d7b70315376dc48a3293f24f0982f86386"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7163,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "ORCL",
+      "tag": "Group2",
+      "tokenAddress": "0xb0992820e760d836549ba69bc7598b4af75dee03"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7164,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "P",
+      "tag": "Group2",
+      "tokenAddress": "0x1cdad396db64bda184d5182a97dd9b3c62100b7d"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7165,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "PENG",
+      "tag": "Group2",
+      "tokenAddress": "0x9b23573b156b52565012f5ce02cdf60afbaa70be"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7166,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "PLTR",
+      "tag": "Group2",
+      "tokenAddress": "0x894e1ec2d74ffe5aef8dc8a9e84686accb964f2a"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7167,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "POET",
+      "tag": "Group2",
+      "tokenAddress": "0xcf6b2d875361be807eafa57458c80f28521f9333"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7168,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "PR",
+      "tag": "Group2",
+      "tokenAddress": "0x4189f0c66ebbb0bfef1c31f763131361ef32f77c"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7169,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "QBTS",
+      "tag": "Group2",
+      "tokenAddress": "0xc583c60aef9dc401da72cec1b404743a93cea1cc"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7170,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "QCOM",
+      "tag": "Group2",
+      "tokenAddress": "0x0f17206447090e464c277571124dd2688e48aea9"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7171,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "QQQ",
+      "tag": "Group2",
+      "tokenAddress": "0xd5f3879160bc7c32ebb4dc785f8a4f505888de68"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7172,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "QUBT",
+      "tag": "Group2",
+      "tokenAddress": "0x59818904ab4ce163b3ce4ffb64f2d6ca02c434b4"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7173,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "RBLX",
+      "tag": "Group2",
+      "tokenAddress": "0xf0c4bf4c582cb3836e98394b1d4e7b7281101be8"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7174,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "RDDT",
+      "tag": "Group2",
+      "tokenAddress": "0x05b37fb53a299a1b874a619e1c4c404d52c36f4c"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7175,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "RDW",
+      "tag": "Group2",
+      "tokenAddress": "0x92ef19e82bd8ff36661de838d5eae7e5cef0effe"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7176,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "RGTI",
+      "tag": "Group2",
+      "tokenAddress": "0x284358abc07f9359f19f4b5b4ac91901be2597ba"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7177,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "RIVN",
+      "tag": "Group2",
+      "tokenAddress": "0xb1bf26c1d20ff267a4f93550d1e0d06ac40a114b"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7178,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "RKLB",
+      "tag": "Group2",
+      "tokenAddress": "0x3b14c39e89d60d627b42a1a4ca45b5bb45fc12e2"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7179,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "SATS",
+      "tag": "Group2",
+      "tokenAddress": "0x95052ddcd5dc25641657424a8cf04834997e1730"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7180,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "SGOV",
+      "tag": "Group2",
+      "tokenAddress": "0x92fd66527192e3e61d4ddd13322aa222de86f9b5"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7181,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "SHOP",
+      "tag": "Group2",
+      "tokenAddress": "0xf53f66751b1eff985311b693531e3290f600c410"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7182,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "SLV",
+      "tag": "Group2",
+      "tokenAddress": "0x411efb0e7f985935daec3d4c3ebaea0d0ad7d89f"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7183,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "SMCI",
+      "tag": "Group2",
+      "tokenAddress": "0xc01aa1fecec0605b13bc84874ff7256c0f5f562a"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7184,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "SNDK",
+      "tag": "Group2",
+      "tokenAddress": "0xb90a19ff0af67f7779aff50a882a9cff42446400"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7185,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "SOFI",
+      "tag": "Group2",
+      "tokenAddress": "0x98e75885157c80992a8d41b696d8c9c6fb30a926"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7186,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "SOXX",
+      "tag": "Group2",
+      "tokenAddress": "0x75742c18bc1f1c5c5f448f4c9d9c6f66dafaaa38"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7187,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "SPCX",
+      "tag": "Group2",
+      "tokenAddress": "0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7188,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "SPMO",
+      "tag": "Group2",
+      "tokenAddress": "0xad622320e520de39e72d41ef07438c3fd3354875"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7189,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "SPY",
+      "tag": "Group2",
+      "tokenAddress": "0x117cc2133c37b721f49de2a7a74833232b3b4c0c"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7190,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "TSEM",
+      "tag": "Group2",
+      "tokenAddress": "0x89776d4cd68193597a2fc132cfac1fde36ccea8a"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7191,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "TSLA",
+      "tag": "Group2",
+      "tokenAddress": "0x322f0929c4625ed5bad873c95208d54e1c003b2d"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7192,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "TSM",
+      "tag": "Group2",
+      "tokenAddress": "0x58ffe4a942d3885baa22d7520691f611ef09e7aa"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7193,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689265,
+      "symbol": "TTWO",
+      "tag": "Group2",
+      "tokenAddress": "0x5e81213613b6b86eab4c6c50d718d34359459786"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7194,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689266,
+      "symbol": "UMC",
+      "tag": "Group2",
+      "tokenAddress": "0x0e6e67ba88e7b5d9b67636a215c76779b948de79"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7195,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689266,
+      "symbol": "UPS",
+      "tag": "Group2",
+      "tokenAddress": "0xf23250dac154d05bb671cb0d0ebef3c635c79ce2"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7196,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689266,
+      "symbol": "USAR",
+      "tag": "Group2",
+      "tokenAddress": "0xd917b029c761d264c6a312bbbcda868658ef86a6"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7197,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689266,
+      "symbol": "USO",
+      "tag": "Group2",
+      "tokenAddress": "0xa30fa36db767ad9ed3f7a60fc79526fb4d56d344"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7198,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689266,
+      "symbol": "WDAY",
+      "tag": "Group2",
+      "tokenAddress": "0x82da4646242e1d962e96e932269dc644c94a9caa"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7199,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689266,
+      "symbol": "XLK",
+      "tag": "Group2",
+      "tokenAddress": "0x15cd20759ce7f3285c29a319de2d1a2e098c6f43"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7200,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689266,
+      "symbol": "XNDU",
+      "tag": "Group2",
+      "tokenAddress": "0xa8eb3bccbf2017ee7cbfb652eb51cf2e1b153289"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7201,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689266,
+      "symbol": "XOM",
+      "tag": "Group2",
+      "tokenAddress": "0xf9b46d3d1b22199d4d1025a9cedb540a33f1a2d5"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7202,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689266,
+      "symbol": "ZM",
+      "tag": "Group2",
+      "tokenAddress": "0x44c4f142009036cf477ed2d09932051843137cf1"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 7203,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1783689266,
+      "symbol": "ZS",
+      "tag": "Group2",
+      "tokenAddress": "0x7dc013eb55e436f30d7ed1afe4e36d6e45e3c3f7"
     }
   ]
 }
