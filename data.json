@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1783837605,
+  "lastUpdated": 1783849489,
   "tokens": [
     {
       "chainId": 1,
@@ -5996,7 +5996,7 @@
       "chainName": "POLYGON",
       "id": 2115,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1782946801,
+      "lastModifiedTime": 1783837801,
       "symbol": "VCHF",
       "tag": "Group1",
       "tokenAddress": "0xcdb3867935247049e87c38ea270edd305d84c9ae"
