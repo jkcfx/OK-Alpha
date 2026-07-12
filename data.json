@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1783821658,
+  "lastUpdated": 1783837605,
   "tokens": [
     {
       "chainId": 1,
@@ -5997,7 +5997,7 @@
       "id": 2115,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1782946801,
-      "symbol": "vchf",
+      "symbol": "VCHF",
       "tag": "Group1",
       "tokenAddress": "0xcdb3867935247049e87c38ea270edd305d84c9ae"
     },
