@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1784529571,
+  "lastUpdated": 1784544210,
   "tokens": [
     {
       "chainId": 1,
@@ -386,8 +386,8 @@
       "chainName": "CRONOS",
       "id": 1438,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "USDC",
+      "lastModifiedTime": 1784539801,
+      "symbol": "USDC.e",
       "tag": "Group1",
       "tokenAddress": "0xc21223249ca28397b4b6541dffaecc539bff0c59"
     },
