@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1785234408,
+  "lastUpdated": 1785246375,
   "tokens": [
     {
       "chainId": 1,
@@ -45330,6 +45330,76 @@
       "symbol": "ZS",
       "tag": "Group2",
       "tokenAddress": "0x7dc013eb55e436f30d7ed1afe4e36d6e45e3c3f7"
+    },
+    {
+      "chainId": 57073,
+      "chainName": "Ink",
+      "id": 10000,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1785242685,
+      "symbol": "ETH",
+      "tag": "Group1",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+      "chainId": 57073,
+      "chainName": "Ink",
+      "id": 10001,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1785242685,
+      "symbol": "GHO",
+      "tag": "Group1",
+      "tokenAddress": "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73"
+    },
+    {
+      "chainId": 57073,
+      "chainName": "Ink",
+      "id": 10002,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1785242685,
+      "symbol": "oUSDT",
+      "tag": "Group1",
+      "tokenAddress": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189"
+    },
+    {
+      "chainId": 57073,
+      "chainName": "Ink",
+      "id": 10003,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1785242685,
+      "symbol": "USDC",
+      "tag": "Group1",
+      "tokenAddress": "0x2d270e6886d130d724215a266106e6832161eaed"
+    },
+    {
+      "chainId": 57073,
+      "chainName": "Ink",
+      "id": 10004,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1785242685,
+      "symbol": "USDC.e",
+      "tag": "Group1",
+      "tokenAddress": "0xf1815bd50389c46847f0bda824ec8da914045d14"
+    },
+    {
+      "chainId": 57073,
+      "chainName": "Ink",
+      "id": 10005,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1785242685,
+      "symbol": "USDG",
+      "tag": "Group1",
+      "tokenAddress": "0xe343167631d89b6ffc58b88d6b7fb0228795491d"
+    },
+    {
+      "chainId": 57073,
+      "chainName": "Ink",
+      "id": 10006,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1785243602,
+      "symbol": "USDT",
+      "tag": "Group1",
+      "tokenAddress": "0x0200c29006150606b650577bbe7b6248f58470c1"
     }
   ]
 }
