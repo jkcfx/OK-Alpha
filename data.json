@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1785910858,
+  "lastUpdated": 1785925671,
   "tokens": [
     {
       "chainId": 1,
@@ -196,8 +196,8 @@
       "chainName": "X Layer",
       "id": 1419,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146298,
-      "symbol": "XLAYER_USDT",
+      "lastModifiedTime": 1785916801,
+      "symbol": "USDT_Bridged",
       "tag": "Group1",
       "tokenAddress": "0x1e4a5963abfd975d8c9021ce480b42188849d41d"
     },
@@ -2956,8 +2956,8 @@
       "chainName": "ETH",
       "id": 1701,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1780916401,
-      "symbol": "***",
+      "lastModifiedTime": 1785918601,
+      "symbol": "USDR",
       "tag": "Group1",
       "tokenAddress": "0x7b43e3875440b44613dc3bc08e7763e6da63c8f8"
     },
