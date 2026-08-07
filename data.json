@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1786080498,
+  "lastUpdated": 1786092519,
   "tokens": [
     {
       "chainId": 1,
@@ -8487,7 +8487,7 @@
       "id": 3353,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1764146303,
-      "symbol": "FACET_FETH",
+      "symbol": "",
       "tag": "Group1",
       "tokenAddress": "facet_0x1673540243e793b0e77c038d4a88448eff524dce"
     },
