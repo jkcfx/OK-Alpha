@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1786353004,
+  "lastUpdated": 1786366339,
   "tokens": [
     {
       "chainId": 1,
@@ -45400,6 +45400,16 @@
       "symbol": "USDT",
       "tag": "Group1",
       "tokenAddress": "0x0200c29006150606b650577bbe7b6248f58470c1"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 10007,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1786358850,
+      "symbol": "USDC",
+      "tag": "Group1",
+      "tokenAddress": "0xb6ceceab302e2e4948951ee7843fc24e92933061"
     }
   ]
 }
