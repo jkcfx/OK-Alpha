@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1788510163,
+  "lastUpdated": 1788536001,
   "tokens": [
     {
       "chainId": 1,
@@ -169976,9 +169976,9 @@
       "chainName": "X Layer",
       "id": 28533,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1788489717,
+      "lastModifiedTime": 1788522508,
       "symbol": "deJAAA",
-      "tag": "X Layer RWA",
+      "tag": "Group1",
       "tokenAddress": "0x5f8a1c74c112865bd05dbe4752c7608332719062"
     },
     {
@@ -170206,9 +170206,9 @@
       "chainName": "X Layer",
       "id": 28556,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1788489717,
+      "lastModifiedTime": 1788522508,
       "symbol": "deJTRSY",
-      "tag": "X Layer RWA",
+      "tag": "Group1",
       "tokenAddress": "0x8de0f3295b9e42b29e7617bada7c603277420451"
     },
     {
@@ -170376,9 +170376,9 @@
       "chainName": "X Layer",
       "id": 28573,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1788496170,
+      "lastModifiedTime": 1788522508,
       "symbol": "deHYB",
-      "tag": "X Layer RWA",
+      "tag": "Group1",
       "tokenAddress": "0xc5a9f6edb48160ed9d9fb156a23c39d7140457ee"
     },
     {
