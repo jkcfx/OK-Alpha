@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1788856130,
+  "lastUpdated": 1788882379,
   "tokens": [
     {
       "chainId": 1,
@@ -173590,6 +173590,16 @@
       "symbol": "wWGSx",
       "tag": "Group2",
       "tokenAddress": "0xf30eb405bf02e8f7991d7519ade59a91fb38d267"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 28895,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1788856245,
+      "symbol": "AMC",
+      "tag": "Group2",
+      "tokenAddress": "AMC1qwR9KhiyrQBRPrxnfo4JfMeMZqEBvt5tgTytNNoc"
     }
   ]
 }
