@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1788920821,
+  "lastUpdated": 1788942704,
   "tokens": [
     {
       "chainId": 1,
@@ -174600,6 +174600,36 @@
       "symbol": "NKE",
       "tag": "Group2",
       "tokenAddress": "NKEda5nHhNGgjrE9nDdMvaEmkmJ96qqxzBVZEcKmjSg"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 28996,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1788921113,
+      "symbol": "SPHR",
+      "tag": "Group2",
+      "tokenAddress": "SPHRp8cZaSQBTp1KMNP4V1X821SXhXWt4Q2yLdyHzju"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 28997,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1788928275,
+      "symbol": "HIMSB",
+      "tag": "Group2",
+      "tokenAddress": "0xee6f4bcc88c2c8583d5a65c7d0c877b464100711"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 28998,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1788928275,
+      "symbol": "CRMB",
+      "tag": "Group2",
+      "tokenAddress": "0x8c433eca1be0e2a357015602f63751c768f6f643"
     }
   ]
 }
