@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1789353868,
+  "lastUpdated": 1789378028,
   "tokens": [
     {
       "chainId": 1,
@@ -196900,6 +196900,26 @@
       "symbol": "FLWS",
       "tag": "Group2",
       "tokenAddress": "FLWSojG1gB5VStYR3Sb4nQFRt43UBYkqih1j2CpVLqgd"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 31226,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789371854,
+      "symbol": "BNCB",
+      "tag": "Group2",
+      "tokenAddress": "0x4902c5ebc598265ed2212b559b042de8a5eeec3f"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 31227,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789377571,
+      "symbol": "WEN",
+      "tag": "Group2",
+      "tokenAddress": "WENAZ2WyPbmgvUcKfQ8hyMDfBQP9bZ65hsZ5KTFrRGZ"
     }
   ]
 }
