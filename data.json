@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1789336819,
+  "lastUpdated": 1789353868,
   "tokens": [
     {
       "chainId": 1,
@@ -196890,6 +196890,16 @@
       "symbol": "DKNG",
       "tag": "Group2",
       "tokenAddress": "DKNGQFNGQmoBdXSRGKJ8tTu7uPDasw5JDcfMmWniNfow"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 31225,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789352031,
+      "symbol": "FLWS",
+      "tag": "Group2",
+      "tokenAddress": "FLWSojG1gB5VStYR3Sb4nQFRt43UBYkqih1j2CpVLqgd"
     }
   ]
 }
