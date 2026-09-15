@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1789426441,
+  "lastUpdated": 1789440472,
   "tokens": [
     {
       "chainId": 1,
@@ -196920,6 +196920,16 @@
       "symbol": "WEN",
       "tag": "Group2",
       "tokenAddress": "WENAZ2WyPbmgvUcKfQ8hyMDfBQP9bZ65hsZ5KTFrRGZ"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 31228,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789439470,
+      "symbol": "SCHH",
+      "tag": "Group2",
+      "tokenAddress": "SCHHJ3jRdSjeFEVAaLrnYdx3Brphn92Ys7z1qkiCtPX"
     }
   ]
 }
