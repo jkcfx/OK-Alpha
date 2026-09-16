@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1789511781,
+  "lastUpdated": 1789526568,
   "tokens": [
     {
       "chainId": 1,
@@ -196930,6 +196930,36 @@
       "symbol": "SCHH",
       "tag": "Group2",
       "tokenAddress": "SCHHJ3jRdSjeFEVAaLrnYdx3Brphn92Ys7z1qkiCtPX"
+    },
+    {
+      "chainId": 5042,
+      "chainName": "Arc",
+      "id": 31229,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789520122,
+      "symbol": "USDC",
+      "tag": "Group1",
+      "tokenAddress": "0x3600000000000000000000000000000000000000"
+    },
+    {
+      "chainId": 5042,
+      "chainName": "Arc",
+      "id": 31230,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789520122,
+      "symbol": "EURC",
+      "tag": "Group1",
+      "tokenAddress": "0xbEf5f6d51CB62b58e6A8f77868681825C6fe21c1"
+    },
+    {
+      "chainId": 5042,
+      "chainName": "Arc",
+      "id": 31231,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789520122,
+      "symbol": "",
+      "tag": "Group1",
+      "tokenAddress": "0xe9185F0c5F296Ed1797AaE4238D26CCaBEadb86C"
     }
   ]
 }
