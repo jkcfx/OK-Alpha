@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1789698831,
+  "lastUpdated": 1789720758,
   "tokens": [
     {
       "chainId": 1,
@@ -205590,6 +205590,16 @@
       "symbol": "RMVx",
       "tag": "Group2",
       "tokenAddress": "Xsm7Xcc4TtVQKdgEs7KBUVMimkWpMhqMwjaJ24G2sdn"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 32095,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789702112,
+      "symbol": "RUM",
+      "tag": "Group2",
+      "tokenAddress": "RUMsPfFZFnN1ZmGANwP7FNMJMjKH4m9RiMePrtVtLe7"
     }
   ]
 }
