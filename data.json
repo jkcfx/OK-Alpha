@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1789720758,
+  "lastUpdated": 1789745696,
   "tokens": [
     {
       "chainId": 1,
@@ -205600,6 +205600,96 @@
       "symbol": "RUM",
       "tag": "Group2",
       "tokenAddress": "RUMsPfFZFnN1ZmGANwP7FNMJMjKH4m9RiMePrtVtLe7"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 32096,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789727577,
+      "symbol": "AAONx",
+      "tag": "Group2",
+      "tokenAddress": "0x6cf8a0f1e7982a2cad7f878db2bd0e1f30b49e6c"
+    },
+    {
+      "chainId": 70000080,
+      "chainName": "HYPE",
+      "id": 32097,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789727577,
+      "symbol": "AAONx",
+      "tag": "Group2",
+      "tokenAddress": "0x6cf8a0f1e7982a2cad7f878db2bd0e1f30b49e6c"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 32098,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789727577,
+      "symbol": "AAONx",
+      "tag": "Group2",
+      "tokenAddress": "0x6cf8a0f1e7982a2cad7f878db2bd0e1f30b49e6c"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 32099,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789727577,
+      "symbol": "AAONx",
+      "tag": "Group2",
+      "tokenAddress": "0x6cf8a0f1e7982a2cad7f878db2bd0e1f30b49e6c"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 32100,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789727577,
+      "symbol": "AAONx",
+      "tag": "Group2",
+      "tokenAddress": "0x6cf8a0f1e7982a2cad7f878db2bd0e1f30b49e6c"
+    },
+    {
+      "chainId": 1,
+      "chainName": "ETH",
+      "id": 32101,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789727577,
+      "symbol": "AAONx",
+      "tag": "Group2",
+      "tokenAddress": "0x6cf8a0f1e7982a2cad7f878db2bd0e1f30b49e6c"
+    },
+    {
+      "chainId": 57073,
+      "chainName": "Ink",
+      "id": 32102,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789727577,
+      "symbol": "AAONx",
+      "tag": "Group2",
+      "tokenAddress": "0x6cf8a0f1e7982a2cad7f878db2bd0e1f30b49e6c"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 32103,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789727578,
+      "symbol": "AAONx",
+      "tag": "Group2",
+      "tokenAddress": "XsvFzSYaLgkoB2iHQiSMhf6e5bVcRThJZvRPiySbhjq"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 32104,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789727578,
+      "symbol": "AAONx",
+      "tag": "Group2",
+      "tokenAddress": "0x6cf8a0f1e7982a2cad7f878db2bd0e1f30b49e6c"
     }
   ]
 }
