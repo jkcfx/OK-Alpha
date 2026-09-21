@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1789982969,
+  "lastUpdated": 1790012115,
   "tokens": [
     {
       "chainId": 1,
@@ -214530,6 +214530,16 @@
       "symbol": "BB",
       "tag": "Group2",
       "tokenAddress": "BBosJLw8ZzoATiEyywiifx7AgmrD2Cm3XjFWbhbRhChy"
+    },
+    {
+      "chainId": 70000080,
+      "chainName": "HYPE",
+      "id": 32989,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1789982444,
+      "symbol": "wGMEx",
+      "tag": "Group2",
+      "tokenAddress": "0x459d3ae62b86cc6125e06260dddfd3afed24a877"
     }
   ]
 }
