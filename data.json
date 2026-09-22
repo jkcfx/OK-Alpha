@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1790031492,
+  "lastUpdated": 1790044988,
   "tokens": [
     {
       "chainId": 1,
@@ -214540,6 +214540,26 @@
       "symbol": "wGMEx",
       "tag": "Group2",
       "tokenAddress": "0x459d3ae62b86cc6125e06260dddfd3afed24a877"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 32990,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1790040671,
+      "symbol": "URA",
+      "tag": "Group2",
+      "tokenAddress": "URARfsinxCRw4JpvQhuT4CxavdZXZEMjv9ZwWmWpwag"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 32991,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1790040671,
+      "symbol": "COPX",
+      "tag": "Group2",
+      "tokenAddress": "CzLTZppPdZtTjyq3WGpHLstoc3GLhu7zH5Zg6xUa6Gv5"
     }
   ]
 }
