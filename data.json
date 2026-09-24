@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1790266563,
+  "lastUpdated": 1790290489,
   "tokens": [
     {
       "chainId": 1,
@@ -233810,6 +233810,16 @@
       "symbol": "PAXGy",
       "tag": "Group2",
       "tokenAddress": "0x6c6494fd9962eb98b94ffa48f6679058f820700e"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 34917,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1790267416,
+      "symbol": "wOURAx",
+      "tag": "Group2",
+      "tokenAddress": "0x3cbed1c273df48bea4ec5a423ff85d9f1c7665d6"
     }
   ]
 }
