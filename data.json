@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1790217180,
+  "lastUpdated": 1790240121,
   "tokens": [
     {
       "chainId": 1,
@@ -233790,6 +233790,26 @@
       "symbol": "wOURAx",
       "tag": "Group2",
       "tokenAddress": "0x3cbed1c273df48bea4ec5a423ff85d9f1c7665d6"
+    },
+    {
+      "chainId": 5042,
+      "chainName": "Arc",
+      "id": 34915,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1790237466,
+      "symbol": "cirBTC",
+      "tag": "Group1",
+      "tokenAddress": "0x171a4217b86a807a64eb94757db6849fb4bdbaa0"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 34916,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1790237466,
+      "symbol": "PAXGy",
+      "tag": "Group2",
+      "tokenAddress": "0x6c6494fd9962eb98b94ffa48f6679058f820700e"
     }
   ]
 }
