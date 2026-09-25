@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1790327746,
+  "lastUpdated": 1790352987,
   "tokens": [
     {
       "chainId": 1,
@@ -233820,6 +233820,36 @@
       "symbol": "wOURAx",
       "tag": "Group2",
       "tokenAddress": "0x3cbed1c273df48bea4ec5a423ff85d9f1c7665d6"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 34918,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1790348583,
+      "symbol": "wITAx",
+      "tag": "Group2",
+      "tokenAddress": "0xf8e5e984ecf03583597fd32fbdb038a41e2a23bf"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 34919,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1790348583,
+      "symbol": "ITAx",
+      "tag": "Group2",
+      "tokenAddress": "0x375b9f00a83132cabcda7abf2bfc87c14f7ac324"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 34920,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1790348583,
+      "symbol": "IREN",
+      "tag": "Group2",
+      "tokenAddress": "RENzhrJQgmAnfcLhU1U5XwAMc6TC15UA6jCbPBaasnj"
     }
   ]
 }
