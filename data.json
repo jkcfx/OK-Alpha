@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1790936021,
+  "lastUpdated": 1790961099,
   "tokens": [
     {
       "chainId": 1,
@@ -3736,8 +3736,8 @@
       "chainName": "SOLANA",
       "id": 1885,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1766273401,
-      "symbol": "VEUR",
+      "lastModifiedTime": 1790958601,
+      "symbol": "symbol",
       "tag": "Group1",
       "tokenAddress": "C4Kkr9NZU3VbyedcgutU6LKmi6MKz81sx6gRmk5pX519"
     },
