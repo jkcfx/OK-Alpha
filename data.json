@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1791969146,
+  "lastUpdated": 1791994660,
   "tokens": [
     {
       "chainId": 1,
@@ -281340,6 +281340,46 @@
       "symbol": "AXPx",
       "tag": "Group2",
       "tokenAddress": "XstYR6KGqZFchAuhHoEe4mL8W2kL9aqGW1EDBKRrmGB"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 39670,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1791974059,
+      "symbol": "PENGB",
+      "tag": "Group2",
+      "tokenAddress": "0x7f732f9d2f2ea3e7e223c2e737e5257007f90e01"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 39671,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1791974059,
+      "symbol": "BBB",
+      "tag": "Group2",
+      "tokenAddress": "0xcbb733b3dccbb983e49baac52abe7bc3a8e85a4f"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 39672,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1791974059,
+      "symbol": "MDBB",
+      "tag": "Group2",
+      "tokenAddress": "0x2e4127e92ebc1b7909267a820c9cb508373e5a5c"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 39673,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1791974059,
+      "symbol": "UVXYB",
+      "tag": "Group2",
+      "tokenAddress": "0x63ba610118fff2d6b6052cb681dcfab78cea1aa9"
     }
   ]
 }
