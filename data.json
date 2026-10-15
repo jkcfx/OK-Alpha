@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1792018549,
+  "lastUpdated": 1792031950,
   "tokens": [
     {
       "chainId": 1,
@@ -177207,7 +177207,7 @@
       "id": 29256,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wHIGx",
       "tag": "Group2",
       "tokenAddress": "0x8d94c9b9daff91b491cfa78b5be13d4acb5ddb1f"
     },
@@ -177217,7 +177217,7 @@
       "id": 29257,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wIDAx",
       "tag": "Group2",
       "tokenAddress": "0xfb59ad097b189297b3bdb8c2ecc0d45e12051ecb"
     },
@@ -177227,7 +177227,7 @@
       "id": 29258,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wATRx",
       "tag": "Group2",
       "tokenAddress": "0xfb738420559667a067e7f3341033c204e27bad85"
     },
@@ -177237,7 +177237,7 @@
       "id": 29259,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wEPAMx",
       "tag": "Group2",
       "tokenAddress": "0x94e7f6ce1df010c1e71a334dbb45bda880eb3cfa"
     },
@@ -177247,7 +177247,7 @@
       "id": 29260,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wRYNx",
       "tag": "Group2",
       "tokenAddress": "0x7430f500c7e4bf0054f2ff29cbca22064acd9f5a"
     },
@@ -177267,7 +177267,7 @@
       "id": 29262,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wAXSx",
       "tag": "Group2",
       "tokenAddress": "0x70a9a96c8768ba147fd68842f7a9463b3aef7b49"
     },
@@ -177287,7 +177287,7 @@
       "id": 29264,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wSJMx",
       "tag": "Group2",
       "tokenAddress": "0xf6a09d83d147a7c846d61cec40e356fcba84ea34"
     },
@@ -177297,7 +177297,7 @@
       "id": 29265,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wACMx",
       "tag": "Group2",
       "tokenAddress": "0x7420591ff63701ac5d8d20cd6fc0b3418e485137"
     },
@@ -177317,7 +177317,7 @@
       "id": 29267,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wTSCOx",
       "tag": "Group2",
       "tokenAddress": "0x3ede53919079a6a368dafc35368293b42a93ae9b"
     },
@@ -177327,7 +177327,7 @@
       "id": 29268,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wDLBx",
       "tag": "Group2",
       "tokenAddress": "0x4ef91f2ed1bbad8c905d312bfead4eb4807cf163"
     },
@@ -177347,7 +177347,7 @@
       "id": 29270,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wPRIx",
       "tag": "Group2",
       "tokenAddress": "0x5087903b0cd94a17c1626d62308aaf02ece40b28"
     },
@@ -177357,7 +177357,7 @@
       "id": 29271,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wPHx",
       "tag": "Group2",
       "tokenAddress": "0x6282954c910933d0a6971c4ca150b9fc35a91b4c"
     },
@@ -177367,7 +177367,7 @@
       "id": 29272,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wCNMx",
       "tag": "Group2",
       "tokenAddress": "0x29a06b9862f04cd31328c4186e9832b828283274"
     },
@@ -177377,7 +177377,7 @@
       "id": 29273,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wEXLSx",
       "tag": "Group2",
       "tokenAddress": "0x61302858a36ca63bec3320f645bbce83545b0eb3"
     },
@@ -177437,7 +177437,7 @@
       "id": 29279,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wLHXx",
       "tag": "Group2",
       "tokenAddress": "0xfd657992e3c3e49d5f9ce6a8d7f1e04bd11edde2"
     },
@@ -177457,7 +177457,7 @@
       "id": 29281,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wNXSTx",
       "tag": "Group2",
       "tokenAddress": "0xf3942fee795e3ebe329a4ffd8ae58c1df04de293"
     },
@@ -177477,7 +177477,7 @@
       "id": 29283,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wWSTx",
       "tag": "Group2",
       "tokenAddress": "0xf28baccd28827fc1b31b0d3c2bc0a7b01ec2954d"
     },
@@ -177487,7 +177487,7 @@
       "id": 29284,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wLADx",
       "tag": "Group2",
       "tokenAddress": "0xafc0c3a7e627ee4607036998ae0761d7de2d0bab"
     },
@@ -177517,7 +177517,7 @@
       "id": 29287,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wHXLx",
       "tag": "Group2",
       "tokenAddress": "0x0f5a25123da9bc38624b1b397f0748f8a633c1a4"
     },
@@ -177537,7 +177537,7 @@
       "id": 29289,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040487,
-      "symbol": "",
+      "symbol": "wMKTXx",
       "tag": "Group2",
       "tokenAddress": "0x00c218cafaac32a176f8a60ae9a810a6ef926520"
     },
@@ -177577,7 +177577,7 @@
       "id": 29293,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wGMEDx",
       "tag": "Group2",
       "tokenAddress": "0xfdc181fd441c70554b3e33b37bdd70455769d1b1"
     },
@@ -177597,7 +177597,7 @@
       "id": 29295,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wPGRx",
       "tag": "Group2",
       "tokenAddress": "0xce97dee7ee0bb3e5a94ad20bf4cc887bd74ca708"
     },
@@ -177617,7 +177617,7 @@
       "id": 29297,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wESSx",
       "tag": "Group2",
       "tokenAddress": "0x05b3331421cb7ba34b5f80770bad1870ab559c40"
     },
@@ -177627,7 +177627,7 @@
       "id": 29298,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wMMMx",
       "tag": "Group2",
       "tokenAddress": "0x2ca83072b39e66047ee208f8b5ea379c5bd6417c"
     },
@@ -177637,7 +177637,7 @@
       "id": 29299,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wVRSNx",
       "tag": "Group2",
       "tokenAddress": "0x9cb4ff94c548c677a4ae2804ddf2efc49db83384"
     },
@@ -177647,7 +177647,7 @@
       "id": 29300,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wDOCUx",
       "tag": "Group2",
       "tokenAddress": "0x06514198213eb3226e2e688fa5a26e9e8fd36b03"
     },
@@ -177657,7 +177657,7 @@
       "id": 29301,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wHRx",
       "tag": "Group2",
       "tokenAddress": "0xf4d1e63122aea3813cf133f605289c19ea2b2bcc"
     },
@@ -177677,7 +177677,7 @@
       "id": 29303,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wHALOx",
       "tag": "Group2",
       "tokenAddress": "0xc606a54201d8edf31fb085669fe9bf4b63f921de"
     },
@@ -177707,7 +177707,7 @@
       "id": 29306,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wAPDx",
       "tag": "Group2",
       "tokenAddress": "0x74ae5c3af2897966671a317a1d3638511b140ad1"
     },
@@ -177747,7 +177747,7 @@
       "id": 29310,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wAEISx",
       "tag": "Group2",
       "tokenAddress": "0x0f801c964a50340ac7fb36dab4ee64c820ac61a6"
     },
@@ -177767,7 +177767,7 @@
       "id": 29312,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wFTVx",
       "tag": "Group2",
       "tokenAddress": "0x0a1dbdeef29c1bf7bcb6f3c6a84a1400810745f2"
     },
@@ -177797,7 +177797,7 @@
       "id": 29315,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wMPx",
       "tag": "Group2",
       "tokenAddress": "0x62d7889c0f0db3db6389e9d4dbb60a873f78f95f"
     },
@@ -177807,7 +177807,7 @@
       "id": 29316,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wVEEVx",
       "tag": "Group2",
       "tokenAddress": "0x092214dba487c3172c4927cc52ea02ed831fcdd5"
     },
@@ -177857,7 +177857,7 @@
       "id": 29321,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wFRHCx",
       "tag": "Group2",
       "tokenAddress": "0x544e21c32d4e958a7d7641fad8e760caa130b10d"
     },
@@ -177877,7 +177877,7 @@
       "id": 29323,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wUGIx",
       "tag": "Group2",
       "tokenAddress": "0xdfdf6120ac2ba57ef62bf52d4f1340c98f190778"
     },
@@ -177907,7 +177907,7 @@
       "id": 29326,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wELVx",
       "tag": "Group2",
       "tokenAddress": "0xcd189742bbe67fa13a6396efdb9c41cf095aca38"
     },
@@ -177927,7 +177927,7 @@
       "id": 29328,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wDECKx",
       "tag": "Group2",
       "tokenAddress": "0x4e851abed4c910f16e26d20c2b2b00f6dfd18f5b"
     },
@@ -177937,7 +177937,7 @@
       "id": 29329,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wAAONx",
       "tag": "Group2",
       "tokenAddress": "0xdeaaa9b564846164d37b8b835585d7972eb7efea"
     },
@@ -177947,7 +177947,7 @@
       "id": 29330,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wCHRDx",
       "tag": "Group2",
       "tokenAddress": "0x6e1c567357758e4457b47ccb4fc8a963570aa88e"
     },
@@ -177957,7 +177957,7 @@
       "id": 29331,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1789040489,
-      "symbol": "",
+      "symbol": "wMDLZx",
       "tag": "Group2",
       "tokenAddress": "0x605e2a2e4f5f44f13805af53c1829eb548836c71"
     },
