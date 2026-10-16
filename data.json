@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1792140017,
+  "lastUpdated": 1792165995,
   "tokens": [
     {
       "chainId": 1,
@@ -281497,7 +281497,7 @@
       "id": 39685,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040401,
-      "symbol": "wdcc",
+      "symbol": "WDCc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000008fde21a1f5c69fec0b"
     },
