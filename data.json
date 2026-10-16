@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1792165995,
+  "lastUpdated": 1792177883,
   "tokens": [
     {
       "chainId": 1,
@@ -281387,7 +281387,7 @@
       "id": 39674,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040401,
-      "symbol": "nowc",
+      "symbol": "NOWc",
       "tag": "Group2",
       "tokenAddress": "0xb20000000000000000000082cd2c7801305808df"
     },
@@ -281397,7 +281397,7 @@
       "id": 39675,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040401,
-      "symbol": "glxyc",
+      "symbol": "GLXYc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000006de7888c3fffd803ac"
     },
@@ -281407,7 +281407,7 @@
       "id": 39676,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040401,
-      "symbol": "cavac",
+      "symbol": "CAVAc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000001b6e407239eb31edcf"
     },
@@ -281437,7 +281437,7 @@
       "id": 39679,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040401,
-      "symbol": "wingc",
+      "symbol": "WINGc",
       "tag": "Group2",
       "tokenAddress": "0xb200000000000000000000281c973bf2555dd94b"
     },
@@ -281517,7 +281517,7 @@
       "id": 39687,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040402,
-      "symbol": "corzc",
+      "symbol": "CORZc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000001aaa9010cd65f82c5e"
     },
@@ -281537,7 +281537,7 @@
       "id": 39689,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040402,
-      "symbol": "clovc",
+      "symbol": "CLOVc",
       "tag": "Group2",
       "tokenAddress": "0xb20000000000000000000055e63c4c1cdc6b7a36"
     },
@@ -281597,7 +281597,7 @@
       "id": 39695,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040402,
-      "symbol": "elfc",
+      "symbol": "ELFc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000006b7f6966ee0453e251"
     },
@@ -281617,7 +281617,7 @@
       "id": 39697,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040402,
-      "symbol": "stzc",
+      "symbol": "STZc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000001ac12227a8ae0ef3ac"
     },
@@ -281717,7 +281717,7 @@
       "id": 39707,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040402,
-      "symbol": "gemic",
+      "symbol": "GEMIc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000009c52748e1d1cbd5fd6"
     },
@@ -281797,7 +281797,7 @@
       "id": 39715,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040402,
-      "symbol": "sofic",
+      "symbol": "SOFIc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000003ef37a7c863dc1482a"
     },
@@ -281807,7 +281807,7 @@
       "id": 39716,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040402,
-      "symbol": "yumc",
+      "symbol": "YUMc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000005c8324136de0f4134a"
     },
@@ -281817,7 +281817,7 @@
       "id": 39717,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040402,
-      "symbol": "vktxc",
+      "symbol": "VKTXc",
       "tag": "Group2",
       "tokenAddress": "0xb200000000000000000000979ef4dd6a001b58b1"
     },
@@ -281837,7 +281837,7 @@
       "id": 39719,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040402,
-      "symbol": "hpqc",
+      "symbol": "HPQc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000009a3602cf5d020afa98"
     },
@@ -281897,7 +281897,7 @@
       "id": 39725,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040402,
-      "symbol": "uc",
+      "symbol": "Uc",
       "tag": "Group2",
       "tokenAddress": "0xb200000000000000000000902f48cba1f39149f7"
     },
@@ -281907,7 +281907,7 @@
       "id": 39726,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040403,
-      "symbol": "rootc",
+      "symbol": "ROOTc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000004aa2b559ca0a0bbf5d"
     },
@@ -281917,7 +281917,7 @@
       "id": 39727,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040403,
-      "symbol": "celhc",
+      "symbol": "CELHc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000004161b4168d03841511"
     },
@@ -281937,7 +281937,7 @@
       "id": 39729,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040403,
-      "symbol": "xxic",
+      "symbol": "XXIc",
       "tag": "Group2",
       "tokenAddress": "0xb200000000000000000000115bf2283265fb04db"
     },
@@ -281967,7 +281967,7 @@
       "id": 39732,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040403,
-      "symbol": "plntc",
+      "symbol": "PLNTc",
       "tag": "Group2",
       "tokenAddress": "0xb20000000000000000000011b20aebe0bd567f1c"
     },
@@ -281977,7 +281977,7 @@
       "id": 39733,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040403,
-      "symbol": "sezlc",
+      "symbol": "SEZLc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000000c1f8acd3c4496a762"
     },
@@ -281997,7 +281997,7 @@
       "id": 39735,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792040403,
-      "symbol": "chwyc",
+      "symbol": "CHWYc",
       "tag": "Group2",
       "tokenAddress": "0xb200000000000000000000a5e12a1842dfcdb118"
     },
