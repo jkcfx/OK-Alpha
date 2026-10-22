@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1792637178,
+  "lastUpdated": 1792659918,
   "tokens": [
     {
       "chainId": 1,
@@ -284840,6 +284840,16 @@
       "symbol": "BE",
       "tag": "Group2",
       "tokenAddress": "BEBVfXZ8uCxRBuunEbW9wcq9r7W9ySNo14oJBJkDgpZx"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 40021,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792639020,
+      "symbol": "RKLB",
+      "tag": "Group2",
+      "tokenAddress": "RKLBnAXGqv31iZomqsuAWkQm1aqC7JwwvbCfzGdqAhz"
     }
   ]
 }
