@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1792659918,
+  "lastUpdated": 1792686332,
   "tokens": [
     {
       "chainId": 1,
@@ -284850,6 +284850,446 @@
       "symbol": "RKLB",
       "tag": "Group2",
       "tokenAddress": "RKLBnAXGqv31iZomqsuAWkQm1aqC7JwwvbCfzGdqAhz"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40022,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "UNHc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000c367d37d07150182a2"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40023,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "GPROc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000f0e13d9c1cdfd211c8"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40024,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "HSAIc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000f3049f4aa834b23b64"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40025,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "JACKc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000b44f193b3ffdf17037"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40026,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "DASHc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000bf391678bf2e38cedb"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40027,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "AMCc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000cd7e6b8042cb7c2bb5"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40028,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "INFYc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000f6b0417af5f52341fc"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40029,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "DNAc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000cc17eea8c9495e1499"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40030,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "BMNRc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000ea2df44a307cab279c"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40031,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "AAOIc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000cf36d05963a3e2205c"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40032,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "LITEc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000eda6c2c6f11e0f838f"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40033,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "SPCEc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000d65c9253b025af8c56"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40034,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "ONDSc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000e7137ca231c5e35f25"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40035,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "BUDc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000c36ce081dd09e86ca2"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40036,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "PLc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000cb6b2f4e33f0471556"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40037,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "LFMDc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000db15c02e133a9dab99"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40038,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "TAPc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000e0b9460c97f38f412f"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40039,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "FIZZc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000ee6fd7de967ea1a0dc"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40040,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "WRDc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000e88efe88d8ade3f0da"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40041,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "VVVc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000fec679b39992f67627"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40042,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "PDDc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000c8a7223510467d8563"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40043,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "CANc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000f32d61ba597eddfbfd"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40044,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "RUNc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000b1b9200405fb52a8cf"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40045,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "RGTIc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000c22fff2785bb27b39a"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40046,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "RIOTc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000bd0c7627b663c581a6"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40047,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "CRWVc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000f111184a74720787e6"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40048,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "UBERc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000cae20cb1446462e24c"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40049,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "LUVc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000d5c0393796e92fcab0"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40050,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "AURc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000cf62d7125cc77d2f96"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40051,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "LEUc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000fab55ad3773f2c8ef1"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40052,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "BILIc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000ca7c6d1438e7245eb6"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40053,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "CVNAc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000ffb10718f880a48274"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40054,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "RKLBc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000e8e50cbbb9a3861a3c"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40055,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "HSYc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000f327a373aa86ac86a8"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40056,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "TKOc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000b8f841940325db6b2c"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40057,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "SGc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000b57f99acec3a7490d0"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40058,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "BIDUc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000d2b7d9aee52f6c6bef"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40059,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "RDWc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000cd7dfaef0423f1f103"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40060,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "SAPc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000da6f64c306234127e0"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40061,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "CLSKc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000fa63cfff5c794dbb95"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40062,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "LIc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000d61efd9f54a23ef9eb"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40063,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "BKSYc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000bc4d895df1eeed1d06"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40064,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "MCDc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000d2f4cf2f7debb244bb"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40065,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792664915,
+      "symbol": "SKYDc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000a21b5ae62fea392b73"
     }
   ]
 }
