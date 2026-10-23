@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1792723797,
+  "lastUpdated": 1792746000,
   "tokens": [
     {
       "chainId": 1,
@@ -285290,6 +285290,96 @@
       "symbol": "SKYDc",
       "tag": "Group2",
       "tokenAddress": "0xb200000000000000000000a21b5ae62fea392b73"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40066,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792724050,
+      "symbol": "cmcsac",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000003bd46dbde905508b16"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40067,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792724050,
+      "symbol": "apldc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000007cbdf8fa3861e51721"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40068,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792724050,
+      "symbol": "nnec",
+      "tag": "Group2",
+      "tokenAddress": "0xb20000000000000000000069d694d397b9388dac"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40069,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792724050,
+      "symbol": "swbic",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000003fe90a64263b7f9e74"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40070,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792724050,
+      "symbol": "pepc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000006d1bc7faa266eb099d"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40071,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792724050,
+      "symbol": "brosc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000001ecfaccd9047d3b544"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40072,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792724050,
+      "symbol": "AIc",
+      "tag": "Group2",
+      "tokenAddress": "0xb20000000000000000000072b5c2b2d18ee8a2a5"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40073,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792724050,
+      "symbol": "flyc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000004fc7a0c25178a0d633"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40074,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792724050,
+      "symbol": "anfc",
+      "tag": "Group2",
+      "tokenAddress": "0xb20000000000000000000019641b253b3e2c8a24"
     }
   ]
 }
