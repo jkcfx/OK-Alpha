@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1792746000,
+  "lastUpdated": 1792772046,
   "tokens": [
     {
       "chainId": 1,
@@ -285297,7 +285297,7 @@
       "id": 40066,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792724050,
-      "symbol": "cmcsac",
+      "symbol": "CMCSAc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000003bd46dbde905508b16"
     },
@@ -285307,7 +285307,7 @@
       "id": 40067,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792724050,
-      "symbol": "apldc",
+      "symbol": "APLDc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000007cbdf8fa3861e51721"
     },
@@ -285317,7 +285317,7 @@
       "id": 40068,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792724050,
-      "symbol": "nnec",
+      "symbol": "NNEc",
       "tag": "Group2",
       "tokenAddress": "0xb20000000000000000000069d694d397b9388dac"
     },
@@ -285327,7 +285327,7 @@
       "id": 40069,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792724050,
-      "symbol": "swbic",
+      "symbol": "SWBIc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000003fe90a64263b7f9e74"
     },
@@ -285337,7 +285337,7 @@
       "id": 40070,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792724050,
-      "symbol": "pepc",
+      "symbol": "PEPc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000006d1bc7faa266eb099d"
     },
@@ -285347,7 +285347,7 @@
       "id": 40071,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792724050,
-      "symbol": "brosc",
+      "symbol": "BROSc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000001ecfaccd9047d3b544"
     },
@@ -285367,7 +285367,7 @@
       "id": 40073,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792724050,
-      "symbol": "flyc",
+      "symbol": "FLYc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000004fc7a0c25178a0d633"
     },
@@ -285377,7 +285377,7 @@
       "id": 40074,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1792724050,
-      "symbol": "anfc",
+      "symbol": "ANFc",
       "tag": "Group2",
       "tokenAddress": "0xb20000000000000000000019641b253b3e2c8a24"
     }
