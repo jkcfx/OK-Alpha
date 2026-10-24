@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1792810022,
+  "lastUpdated": 1792830809,
   "tokens": [
     {
       "chainId": 1,
@@ -285380,6 +285380,146 @@
       "symbol": "ANFc",
       "tag": "Group2",
       "tokenAddress": "0xb20000000000000000000019641b253b3e2c8a24"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40075,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792810278,
+      "symbol": "FUNc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000000199ae48796c61909e"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40076,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792810281,
+      "symbol": "PLUGc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000c6dbae193c95c4e056"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40077,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792810281,
+      "symbol": "QSc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000bd938fa95e3e20c5a1"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40078,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792810281,
+      "symbol": "SAMc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000e410ae30abdda3aee0"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40079,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792810281,
+      "symbol": "SLDPc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000df3eb2af7316b29122"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40080,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792810281,
+      "symbol": "TGTc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000c715439d0cc5a8c67d"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40081,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792810282,
+      "symbol": "VRTc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000b2e8dba585b1ffb158"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40082,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792810282,
+      "symbol": "OPADc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000003086b1355bd43e25da"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40083,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792810282,
+      "symbol": "WKHSc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000dfa6c77aea5329d187"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40084,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792810285,
+      "symbol": "ACHRc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000008a494d531d88cf55d6"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40085,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792810285,
+      "symbol": "COHRc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000a8c925f62e6d194715"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40086,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792810285,
+      "symbol": "Fc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000ce4f8fc7ba5ca0359b"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40087,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792810285,
+      "symbol": "FSLRc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000b096f2f6021ac39617"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40088,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792810285,
+      "symbol": "LOVEc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000c3e498043bb44e8cbf"
     }
   ]
 }
