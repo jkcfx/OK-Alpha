@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1792982176,
+  "lastUpdated": 1793007240,
   "tokens": [
     {
       "chainId": 1,
@@ -285560,6 +285560,16 @@
       "symbol": "DNUTc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000005c41b0018612629072"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40093,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792987457,
+      "symbol": "AEHRc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000001775bd17f2289de527"
     }
   ]
 }
