@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1792966450,
+  "lastUpdated": 1792982176,
   "tokens": [
     {
       "chainId": 1,
@@ -285520,6 +285520,46 @@
       "symbol": "LOVEc",
       "tag": "Group2",
       "tokenAddress": "0xb200000000000000000000c3e498043bb44e8cbf"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40089,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792981633,
+      "symbol": "GSc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000a82a0c88dd258ed141"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40090,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792981634,
+      "symbol": "FUBOc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000ffada41c4ed20b8d0f"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40091,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792981635,
+      "symbol": "nvtsc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000002a0ec8f8861ce98983"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40092,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1792981635,
+      "symbol": "DNUTc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000005c41b0018612629072"
     }
   ]
 }
