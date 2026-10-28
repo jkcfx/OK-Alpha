@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793182521,
+  "lastUpdated": 1793209533,
   "tokens": [
     {
       "chainId": 1,
@@ -285890,6 +285890,1256 @@
       "symbol": "BSPB",
       "tag": "Group2",
       "tokenAddress": "0xc895d166fe59841dc71003f80d7ef2f00f40a4be"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40126,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200364,
+      "symbol": "wSWKSx",
+      "tag": "Group2",
+      "tokenAddress": "0x5145ca8d2ef57806eccdc1e0d08fb0fd00a4bacf"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40127,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200364,
+      "symbol": "wCRLx",
+      "tag": "Group2",
+      "tokenAddress": "0xc154b6f6d1a4e3ba4bb7bf98004269ee1d7563ec"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40128,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200364,
+      "symbol": "wNIQx",
+      "tag": "Group2",
+      "tokenAddress": "0x13a529a4557a48e5a166a3b40b8206a9dc81ae6c"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40129,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200364,
+      "symbol": "wCRLx",
+      "tag": "Group2",
+      "tokenAddress": "0xc154b6f6d1a4e3ba4bb7bf98004269ee1d7563ec"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40130,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200364,
+      "symbol": "wSOLVx",
+      "tag": "Group2",
+      "tokenAddress": "0x7793de5863429a6a3efee34790331e812b49adb8"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40131,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200364,
+      "symbol": "wJBSx",
+      "tag": "Group2",
+      "tokenAddress": "0xa6debc29f5e4fbc5d2604bec9c05b11fabce5ad0"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40132,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200364,
+      "symbol": "wSTx",
+      "tag": "Group2",
+      "tokenAddress": "0xcecd351ad42d6e8302d6fab161537ebdb683e5d9"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40133,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wECHOx",
+      "tag": "Group2",
+      "tokenAddress": "0x462422d22678b6825754c542f5134ffa0ca1daf4"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40134,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wMOHx",
+      "tag": "Group2",
+      "tokenAddress": "0x4a7473cd2c1c283f7a9e1cfc43830a367b3728d4"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40135,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wGTMx",
+      "tag": "Group2",
+      "tokenAddress": "0x97bda73a92f2c08d3c54dde47c16e6ad3a193bf8"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40136,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wONONx",
+      "tag": "Group2",
+      "tokenAddress": "0x84c06819b79de1fd8f1b215e11a5996eb0e09298"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40137,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wTECHx",
+      "tag": "Group2",
+      "tokenAddress": "0x83449be59e9d8d585bdbddb6e2cde450dd3fcd2f"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40138,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wQXOx",
+      "tag": "Group2",
+      "tokenAddress": "0xdc3436782e028f89147da4dcab25b6fb222d6d11"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40139,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wCBCx",
+      "tag": "Group2",
+      "tokenAddress": "0xe37542285dace8e470261216da5e97bceb3e1f77"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40140,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wTECHx",
+      "tag": "Group2",
+      "tokenAddress": "0x83449be59e9d8d585bdbddb6e2cde450dd3fcd2f"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40141,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wHONAx",
+      "tag": "Group2",
+      "tokenAddress": "0x53049e7c595240407af69c0df69d0022de036027"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40142,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wECHOx",
+      "tag": "Group2",
+      "tokenAddress": "0x462422d22678b6825754c542f5134ffa0ca1daf4"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40143,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wSOLVx",
+      "tag": "Group2",
+      "tokenAddress": "0x7793de5863429a6a3efee34790331e812b49adb8"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40144,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wFOXAx",
+      "tag": "Group2",
+      "tokenAddress": "0xe5f81ce886fe131675003b79743354cc26c36ec2"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40145,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wMOHx",
+      "tag": "Group2",
+      "tokenAddress": "0x4a7473cd2c1c283f7a9e1cfc43830a367b3728d4"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40146,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wTECHx",
+      "tag": "Group2",
+      "tokenAddress": "0x83449be59e9d8d585bdbddb6e2cde450dd3fcd2f"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40147,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wTIGOx",
+      "tag": "Group2",
+      "tokenAddress": "0x41037ffa0305f555f1a5c9c6d27f1f73f00a1d67"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40148,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wGTMx",
+      "tag": "Group2",
+      "tokenAddress": "0x97bda73a92f2c08d3c54dde47c16e6ad3a193bf8"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40149,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wQXOx",
+      "tag": "Group2",
+      "tokenAddress": "0xdc3436782e028f89147da4dcab25b6fb222d6d11"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40150,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wSTx",
+      "tag": "Group2",
+      "tokenAddress": "0xcecd351ad42d6e8302d6fab161537ebdb683e5d9"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40151,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wONONx",
+      "tag": "Group2",
+      "tokenAddress": "0x84c06819b79de1fd8f1b215e11a5996eb0e09298"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40152,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wDOXx",
+      "tag": "Group2",
+      "tokenAddress": "0x209c660f0ff9504cbf3d09479b40a15bd0d526ea"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40153,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wJBSx",
+      "tag": "Group2",
+      "tokenAddress": "0xa6debc29f5e4fbc5d2604bec9c05b11fabce5ad0"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40154,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wSOLVx",
+      "tag": "Group2",
+      "tokenAddress": "0x7793de5863429a6a3efee34790331e812b49adb8"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40155,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wFOXAx",
+      "tag": "Group2",
+      "tokenAddress": "0xe5f81ce886fe131675003b79743354cc26c36ec2"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40156,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wGTMx",
+      "tag": "Group2",
+      "tokenAddress": "0x97bda73a92f2c08d3c54dde47c16e6ad3a193bf8"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40157,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wARKFx",
+      "tag": "Group2",
+      "tokenAddress": "0x18e516631d74108bd0559dc3649034b267a99906"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40158,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wWFRDx",
+      "tag": "Group2",
+      "tokenAddress": "0x8aedc9c89480b5b23f2b2641ab9fc9865bb7ae8f"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40159,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wARKFx",
+      "tag": "Group2",
+      "tokenAddress": "0x18e516631d74108bd0559dc3649034b267a99906"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40160,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wSTx",
+      "tag": "Group2",
+      "tokenAddress": "0xcecd351ad42d6e8302d6fab161537ebdb683e5d9"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40161,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wONONx",
+      "tag": "Group2",
+      "tokenAddress": "0x84c06819b79de1fd8f1b215e11a5996eb0e09298"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40162,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wDOXx",
+      "tag": "Group2",
+      "tokenAddress": "0x209c660f0ff9504cbf3d09479b40a15bd0d526ea"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40163,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wHONAx",
+      "tag": "Group2",
+      "tokenAddress": "0x53049e7c595240407af69c0df69d0022de036027"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40164,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wTIGOx",
+      "tag": "Group2",
+      "tokenAddress": "0x41037ffa0305f555f1a5c9c6d27f1f73f00a1d67"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40165,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wSWKSx",
+      "tag": "Group2",
+      "tokenAddress": "0x5145ca8d2ef57806eccdc1e0d08fb0fd00a4bacf"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40166,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wTIGOx",
+      "tag": "Group2",
+      "tokenAddress": "0x41037ffa0305f555f1a5c9c6d27f1f73f00a1d67"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40167,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wSTx",
+      "tag": "Group2",
+      "tokenAddress": "0xcecd351ad42d6e8302d6fab161537ebdb683e5d9"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40168,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wECHOx",
+      "tag": "Group2",
+      "tokenAddress": "0x462422d22678b6825754c542f5134ffa0ca1daf4"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40169,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wONONx",
+      "tag": "Group2",
+      "tokenAddress": "0x84c06819b79de1fd8f1b215e11a5996eb0e09298"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40170,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wDOXx",
+      "tag": "Group2",
+      "tokenAddress": "0x209c660f0ff9504cbf3d09479b40a15bd0d526ea"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40171,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wTECHx",
+      "tag": "Group2",
+      "tokenAddress": "0x83449be59e9d8d585bdbddb6e2cde450dd3fcd2f"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40172,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wGTMx",
+      "tag": "Group2",
+      "tokenAddress": "0x97bda73a92f2c08d3c54dde47c16e6ad3a193bf8"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 40173,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wAESx",
+      "tag": "Group2",
+      "tokenAddress": "0x846f300ab99e2d3cd755e9f3aca1b10cee1c9599"
+    },
+    {
+      "chainId": 57073,
+      "chainName": "Ink",
+      "id": 40174,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wAESx",
+      "tag": "Group2",
+      "tokenAddress": "0x846f300ab99e2d3cd755e9f3aca1b10cee1c9599"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 40175,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200365,
+      "symbol": "wCNHx",
+      "tag": "Group2",
+      "tokenAddress": "0x94464b7ceee027282a2ec9d826873c5c4b62381b"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40176,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wWFRDx",
+      "tag": "Group2",
+      "tokenAddress": "0x8aedc9c89480b5b23f2b2641ab9fc9865bb7ae8f"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40177,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wASNDx",
+      "tag": "Group2",
+      "tokenAddress": "0x844c9b2fe5a3dae0789928ac0f401ccdf66ec68d"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40178,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wSUNBx",
+      "tag": "Group2",
+      "tokenAddress": "0xd016f3f29eefed78e33755e048f1af834c31fe7c"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40179,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wJBSx",
+      "tag": "Group2",
+      "tokenAddress": "0xa6debc29f5e4fbc5d2604bec9c05b11fabce5ad0"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40180,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wJHXx",
+      "tag": "Group2",
+      "tokenAddress": "0xe5e99af1f8e717fafddc1268d6e8f3cb22b59b3c"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40181,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wJBSx",
+      "tag": "Group2",
+      "tokenAddress": "0xa6debc29f5e4fbc5d2604bec9c05b11fabce5ad0"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40182,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wDOXx",
+      "tag": "Group2",
+      "tokenAddress": "0x209c660f0ff9504cbf3d09479b40a15bd0d526ea"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40183,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wSWKSx",
+      "tag": "Group2",
+      "tokenAddress": "0x5145ca8d2ef57806eccdc1e0d08fb0fd00a4bacf"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40184,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wHONAx",
+      "tag": "Group2",
+      "tokenAddress": "0x53049e7c595240407af69c0df69d0022de036027"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40185,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wQXOx",
+      "tag": "Group2",
+      "tokenAddress": "0xdc3436782e028f89147da4dcab25b6fb222d6d11"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40186,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wWFRDx",
+      "tag": "Group2",
+      "tokenAddress": "0x8aedc9c89480b5b23f2b2641ab9fc9865bb7ae8f"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40187,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wCNHx",
+      "tag": "Group2",
+      "tokenAddress": "0x94464b7ceee027282a2ec9d826873c5c4b62381b"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40188,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wFOXAx",
+      "tag": "Group2",
+      "tokenAddress": "0xe5f81ce886fe131675003b79743354cc26c36ec2"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40189,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wARKFx",
+      "tag": "Group2",
+      "tokenAddress": "0x18e516631d74108bd0559dc3649034b267a99906"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40190,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wDDCx",
+      "tag": "Group2",
+      "tokenAddress": "0x3082667fcc4f34889c8c5b5bb4578227e405f8a7"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40191,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wTIGOx",
+      "tag": "Group2",
+      "tokenAddress": "0x41037ffa0305f555f1a5c9c6d27f1f73f00a1d67"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40192,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200369,
+      "symbol": "wJHXx",
+      "tag": "Group2",
+      "tokenAddress": "0xe5e99af1f8e717fafddc1268d6e8f3cb22b59b3c"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40193,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wAESx",
+      "tag": "Group2",
+      "tokenAddress": "0x846f300ab99e2d3cd755e9f3aca1b10cee1c9599"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40194,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wAESx",
+      "tag": "Group2",
+      "tokenAddress": "0x846f300ab99e2d3cd755e9f3aca1b10cee1c9599"
+    },
+    {
+      "chainId": 1,
+      "chainName": "ETH",
+      "id": 40195,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wAESx",
+      "tag": "Group2",
+      "tokenAddress": "0x846f300ab99e2d3cd755e9f3aca1b10cee1c9599"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40196,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wCOKEx",
+      "tag": "Group2",
+      "tokenAddress": "0x6725209c29c8437128b172108fec381b95b24c8e"
+    },
+    {
+      "chainId": 1,
+      "chainName": "ETH",
+      "id": 40197,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wJHXx",
+      "tag": "Group2",
+      "tokenAddress": "0xe5e99af1f8e717fafddc1268d6e8f3cb22b59b3c"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40198,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wCRLx",
+      "tag": "Group2",
+      "tokenAddress": "0xc154b6f6d1a4e3ba4bb7bf98004269ee1d7563ec"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40199,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wMOHx",
+      "tag": "Group2",
+      "tokenAddress": "0x4a7473cd2c1c283f7a9e1cfc43830a367b3728d4"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40200,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wAESx",
+      "tag": "Group2",
+      "tokenAddress": "0x846f300ab99e2d3cd755e9f3aca1b10cee1c9599"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40201,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wJHXx",
+      "tag": "Group2",
+      "tokenAddress": "0xe5e99af1f8e717fafddc1268d6e8f3cb22b59b3c"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40202,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wDDCx",
+      "tag": "Group2",
+      "tokenAddress": "0x3082667fcc4f34889c8c5b5bb4578227e405f8a7"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40203,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wCOKEx",
+      "tag": "Group2",
+      "tokenAddress": "0x6725209c29c8437128b172108fec381b95b24c8e"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40204,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wLHx",
+      "tag": "Group2",
+      "tokenAddress": "0x4a91cd9ad6bafe987a59f76965c29bab00ea68e2"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40205,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wCBCx",
+      "tag": "Group2",
+      "tokenAddress": "0xe37542285dace8e470261216da5e97bceb3e1f77"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40206,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wBIRKx",
+      "tag": "Group2",
+      "tokenAddress": "0xa14e5f0037798f08b663dcab7e592b2041ea10b2"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40207,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wNIQx",
+      "tag": "Group2",
+      "tokenAddress": "0x13a529a4557a48e5a166a3b40b8206a9dc81ae6c"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40208,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wAESx",
+      "tag": "Group2",
+      "tokenAddress": "0x846f300ab99e2d3cd755e9f3aca1b10cee1c9599"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40209,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wCBCx",
+      "tag": "Group2",
+      "tokenAddress": "0xe37542285dace8e470261216da5e97bceb3e1f77"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40210,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wASNDx",
+      "tag": "Group2",
+      "tokenAddress": "0x844c9b2fe5a3dae0789928ac0f401ccdf66ec68d"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40211,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wLHx",
+      "tag": "Group2",
+      "tokenAddress": "0x4a91cd9ad6bafe987a59f76965c29bab00ea68e2"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40212,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wCNHx",
+      "tag": "Group2",
+      "tokenAddress": "0x94464b7ceee027282a2ec9d826873c5c4b62381b"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40213,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wBIRKx",
+      "tag": "Group2",
+      "tokenAddress": "0xa14e5f0037798f08b663dcab7e592b2041ea10b2"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40214,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wSUNBx",
+      "tag": "Group2",
+      "tokenAddress": "0xd016f3f29eefed78e33755e048f1af834c31fe7c"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40215,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wSOLVx",
+      "tag": "Group2",
+      "tokenAddress": "0x7793de5863429a6a3efee34790331e812b49adb8"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40216,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wSUNBx",
+      "tag": "Group2",
+      "tokenAddress": "0xd016f3f29eefed78e33755e048f1af834c31fe7c"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40217,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wNIQx",
+      "tag": "Group2",
+      "tokenAddress": "0x13a529a4557a48e5a166a3b40b8206a9dc81ae6c"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40218,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wNIQx",
+      "tag": "Group2",
+      "tokenAddress": "0x13a529a4557a48e5a166a3b40b8206a9dc81ae6c"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40219,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wQXOx",
+      "tag": "Group2",
+      "tokenAddress": "0xdc3436782e028f89147da4dcab25b6fb222d6d11"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40220,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wLHx",
+      "tag": "Group2",
+      "tokenAddress": "0x4a91cd9ad6bafe987a59f76965c29bab00ea68e2"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40221,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wARKFx",
+      "tag": "Group2",
+      "tokenAddress": "0x18e516631d74108bd0559dc3649034b267a99906"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40222,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wBIRKx",
+      "tag": "Group2",
+      "tokenAddress": "0xa14e5f0037798f08b663dcab7e592b2041ea10b2"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40223,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wCOKEx",
+      "tag": "Group2",
+      "tokenAddress": "0x6725209c29c8437128b172108fec381b95b24c8e"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40224,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wJHXx",
+      "tag": "Group2",
+      "tokenAddress": "0xe5e99af1f8e717fafddc1268d6e8f3cb22b59b3c"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40225,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wCRLx",
+      "tag": "Group2",
+      "tokenAddress": "0xc154b6f6d1a4e3ba4bb7bf98004269ee1d7563ec"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40226,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wLHx",
+      "tag": "Group2",
+      "tokenAddress": "0x4a91cd9ad6bafe987a59f76965c29bab00ea68e2"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40227,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wHONAx",
+      "tag": "Group2",
+      "tokenAddress": "0x53049e7c595240407af69c0df69d0022de036027"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40228,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200371,
+      "symbol": "wMOHx",
+      "tag": "Group2",
+      "tokenAddress": "0x4a7473cd2c1c283f7a9e1cfc43830a367b3728d4"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40229,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200372,
+      "symbol": "wCOKEx",
+      "tag": "Group2",
+      "tokenAddress": "0x6725209c29c8437128b172108fec381b95b24c8e"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40230,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200372,
+      "symbol": "wCNHx",
+      "tag": "Group2",
+      "tokenAddress": "0x94464b7ceee027282a2ec9d826873c5c4b62381b"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40231,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200372,
+      "symbol": "wSUNBx",
+      "tag": "Group2",
+      "tokenAddress": "0xd016f3f29eefed78e33755e048f1af834c31fe7c"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40232,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200372,
+      "symbol": "wSWKSx",
+      "tag": "Group2",
+      "tokenAddress": "0x5145ca8d2ef57806eccdc1e0d08fb0fd00a4bacf"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40233,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200372,
+      "symbol": "wDDCx",
+      "tag": "Group2",
+      "tokenAddress": "0x3082667fcc4f34889c8c5b5bb4578227e405f8a7"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40234,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200372,
+      "symbol": "wASNDx",
+      "tag": "Group2",
+      "tokenAddress": "0x844c9b2fe5a3dae0789928ac0f401ccdf66ec68d"
+    },
+    {
+      "chainId": 5000,
+      "chainName": "Mantle",
+      "id": 40235,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200372,
+      "symbol": "wBIRKx",
+      "tag": "Group2",
+      "tokenAddress": "0xa14e5f0037798f08b663dcab7e592b2041ea10b2"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40236,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200372,
+      "symbol": "wFOXAx",
+      "tag": "Group2",
+      "tokenAddress": "0xe5f81ce886fe131675003b79743354cc26c36ec2"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40237,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200372,
+      "symbol": "wCBCx",
+      "tag": "Group2",
+      "tokenAddress": "0xe37542285dace8e470261216da5e97bceb3e1f77"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40238,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200372,
+      "symbol": "wASNDx",
+      "tag": "Group2",
+      "tokenAddress": "0x844c9b2fe5a3dae0789928ac0f401ccdf66ec68d"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40239,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200372,
+      "symbol": "wCNHx",
+      "tag": "Group2",
+      "tokenAddress": "0x94464b7ceee027282a2ec9d826873c5c4b62381b"
+    },
+    {
+      "chainId": 42161,
+      "chainName": "ARBITRUM",
+      "id": 40240,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200372,
+      "symbol": "wECHOx",
+      "tag": "Group2",
+      "tokenAddress": "0x462422d22678b6825754c542f5134ffa0ca1daf4"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40241,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200372,
+      "symbol": "wDDCx",
+      "tag": "Group2",
+      "tokenAddress": "0x3082667fcc4f34889c8c5b5bb4578227e405f8a7"
+    },
+    {
+      "chainId": 10,
+      "chainName": "OPTIMISM",
+      "id": 40242,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200372,
+      "symbol": "wWFRDx",
+      "tag": "Group2",
+      "tokenAddress": "0x8aedc9c89480b5b23f2b2641ab9fc9865bb7ae8f"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 40243,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200373,
+      "symbol": "V",
+      "tag": "Group2",
+      "tokenAddress": "0x9bff87700337babf5099e99f322f888dafb1d551"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 40244,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200373,
+      "symbol": "JPM",
+      "tag": "Group2",
+      "tokenAddress": "0x07c44da0848960bff894f17584db8b2f60b2409e"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 40245,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200373,
+      "symbol": "MCD",
+      "tag": "Group2",
+      "tokenAddress": "0x2fdaa4604f10f4ae7f66fa48a174bcd25b1ece20"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 40246,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200373,
+      "symbol": "GDX",
+      "tag": "Group2",
+      "tokenAddress": "0xbdfa7a06458aa26b8e736e0fc87ad37c3bb8ac2e"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 40247,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200373,
+      "symbol": "PYPL",
+      "tag": "Group2",
+      "tokenAddress": "0xa45abdc77918f7b9199b022eee400c0bc5712bd2"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 40248,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200373,
+      "symbol": "BMNR",
+      "tag": "Group2",
+      "tokenAddress": "0x9a7842eded60b0fe1e03eec342c82a397c821ed0"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 40249,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200373,
+      "symbol": "UBER",
+      "tag": "Group2",
+      "tokenAddress": "0xbd335aa5a1693f0121a5c0ef18a080e9958da78b"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 40250,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793200373,
+      "symbol": "DIS",
+      "tag": "Group2",
+      "tokenAddress": "0x501b1b3b79750313ad2c4cccd08586c4c17d7283"
     }
   ]
 }
