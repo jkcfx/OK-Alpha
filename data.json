@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793157844,
+  "lastUpdated": 1793182521,
   "tokens": [
     {
       "chainId": 1,
@@ -285820,6 +285820,76 @@
       "symbol": "COMPc",
       "tag": "Group2",
       "tokenAddress": "0xb200000000000000000000a1d16a625a68f38811"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 40119,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793160380,
+      "symbol": "CAKE",
+      "tag": "Group2",
+      "tokenAddress": "CAKEcebDN4vqwAHBgj4ApzBvYCXsLWdsqCfFHNfW6Rui"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40120,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793166863,
+      "symbol": "GEVB",
+      "tag": "Group2",
+      "tokenAddress": "0x5eadd95a428bc66698620c093eddd8a4b3165269"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40121,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793166863,
+      "symbol": "APPB",
+      "tag": "Group2",
+      "tokenAddress": "0x15ec59551096d5ae2df8cde08618035145828548"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40122,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793166863,
+      "symbol": "",
+      "tag": "Group2",
+      "tokenAddress": "0xc895d166fe59841dc71003f80d7ef2f030f40a4be"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40123,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793166863,
+      "symbol": "SKDDB",
+      "tag": "Group2",
+      "tokenAddress": "0x515f386fc664980db2ab30c574ec210983232493"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40124,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793166863,
+      "symbol": "SKUUB",
+      "tag": "Group2",
+      "tokenAddress": "0x97e8cfe35467d7ad6ed672d519e466200fb394d0"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 40125,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793176294,
+      "symbol": "BSPB",
+      "tag": "Group2",
+      "tokenAddress": "0xc895d166fe59841dc71003f80d7ef2f00f40a4be"
     }
   ]
 }
