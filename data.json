@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793296382,
+  "lastUpdated": 1793317533,
   "tokens": [
     {
       "chainId": 1,
@@ -3606,8 +3606,8 @@
       "chainName": "Base",
       "id": 1872,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146300,
-      "symbol": "CADC",
+      "lastModifiedTime": 1793316601,
+      "symbol": "cadc",
       "tag": "Group1",
       "tokenAddress": "0x043eb4b75d0805c43d7c834902e335621983cf03"
     },
@@ -4836,8 +4836,8 @@
       "chainName": "POLYGON",
       "id": 1995,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146300,
-      "symbol": "CADC",
+      "lastModifiedTime": 1793316601,
+      "symbol": "cadc",
       "tag": "Group1",
       "tokenAddress": "0x9de41aff9f55219d5bf4359f167d1d0c772a396d"
     },
@@ -5756,8 +5756,8 @@
       "chainName": "ETH",
       "id": 2090,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146301,
-      "symbol": "CADC",
+      "lastModifiedTime": 1793316601,
+      "symbol": "cadc",
       "tag": "Group1",
       "tokenAddress": "0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef"
     },
@@ -6366,8 +6366,8 @@
       "chainName": "ARBITRUM",
       "id": 2154,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146301,
-      "symbol": "CADC",
+      "lastModifiedTime": 1793316601,
+      "symbol": "cadc",
       "tag": "Group1",
       "tokenAddress": "0x2b28e826b55e399f4d4699b85f68666ac51e6f70"
     },
