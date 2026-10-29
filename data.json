@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793245662,
+  "lastUpdated": 1793270313,
   "tokens": [
     {
       "chainId": 1,
@@ -288500,6 +288500,16 @@
       "symbol": "MVISc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000001bcf8e5022d7f61919"
+    },
+    {
+      "chainId": 1,
+      "chainName": "ETH",
+      "id": 40387,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793264714,
+      "symbol": "PAXGy",
+      "tag": "Group2",
+      "tokenAddress": "0x6c6494fd9962eb98b94ffa48f6679058f820700e"
     }
   ]
 }
