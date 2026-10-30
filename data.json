@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793317533,
+  "lastUpdated": 1793332271,
   "tokens": [
     {
       "chainId": 1,
@@ -3606,8 +3606,8 @@
       "chainName": "Base",
       "id": 1872,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1793316601,
-      "symbol": "cadc",
+      "lastModifiedTime": 1793320201,
+      "symbol": "CADC",
       "tag": "Group1",
       "tokenAddress": "0x043eb4b75d0805c43d7c834902e335621983cf03"
     },
