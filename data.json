@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793504430,
+  "lastUpdated": 1793530680,
   "tokens": [
     {
       "chainId": 1,
@@ -4836,8 +4836,8 @@
       "chainName": "POLYGON",
       "id": 1995,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1793316601,
-      "symbol": "cadc",
+      "lastModifiedTime": 1793514601,
+      "symbol": "CADC",
       "tag": "Group1",
       "tokenAddress": "0x9de41aff9f55219d5bf4359f167d1d0c772a396d"
     },
@@ -5756,8 +5756,8 @@
       "chainName": "ETH",
       "id": 2090,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1793316601,
-      "symbol": "cadc",
+      "lastModifiedTime": 1793511001,
+      "symbol": "CADC",
       "tag": "Group1",
       "tokenAddress": "0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef"
     },
