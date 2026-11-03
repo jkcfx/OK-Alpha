@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793654058,
+  "lastUpdated": 1793681410,
   "tokens": [
     {
       "chainId": 1,
@@ -289750,6 +289750,66 @@
       "symbol": "wCYPHx",
       "tag": "Group2",
       "tokenAddress": "0x94c72200eae696769727f53ed245cbf14a1a1086"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40512,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793672635,
+      "symbol": "OKTAc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000002570652530a5e0f771"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40513,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793672635,
+      "symbol": "AMATc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000009c1a6794874ddab197"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40514,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793672635,
+      "symbol": "DDOGc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000002c99976e240ed773e6"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 40515,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793674464,
+      "symbol": "SPY",
+      "tag": "Group2",
+      "tokenAddress": "SPYBo66VJPFjh1pXMb9Le53kDYWTK1zzYVDeVRWtsbi"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 40516,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793674476,
+      "symbol": "v4MSTR",
+      "tag": "Group2",
+      "tokenAddress": "0xe1218f57c5fe7d11088ac4682781906f3c4b0bff"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 40517,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793674476,
+      "symbol": "v4BTGO",
+      "tag": "Group2",
+      "tokenAddress": "0xd5cf2ce52694249cff1741c0ce7ebc3f7c0c4c3b"
     }
   ]
 }
