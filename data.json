@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793853249,
+  "lastUpdated": 1793894379,
   "tokens": [
     {
       "chainId": 1,
@@ -294160,6 +294160,76 @@
       "symbol": "cscoc",
       "tag": "Group2",
       "tokenAddress": "0xb20000000000000000000015776ea82655c4f034"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 40953,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793858879,
+      "symbol": "HOOD",
+      "tag": "Group2",
+      "tokenAddress": "0x698dcbee5842775c55b2d8f73882042ad878335e"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 40954,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793858879,
+      "symbol": "v4HOOD",
+      "tag": "Group2",
+      "tokenAddress": "0xc0d57d1e0a12c74d7416b1895f5eaa087f43c5b3"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 40955,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793858879,
+      "symbol": "COIN",
+      "tag": "Group2",
+      "tokenAddress": "0xf48722ba326d0888a2954c28ebeddd02c14f86d6"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 40956,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793858879,
+      "symbol": "v4COIN",
+      "tag": "Group2",
+      "tokenAddress": "0xbd26a1683e8d7159aac52f875247e1d80dc3b5af"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 40957,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793858879,
+      "symbol": "CRCL",
+      "tag": "Group2",
+      "tokenAddress": "0x76163273f8bae6570ba3bb202044129a98e98f16"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 40958,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793858879,
+      "symbol": "v4CRCL",
+      "tag": "Group2",
+      "tokenAddress": "0xd4f64a67b2c1295bd6c25b3a306b2a049e392397"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 40959,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1793858879,
+      "symbol": "v4SECZ",
+      "tag": "Group2",
+      "tokenAddress": "0xc71874b5ee1fb75ee21228981e818375920b7516"
     }
   ]
 }
