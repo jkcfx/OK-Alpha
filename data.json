@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794196651,
+  "lastUpdated": 1794227226,
   "tokens": [
     {
       "chainId": 1,
@@ -294290,6 +294290,56 @@
       "symbol": "BIG5on",
       "tag": "Group2",
       "tokenAddress": "0xba4530bf12ee2741154685d857b99fee2b9b538b"
+    },
+    {
+      "chainId": 99901,
+      "chainName": "Elysium",
+      "id": 40966,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794211684,
+      "symbol": "HYPE",
+      "tag": "Group1",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+      "chainId": 99901,
+      "chainName": "Elysium",
+      "id": 40967,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794211684,
+      "symbol": "WHYPE",
+      "tag": "Group1",
+      "tokenAddress": "0xbA876237B0F021A6c6D852d6c26E107997cC5E81"
+    },
+    {
+      "chainId": 99901,
+      "chainName": "Elysium",
+      "id": 40968,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794211684,
+      "symbol": "USDC",
+      "tag": "Group1",
+      "tokenAddress": "0xb47c4C8F73F009CC0C0d3f92B388d13E293F0B65"
+    },
+    {
+      "chainId": 99901,
+      "chainName": "Elysium",
+      "id": 40969,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794211684,
+      "symbol": "KNTQ",
+      "tag": "Group1",
+      "tokenAddress": "0xe45a355d9e9cad2ad85f2d03e3ee3102a036acf0"
+    },
+    {
+      "chainId": 70000080,
+      "chainName": "HYPE",
+      "id": 40970,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794211684,
+      "symbol": "KNTQ",
+      "tag": "Group1",
+      "tokenAddress": "0x000000000000780555bd0bca3791f89f9542c2d6"
     }
   ]
 }
