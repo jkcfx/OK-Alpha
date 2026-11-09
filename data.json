@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794227226,
+  "lastUpdated": 1794268620,
   "tokens": [
     {
       "chainId": 1,
@@ -288577,7 +288577,7 @@
       "id": 40394,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1793333232,
-      "symbol": "aalc",
+      "symbol": "AALc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000004feb8d277dd14b08bb"
     },
