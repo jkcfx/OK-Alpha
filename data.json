@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794268620,
+  "lastUpdated": 1794288678,
   "tokens": [
     {
       "chainId": 1,
@@ -294340,6 +294340,156 @@
       "symbol": "KNTQ",
       "tag": "Group1",
       "tokenAddress": "0x000000000000780555bd0bca3791f89f9542c2d6"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40971,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276997,
+      "symbol": "vpgc",
+      "tag": "Group2",
+      "tokenAddress": "0xb20000000000000000000051b531471096c5caf6"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40972,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276997,
+      "symbol": "rokc",
+      "tag": "Group2",
+      "tokenAddress": "0xb200000000000000000000252c42b75f49dacf59"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40973,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276997,
+      "symbol": "tkrc",
+      "tag": "Group2",
+      "tokenAddress": "0xb20000000000000000000049b9fc3b3c8c9402ff"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40974,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276997,
+      "symbol": "DELLc",
+      "tag": "Group2",
+      "tokenAddress": "0xb20000000000000000000050fe6d1ef35b02e8fd"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40975,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276997,
+      "symbol": "asstc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000002cd78d7c981e97c330"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40976,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276997,
+      "symbol": "alntc",
+      "tag": "Group2",
+      "tokenAddress": "0xb20000000000000000000011eea811eaedb29156"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40977,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276997,
+      "symbol": "qbtsc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000000d46361d597f543d06"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40978,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276997,
+      "symbol": "rrc",
+      "tag": "Group2",
+      "tokenAddress": "0xb20000000000000000000020790305a981e88a67"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40979,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276997,
+      "symbol": "amkrc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000002c8b0e3d7ff26f81a0"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40980,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276997,
+      "symbol": "figc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000003fa80315bfd87efed8"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40981,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276997,
+      "symbol": "servc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000001a114de6d32433f3c0"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40982,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276997,
+      "symbol": "symc",
+      "tag": "Group2",
+      "tokenAddress": "0xb20000000000000000000047984ecae84db5fcf9"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40983,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276997,
+      "symbol": "cgnxc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000002451af655ae942308d"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 40984,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276997,
+      "symbol": "isrgc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000002f7bd112b645574214"
+    },
+    {
+      "chainId": 196,
+      "chainName": "X Layer",
+      "id": 40985,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794276998,
+      "symbol": "SPCX",
+      "tag": "Group2",
+      "tokenAddress": "0x37ee22fc9b107144ce286924a359d3042f558d0f"
     }
   ]
 }
