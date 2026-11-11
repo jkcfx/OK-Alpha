@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794369681,
+  "lastUpdated": 1794397596,
   "tokens": [
     {
       "chainId": 1,
@@ -294600,6 +294600,36 @@
       "symbol": "4GLDx",
       "tag": "Group2",
       "tokenAddress": "0x40f73ded22a642b3e5266f44124535898db012f1"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 40997,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794385900,
+      "symbol": "QQQ",
+      "tag": "Group2",
+      "tokenAddress": "QQQvDYxG7g11Rr4rnaJqDddmP9ocH74YhE3mDaG37R9"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 40998,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794385900,
+      "symbol": "MNST",
+      "tag": "Group2",
+      "tokenAddress": "MNSTy46haEN7sEaeXAWBXG6zHaRikCvqf3krAEDzxr2"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 40999,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794385900,
+      "symbol": "OPNW",
+      "tag": "Group2",
+      "tokenAddress": "oPNWKYTYJyEs2RbpjUXfCTxrNtiTjTcz3ipvUvBBAH2"
     }
   ]
 }
