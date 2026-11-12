@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794448018,
+  "lastUpdated": 1794485001,
   "tokens": [
     {
       "chainId": 1,
@@ -6086,8 +6086,8 @@
       "chainName": "ETH",
       "id": 2124,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146301,
-      "symbol": "DUSD",
+      "lastModifiedTime": 1794484801,
+      "symbol": "***",
       "tag": "Group1",
       "tokenAddress": "0xa48f322f8b3edff967629af79e027628b9dd1298"
     },
