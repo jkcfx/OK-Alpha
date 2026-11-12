@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794423996,
+  "lastUpdated": 1794448018,
   "tokens": [
     {
       "chainId": 1,
@@ -288557,7 +288557,7 @@
       "id": 40392,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1793333232,
-      "symbol": "bxc",
+      "symbol": "BXc",
       "tag": "Group2",
       "tokenAddress": "0xb200000000000000000000645c1ec509e4261682"
     },
@@ -288587,7 +288587,7 @@
       "id": 40395,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1793333232,
-      "symbol": "snowc",
+      "symbol": "SNOWc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000004acdc9a922fcfbcc7f"
     },
@@ -294017,7 +294017,7 @@
       "id": 40938,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1793761515,
-      "symbol": "vc",
+      "symbol": "Vc",
       "tag": "Group2",
       "tokenAddress": "0xb20000000000000000000054b11fd279a4f7d4ef"
     },
@@ -294047,7 +294047,7 @@
       "id": 40941,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1793761515,
-      "symbol": "adbec",
+      "symbol": "ADBEc",
       "tag": "Group2",
       "tokenAddress": "0xb20000000000000000000034533ed3961f222cd4"
     },
@@ -294117,7 +294117,7 @@
       "id": 40948,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1793761515,
-      "symbol": "cvxc",
+      "symbol": "CVXc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000003bf350e420c13e431a"
     },
