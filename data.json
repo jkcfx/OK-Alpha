@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794544134,
+  "lastUpdated": 1794585046,
   "tokens": [
     {
       "chainId": 1,
@@ -294630,6 +294630,16 @@
       "symbol": "OPNW",
       "tag": "Group2",
       "tokenAddress": "oPNWKYTYJyEs2RbpjUXfCTxrNtiTjTcz3ipvUvBBAH2"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 41000,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794551918,
+      "symbol": "tgtxc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000003a67b9f116f25513d6"
     }
   ]
 }
