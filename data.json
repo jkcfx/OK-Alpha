@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794775381,
+  "lastUpdated": 1794802114,
   "tokens": [
     {
       "chainId": 1,
@@ -294740,6 +294740,16 @@
       "symbol": "itc",
       "tag": "Group2",
       "tokenAddress": "0xb20000000000000000000042cbbae483635c3774"
+    },
+    {
+      "chainId": 501,
+      "chainName": "SOLANA",
+      "id": 41011,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794794775,
+      "symbol": "TKO",
+      "tag": "Group2",
+      "tokenAddress": "TKVC45Wshi9sjunhyTAyg7xHRVCSHoSe4AebGiFDkDC"
     }
   ]
 }
