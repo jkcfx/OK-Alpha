@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794919292,
+  "lastUpdated": 1794957442,
   "tokens": [
     {
       "chainId": 1,
@@ -288547,7 +288547,7 @@
       "id": 40391,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1793333232,
-      "symbol": "crmc",
+      "symbol": "CRMc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000006432a3a7991e718dbb"
     },
@@ -294077,7 +294077,7 @@
       "id": 40944,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1793761515,
-      "symbol": "mrkc",
+      "symbol": "MRKc",
       "tag": "Group2",
       "tokenAddress": "0xb200000000000000000000241fe94fe97fcbf034"
     },
@@ -294097,7 +294097,7 @@
       "id": 40946,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1793761515,
-      "symbol": "mpc",
+      "symbol": "MPc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000003958003d801724f9d3"
     },
