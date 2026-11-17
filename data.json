@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794883459,
+  "lastUpdated": 1794919292,
   "tokens": [
     {
       "chainId": 1,
@@ -4886,8 +4886,8 @@
       "chainName": "ETH",
       "id": 2000,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1764146300,
-      "symbol": "aUSD₮",
+      "lastModifiedTime": 1794886201,
+      "symbol": "***",
       "tag": "Group1",
       "tokenAddress": "0x9eead9ce15383caeed975427340b3a369410cfbf"
     },
@@ -294037,7 +294037,7 @@
       "id": 40940,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1793761515,
-      "symbol": "qcomc",
+      "symbol": "QCOMc",
       "tag": "Group2",
       "tokenAddress": "0xb2000000000000000000005672d78eff30d24665"
     },
@@ -294087,7 +294087,7 @@
       "id": 40945,
       "lastModifiedBy": "admin",
       "lastModifiedTime": 1793761515,
-      "symbol": "lrcxc",
+      "symbol": "LRCXc",
       "tag": "Group2",
       "tokenAddress": "0xb20000000000000000000034975347ff1848aab9"
     },
