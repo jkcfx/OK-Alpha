@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794979583,
+  "lastUpdated": 1795020770,
   "tokens": [
     {
       "chainId": 1,
@@ -294810,6 +294810,76 @@
       "symbol": "ANETc",
       "tag": "Group2",
       "tokenAddress": "0xb200000000000000000000e71d4e45d1421251cb"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 41018,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794997863,
+      "symbol": "NUB",
+      "tag": "Group2",
+      "tokenAddress": "0x3cf7b2b634bac8c5e977e1576d79ea667e62f31c"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 41019,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794997863,
+      "symbol": "EWJB",
+      "tag": "Group2",
+      "tokenAddress": "0x26e32dab9f844d7256db4195b3a43750272a51e9"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 41020,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794997863,
+      "symbol": "EWZSB",
+      "tag": "Group2",
+      "tokenAddress": "0xc5a784b9bc0d9c526a1ef582c107ab2ff1c8fe14"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 41021,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794997863,
+      "symbol": "EWTB",
+      "tag": "Group2",
+      "tokenAddress": "0x24824404bb9577697d11a07a5d88341191de6578"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 41022,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794997863,
+      "symbol": "IWMB",
+      "tag": "Group2",
+      "tokenAddress": "0x5e0ec7c48f2da6d8db1a2c95d71c535bf8a77c41"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 41023,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794997863,
+      "symbol": "EWZB",
+      "tag": "Group2",
+      "tokenAddress": "0xb17d6ec90fd85315cd1bbcd330c3ebb07dcc822d"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 41024,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1794997863,
+      "symbol": "MELIB",
+      "tag": "Group2",
+      "tokenAddress": "0xe1fc8b12eeda0b7f8ed1330477ba330d3b5afbc9"
     }
   ]
 }
