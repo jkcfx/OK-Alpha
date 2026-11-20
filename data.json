@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795151358,
+  "lastUpdated": 1795192468,
   "tokens": [
     {
       "chainId": 1,
@@ -295310,6 +295310,16 @@
       "symbol": "FBEQon",
       "tag": "Group2",
       "tokenAddress": "0x2429a99b26630f3b71799ecc8d007390cae95273"
+    },
+    {
+      "chainId": 4663,
+      "chainName": "Robinhood",
+      "id": 41068,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1795179397,
+      "symbol": "TTEQ",
+      "tag": "Group2",
+      "tokenAddress": "0x80e10255a83b257f5a8674d363f547842aa53b8e"
     }
   ]
 }
