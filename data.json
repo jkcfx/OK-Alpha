@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795614459,
+  "lastUpdated": 1795651079,
   "tokens": [
     {
       "chainId": 1,
@@ -1606,8 +1606,8 @@
       "chainName": "ETH",
       "id": 1565,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1795505401,
-      "symbol": "***",
+      "lastModifiedTime": 1795618801,
+      "symbol": "bUSD0",
       "tag": "Group1",
       "tokenAddress": "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0"
     },
@@ -2636,8 +2636,8 @@
       "chainName": "SOLANA",
       "id": 1669,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1795557601,
-      "symbol": "***",
+      "lastModifiedTime": 1795631401,
+      "symbol": "ZUSD",
       "tag": "Group1",
       "tokenAddress": "FrBfWJ4qE5sCzKm3k3JaAtqZcXUh4LvJygDeketsrsH4"
     },
@@ -3586,8 +3586,8 @@
       "chainName": "SOLANA",
       "id": 1870,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1795507201,
-      "symbol": "***",
+      "lastModifiedTime": 1795622402,
+      "symbol": "DUSD",
       "tag": "Group1",
       "tokenAddress": "DUSDt4AeLZHWYmcXnVGYdgAzjtzU5mXUVnTMdnSzAttM"
     },
@@ -305280,6 +305280,16 @@
       "symbol": "FRHCB",
       "tag": "Group2",
       "tokenAddress": "0x091d185e0702131a3047beb6460454f43d667e80"
+    },
+    {
+      "chainId": 70000080,
+      "chainName": "HYPE",
+      "id": 42065,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1795621994,
+      "symbol": "wSTRKx",
+      "tag": "Group2",
+      "tokenAddress": "0xe4ef71da972781c0d2568f207021edeea7a97e84"
     }
   ]
 }
