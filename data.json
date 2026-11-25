@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795576638,
+  "lastUpdated": 1795614459,
   "tokens": [
     {
       "chainId": 1,
@@ -305260,6 +305260,26 @@
       "symbol": "ZBRAc",
       "tag": "Group2",
       "tokenAddress": "0xb200000000000000000000e2c4cb0f18b68cc776"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 42063,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1795578472,
+      "symbol": "SOXXB",
+      "tag": "Group2",
+      "tokenAddress": "0xcd1e9a6d7416674347c44e7a95b1f5954540fffd"
+    },
+    {
+      "chainId": 56,
+      "chainName": "BSC",
+      "id": 42064,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1795578472,
+      "symbol": "FRHCB",
+      "tag": "Group2",
+      "tokenAddress": "0x091d185e0702131a3047beb6460454f43d667e80"
     }
   ]
 }
