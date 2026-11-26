@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795674457,
+  "lastUpdated": 1795716098,
   "tokens": [
     {
       "chainId": 1,
@@ -2636,8 +2636,8 @@
       "chainName": "SOLANA",
       "id": 1669,
       "lastModifiedBy": "admin",
-      "lastModifiedTime": 1795631401,
-      "symbol": "ZUSD",
+      "lastModifiedTime": 1795692601,
+      "symbol": "***",
       "tag": "Group1",
       "tokenAddress": "FrBfWJ4qE5sCzKm3k3JaAtqZcXUh4LvJygDeketsrsH4"
     },
@@ -305720,6 +305720,16 @@
       "symbol": "IGVB",
       "tag": "Group2",
       "tokenAddress": "0x3f9550a5355e11c4c4e24a82e47b53a4a5d1e17d"
+    },
+    {
+      "chainId": 8453,
+      "chainName": "Base",
+      "id": 42109,
+      "lastModifiedBy": "admin",
+      "lastModifiedTime": 1795674795,
+      "symbol": "BNCc",
+      "tag": "Group2",
+      "tokenAddress": "0xb2000000000000000000008c1bad82fa061f818a"
     }
   ]
 }
